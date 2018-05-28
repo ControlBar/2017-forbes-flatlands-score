@@ -1,0 +1,5945 @@
+pilotsAtEss:
+- 32
+- 0
+- 47
+- 38
+- 51
+- 51
+raceTime:
+- openTask: 2016-12-31T01:00:00Z
+  closeTask: 2016-12-31T12:00:00Z
+  firstStart: 2016-12-31T03:29:28Z
+  firstLead: 2016-12-31T03:29:28Z
+  lastArrival: 2016-12-31T07:22:24Z
+  leadArrival: 13976
+  leadClose: 30632
+  openClose: 39600
+  tickClose: 30632
+- openTask: 2017-01-02T03:30:00Z
+  closeTask: 2017-01-02T09:00:00Z
+  firstStart: 2017-01-02T03:16:53Z
+  firstLead: 2017-01-02T03:16:53Z
+  lastArrival: null
+  leadArrival: null
+  leadClose: 20587
+  openClose: 19800
+  tickClose: 20587
+- openTask: 2017-01-03T03:15:00Z
+  closeTask: 2017-01-03T11:00:00Z
+  firstStart: 2017-01-03T03:15:37Z
+  firstLead: 2017-01-03T03:15:37Z
+  lastArrival: 2017-01-03T08:27:33Z
+  leadArrival: 18716
+  leadClose: 27863
+  openClose: 27900
+  tickClose: 27863
+- openTask: 2017-01-04T03:00:00Z
+  closeTask: 2017-01-04T09:00:00Z
+  firstStart: 2017-01-04T02:59:38Z
+  firstLead: 2017-01-04T02:59:38Z
+  lastArrival: 2017-01-04T08:34:15Z
+  leadArrival: 20077
+  leadClose: 21622
+  openClose: 21600
+  tickClose: 21622
+- openTask: 2017-01-05T02:30:00Z
+  closeTask: 2017-01-05T09:00:00Z
+  firstStart: 2017-01-05T02:34:23Z
+  firstLead: 2017-01-05T02:34:23Z
+  lastArrival: 2017-01-05T08:15:42Z
+  leadArrival: 20479
+  leadClose: 23137
+  openClose: 23400
+  tickClose: 23137
+- openTask: 2017-01-06T02:30:00Z
+  closeTask: 2017-01-06T09:00:00Z
+  firstStart: 2017-01-06T02:30:54Z
+  firstLead: 2017-01-06T02:30:54Z
+  lastArrival: 2017-01-06T08:31:51Z
+  leadArrival: 21657
+  leadClose: 23346
+  openClose: 23400
+  tickClose: 23346
+bestTime:
+- 2.2225 h
+- null
+- 2.748333 h
+- 3.873333 h
+- 2.824444 h
+- 3.343888 h
+taskDistance:
+- 139.738642
+- 164.732724
+- 156.254318
+- 216.33867
+- 143.004062
+- 227.319047
+bestDistance:
+- 139.738642
+- 152.780724
+- 156.254318
+- 216.33867
+- 143.004062
+- 227.319047
+sumDistance:
+- 7027.626014
+- null
+- 8108.814624000001
+- 11737.146229999998
+- 8109.589968
+- 12877.507149000001
+minLead:
+- 2.04e-6
+- 1.6e-7
+- 2.87e-6
+- 2.79e-6
+- 2.01e-6
+- 2.65e-6
+lead:
+- - - Mikhail Karmazin
+    - coef: 2.04e-6
+      frac: 1
+  - - Jonas Lobitz
+    - coef: 2.11e-6
+      frac: 0.99867203
+  - - Steve Blenkinsop
+    - coef: 2.13e-6
+      frac: 0.99852275
+  - - Nils Vesk
+    - coef: 2.13e-6
+      frac: 0.99842995
+  - - Lukas Bader
+    - coef: 2.14e-6
+      frac: 0.99836887
+  - - Tyler Borrdaile
+    - coef: 2.14e-6
+      frac: 0.99832299
+  - - Tony Armstrong
+    - coef: 2.15e-6
+      frac: 0.99821766
+  - - John Smith
+    - coef: 2.18e-6
+      frac: 0.99797202
+  - - Takeshi Yokoyama
+    - coef: 2.21e-6
+      frac: 0.99760031
+  - - Yasuhiro Noma
+    - coef: 2.23e-6
+      frac: 0.99748545
+  - - Steve Docherty
+    - coef: 2.23e-6
+      frac: 0.99745434
+  - - Adam Stevens
+    - coef: 2.25e-6
+      frac: 0.99729838
+  - - Bruce Wynne
+    - coef: 2.57e-6
+      frac: 0.99489299
+  - - Sergei Sukleta
+    - coef: 2.79e-6
+      frac: 0.99353418
+  - - Craig Taylor
+    - coef: 2.84e-6
+      frac: 0.99326056
+  - - Jason Kath
+    - coef: 2.87e-6
+      frac: 0.99306703
+  - - Grant Heaney
+    - coef: 2.94e-6
+      frac: 0.99271276
+  - - Kodaka Fumio
+    - coef: 2.96e-6
+      frac: 0.99257148
+  - - Josh Woods
+    - coef: 2.98e-6
+      frac: 0.99249382
+  - - Michael Jackson
+    - coef: 2.98e-6
+      frac: 0.99247834
+  - - Guy Hubbard
+    - coef: 3.04e-6
+      frac: 0.9921788
+  - - Jonny Durand
+    - coef: 3.07e-6
+      frac: 0.99200626
+  - - Attila Bertok
+    - coef: 3.07e-6
+      frac: 0.99200001
+  - - Gerolf Heinrichs
+    - coef: 3.07e-6
+      frac: 0.99197546
+  - - Tullio Gervasoni
+    - coef: 3.11e-6
+      frac: 0.99179055
+  - - Rory Duncan
+    - coef: 3.13e-6
+      frac: 0.99167028
+  - - Gavin Myers
+    - coef: 3.13e-6
+      frac: 0.99166292
+  - - Glen Mcfarlane
+    - coef: 3.56e-6
+      frac: 0.98962367
+  - - Christian Voiblet
+    - coef: 3.57e-6
+      frac: 0.98959118
+  - - Filippo Oppici
+    - coef: 3.57e-6
+      frac: 0.98958558
+  - - Andre Wolf
+    - coef: 3.57e-6
+      frac: 0.9895488
+  - - Harrison Rowntree
+    - coef: 3.58e-6
+      frac: 0.98951767
+  - - Noel Collins
+    - coef: 145449.29417927
+      frac: 0
+  - - Olav Lien Olsen
+    - coef: 263853.25340274
+      frac: 0
+  - - Ryosuke Hattori
+    - coef: 775078.33858694
+      frac: 0
+  - - Tony Giammichele
+    - coef: 3101978.84630625
+      frac: 0
+  - - Kato Minoru
+    - coef: 3878185.76086617
+      frac: 0
+  - - Ito Manabu
+    - coef: 4620257.69302773
+      frac: 0
+  - - Jon Durand Snr
+    - coef: 5883732.81622603
+      frac: 0
+  - - Olav Opsanger
+    - coef: 6378335.69954602
+      frac: 0
+  - - Niki Longshore
+    - coef: 6792117.36000336
+      frac: 0
+  - - Anatoly Reyter
+    - coef: 7946530.33340282
+      frac: 0
+  - - Vic Hare
+    - coef: 8165975.32198612
+      frac: 0
+  - - Andrew Barnes
+    - coef: 8303709.37500291
+      frac: 0
+  - - Peter Burkitt
+    - coef: 9775426.67458653
+      frac: 0
+  - - Sasha Serebrennikova
+    - coef: 9845039.34165812
+      frac: 0
+  - - Akira Nagusa
+    - coef: 9876222.70466602
+      frac: 0
+  - - Viv Clements
+    - coef: 1.193119273942609e7
+      frac: 0
+  - - Derek Mckee
+    - coef: 1.199661830870649e7
+      frac: 0
+  - - Len Paton
+    - coef: 1.403902667273923e7
+      frac: 0
+  - - Rohan Taylor
+    - coef: 2.123025153500173e7
+      frac: 0
+  - - Longfei Yang
+    - coef: 3.376068358074064e7
+      frac: 0
+  - - Gijs Wanders
+    - coef: 3.78783645536023e7
+      frac: 0
+  - - Rob Larkin
+    - coef: 3.86373681442189e7
+      frac: 0
+  - - Dick Heffer
+    - coef: 3.957625562889863e7
+      frac: 0
+  - - Gordon Rigg
+    - coef: 4.540165116761804e7
+      frac: 0
+  - - Trent Brown
+    - coef: 5.477208940630605e7
+      frac: 0
+  - - Nariyuki Watabe
+    - coef: 5.895960643637854e7
+      frac: 0
+  - - Brad Porter
+    - coef: 6.580693464213936e7
+      frac: 0
+  - - Don Cramer
+    - coef: 6.614878827298542e7
+      frac: 0
+  - - Yoko Isomoto
+    - coef: 9.183696466774504e7
+      frac: 0
+  - - Les Bestt
+    - coef: 1.1594647373666562e8
+      frac: 0
+  - - Mark Alton
+    - coef: 1.1815146915740112e8
+      frac: 0
+  - - Dale Regehr
+    - coef: 1.5868901402402488e8
+      frac: 0
+  - - Neale Halsall
+    - coef: 1.6940182453340055e8
+      frac: 0
+  - - Rob de Groot
+    - coef: 1.9596642064034447e8
+      frac: 0
+  - - Hossain Tefaili
+    - coef: 2.33690145114456e8
+      frac: 0
+- - - Kodaka Fumio
+    - coef: 1.6e-7
+      frac: 1
+  - - Anatoly Reyter
+    - coef: 2.9e-7
+      frac: 0.99554768
+  - - Mark Alton
+    - coef: 3.0e-7
+      frac: 0.99525599
+  - - Rob Larkin
+    - coef: 5.2e-7
+      frac: 0.99101621
+  - - Les Bestt
+    - coef: 7.5e-7
+      frac: 0.98738512
+  - - Neale Halsall
+    - coef: 9.3e-7
+      frac: 0.98494757
+  - - Dale Regehr
+    - coef: 1.17e-6
+      frac: 0.98180905
+  - - Howard Jones
+    - coef: 1.37e-6
+      frac: 0.9795464
+  - - Olav Lien Olsen
+    - coef: 1.46e-6
+      frac: 0.97854265
+  - - Akira Nagusa
+    - coef: 1.52e-6
+      frac: 0.97792007
+  - - Sergei Sukleta
+    - coef: 1.76e-6
+      frac: 0.97535718
+  - - Don Cramer
+    - coef: 1.78e-6
+      frac: 0.97509726
+  - - Grant Heaney
+    - coef: 1.86e-6
+      frac: 0.97435849
+  - - Steve Docherty
+    - coef: 1.87e-6
+      frac: 0.97425142
+  - - Hossain Tefaili
+    - coef: 1.9e-6
+      frac: 0.9739433
+  - - Andrew Barnes
+    - coef: 1.93e-6
+      frac: 0.97362232
+  - - Yasuhiro Noma
+    - coef: 2.38e-6
+      frac: 0.96927371
+  - - Tony Armstrong
+    - coef: 2.38e-6
+      frac: 0.96925484
+  - - Christian Voiblet
+    - coef: 2.39e-6
+      frac: 0.96916003
+  - - John Smith
+    - coef: 2.4e-6
+      frac: 0.96914821
+  - - Lukas Bader
+    - coef: 2.42e-6
+      frac: 0.96896689
+  - - Attila Bertok
+    - coef: 2.45e-6
+      frac: 0.96867002
+  - - Gerolf Heinrichs
+    - coef: 2.47e-6
+      frac: 0.96843565
+  - - Harrison Rowntree
+    - coef: 2.48e-6
+      frac: 0.96837534
+  - - Filippo Oppici
+    - coef: 2.49e-6
+      frac: 0.96831129
+  - - Gijs Wanders
+    - coef: 2.49e-6
+      frac: 0.96829671
+  - - Glen Mcfarlane
+    - coef: 2.49e-6
+      frac: 0.96827194
+  - - Michael Jackson
+    - coef: 2.51e-6
+      frac: 0.96814563
+  - - Vic Hare
+    - coef: 2.51e-6
+      frac: 0.96814464
+  - - Jonas Lobitz
+    - coef: 2.51e-6
+      frac: 0.96809189
+  - - Josh Woods
+    - coef: 2.52e-6
+      frac: 0.96803673
+  - - Rob de Groot
+    - coef: 2.53e-6
+      frac: 0.96797115
+  - - Adam Stevens
+    - coef: 2.53e-6
+      frac: 0.96796626
+  - - Takeshi Yokoyama
+    - coef: 2.54e-6
+      frac: 0.96785289
+  - - Niki Longshore
+    - coef: 2.55e-6
+      frac: 0.9677743
+  - - Gordon Rigg
+    - coef: 2.62e-6
+      frac: 0.96713929
+  - - Noel Collins
+    - coef: 2.7e-6
+      frac: 0.96639107
+  - - Andre Wolf
+    - coef: 2.7e-6
+      frac: 0.96636558
+  - - Kato Minoru
+    - coef: 2.71e-6
+      frac: 0.96631433
+  - - Jonny Durand
+    - coef: 2.72e-6
+      frac: 0.96624695
+  - - Nils Vesk
+    - coef: 2.72e-6
+      frac: 0.96619077
+  - - Gavin Myers
+    - coef: 2.79e-6
+      frac: 0.96558236
+  - - Jason Kath
+    - coef: 2.95e-6
+      frac: 0.96422708
+  - - Yoko Isomoto
+    - coef: 2.99e-6
+      frac: 0.96390307
+  - - Rohan Taylor
+    - coef: 3.07e-6
+      frac: 0.96317931
+  - - Tyler Borrdaile
+    - coef: 3.12e-6
+      frac: 0.96277387
+  - - Guy Hubbard
+    - coef: 3.18e-6
+      frac: 0.96228802
+  - - Sasha Serebrennikova
+    - coef: 3.19e-6
+      frac: 0.96220793
+  - - Jon Durand Snr
+    - coef: 3.26e-6
+      frac: 0.96162686
+  - - Mikhail Karmazin
+    - coef: 3.29e-6
+      frac: 0.96141068
+  - - Frank Chetcuti
+    - coef: 3.32e-6
+      frac: 0.96117455
+  - - Rory Duncan
+    - coef: 3.37e-6
+      frac: 0.96070923
+  - - Steve Blenkinsop
+    - coef: 3.44e-6
+      frac: 0.96017667
+  - - Ryosuke Hattori
+    - coef: 3.56e-6
+      frac: 0.95920212
+  - - Tony Giammichele
+    - coef: 3.62e-6
+      frac: 0.95870386
+  - - Craig Taylor
+    - coef: 3.64e-6
+      frac: 0.95858731
+  - - Tullio Gervasoni
+    - coef: 3.66e-6
+      frac: 0.95841004
+  - - Olav Opsanger
+    - coef: 3.66e-6
+      frac: 0.9583977
+  - - Viv Clements
+    - coef: 3.7e-6
+      frac: 0.9581102
+  - - Peter Burkitt
+    - coef: 3.82e-6
+      frac: 0.95711288
+  - - Brad Porter
+    - coef: 3.88e-6
+      frac: 0.9566971
+  - - Trent Brown
+    - coef: 3.92e-6
+      frac: 0.95635796
+  - - Len Paton
+    - coef: 4.05e-6
+      frac: 0.9553828
+  - - Longfei Yang
+    - coef: 4.14e-6
+      frac: 0.95467238
+  - - Dick Heffer
+    - coef: 4.21e-6
+      frac: 0.95412487
+  - - Bruce Wynne
+    - coef: 4.27e-6
+      frac: 0.95365336
+- - - Brad Porter
+    - coef: 2.87e-6
+      frac: 1
+  - - Steve Blenkinsop
+    - coef: 2.87e-6
+      frac: 0.9997431
+  - - Sergei Sukleta
+    - coef: 2.88e-6
+      frac: 0.99959085
+  - - Michael Jackson
+    - coef: 2.89e-6
+      frac: 0.99936174
+  - - Gavin Myers
+    - coef: 2.9e-6
+      frac: 0.99923557
+  - - Harrison Rowntree
+    - coef: 2.93e-6
+      frac: 0.99884416
+  - - Jon Durand Snr
+    - coef: 2.95e-6
+      frac: 0.99866636
+  - - Guy Hubbard
+    - coef: 2.95e-6
+      frac: 0.99865021
+  - - Kato Minoru
+    - coef: 2.95e-6
+      frac: 0.99863221
+  - - Christian Voiblet
+    - coef: 2.96e-6
+      frac: 0.9985495
+  - - Howard Jones
+    - coef: 2.96e-6
+      frac: 0.99854086
+  - - Craig Taylor
+    - coef: 2.96e-6
+      frac: 0.9985324
+  - - Adam Stevens
+    - coef: 2.97e-6
+      frac: 0.99846683
+  - - Rory Duncan
+    - coef: 2.98e-6
+      frac: 0.99835757
+  - - Tony Giammichele
+    - coef: 2.98e-6
+      frac: 0.99833187
+  - - Tyler Borrdaile
+    - coef: 3.0e-6
+      frac: 0.99817418
+  - - Rohan Taylor
+    - coef: 3.01e-6
+      frac: 0.99809947
+  - - Nils Vesk
+    - coef: 3.03e-6
+      frac: 0.99789791
+  - - Yasuhiro Noma
+    - coef: 3.06e-6
+      frac: 0.99764519
+  - - Andre Wolf
+    - coef: 3.07e-6
+      frac: 0.99758607
+  - - Rob de Groot
+    - coef: 3.07e-6
+      frac: 0.99756004
+  - - Mikhail Karmazin
+    - coef: 3.07e-6
+      frac: 0.99754764
+  - - Jonny Durand
+    - coef: 3.07e-6
+      frac: 0.99752607
+  - - Glen Mcfarlane
+    - coef: 3.08e-6
+      frac: 0.99751535
+  - - Filippo Oppici
+    - coef: 3.12e-6
+      frac: 0.99721016
+  - - Takeshi Yokoyama
+    - coef: 3.12e-6
+      frac: 0.99720891
+  - - Niki Longshore
+    - coef: 3.15e-6
+      frac: 0.99694161
+  - - Attila Bertok
+    - coef: 3.16e-6
+      frac: 0.99685704
+  - - Yoko Isomoto
+    - coef: 3.28e-6
+      frac: 0.99607231
+  - - Tony Armstrong
+    - coef: 3.29e-6
+      frac: 0.99600023
+  - - Olav Opsanger
+    - coef: 3.3e-6
+      frac: 0.99596699
+  - - Jason Kath
+    - coef: 3.32e-6
+      frac: 0.99582047
+  - - Grant Heaney
+    - coef: 3.37e-6
+      frac: 0.99553087
+  - - Viv Clements
+    - coef: 3.42e-6
+      frac: 0.99525256
+  - - Bruce Wynne
+    - coef: 3.47e-6
+      frac: 0.99498791
+  - - Gerolf Heinrichs
+    - coef: 3.7e-6
+      frac: 0.99378512
+  - - Olav Lien Olsen
+    - coef: 3.73e-6
+      frac: 0.99362484
+  - - Trent Brown
+    - coef: 3.77e-6
+      frac: 0.99342668
+  - - Gijs Wanders
+    - coef: 3.83e-6
+      frac: 0.99313592
+  - - Gordon Rigg
+    - coef: 3.99e-6
+      frac: 0.99240353
+  - - Frank Chetcuti
+    - coef: 4.16e-6
+      frac: 0.99165038
+  - - Akira Nagusa
+    - coef: 4.2e-6
+      frac: 0.99146653
+  - - Ito Manabu
+    - coef: 4.24e-6
+      frac: 0.99132368
+  - - Noel Collins
+    - coef: 4.24e-6
+      frac: 0.99129782
+  - - Rob Larkin
+    - coef: 4.28e-6
+      frac: 0.99111635
+  - - Sasha Serebrennikova
+    - coef: 4.38e-6
+      frac: 0.99074144
+  - - Steve Docherty
+    - coef: 4.5e-6
+      frac: 0.99025216
+  - - Derek Mckee
+    - coef: 3739423.57910313
+      frac: 0
+  - - Josh Woods
+    - coef: 2.383865755823906e7
+      frac: 0
+  - - Jonas Lobitz
+    - coef: 4.717258528505827e7
+      frac: 0
+  - - Neale Halsall
+    - coef: 5.095122141081924e7
+      frac: 0
+  - - Mark Alton
+    - coef: 5.375627579068779e7
+      frac: 0
+  - - Anatoly Reyter
+    - coef: 6.200467368062707e7
+      frac: 0
+  - - Kodaka Fumio
+    - coef: 8.341279653999787e7
+      frac: 0
+  - - Nariyuki Watabe
+    - coef: 1.0807232511263917e8
+      frac: 0
+  - - Tullio Gervasoni
+    - coef: 1.1436503321240156e8
+      frac: 0
+  - - Dick Heffer
+    - coef: 1.2405717604310195e8
+      frac: 0
+  - - Lukas Bader
+    - coef: 1.3086483910527765e8
+      frac: 0
+  - - Vic Hare
+    - coef: 1.3418150938214549e8
+      frac: 0
+  - - John Smith
+    - coef: 1.4474571403262529e8
+      frac: 0
+  - - Ryosuke Hattori
+    - coef: 2.5369563221681687e8
+      frac: 0
+  - - Hossain Tefaili
+    - coef: 2.6159635109750062e8
+      frac: 0
+  - - Peter Burkitt
+    - coef: 2.756857196633245e8
+      frac: 0
+  - - Dale Regehr
+    - coef: 2.908954681724004e8
+      frac: 0
+  - - Les Bestt
+    - coef: 3.0621187895960048e8
+      frac: 0
+  - - Len Paton
+    - coef: 3.1935395051121634e8
+      frac: 0
+  - - Andrew Barnes
+    - coef: 3.2583094534937626e8
+      frac: 0
+  - - Don Cramer
+    - coef: 3.8481391334359993e8
+      frac: 0
+- - - Olav Lien Olsen
+    - coef: 2.79e-6
+      frac: 1
+  - - Vic Hare
+    - coef: 2.83e-6
+      frac: 0.99912279
+  - - Grant Heaney
+    - coef: 2.88e-6
+      frac: 0.99847661
+  - - Craig Taylor
+    - coef: 2.89e-6
+      frac: 0.9984338
+  - - Gerolf Heinrichs
+    - coef: 3.01e-6
+      frac: 0.99738391
+  - - Howard Jones
+    - coef: 3.43e-6
+      frac: 0.99471304
+  - - Harrison Rowntree
+    - coef: 3.5e-6
+      frac: 0.99434269
+  - - Jonas Lobitz
+    - coef: 3.54e-6
+      frac: 0.99411564
+  - - Rohan Taylor
+    - coef: 3.6e-6
+      frac: 0.99377953
+  - - Filippo Oppici
+    - coef: 3.61e-6
+      frac: 0.99374104
+  - - Gijs Wanders
+    - coef: 3.61e-6
+      frac: 0.99373396
+  - - Lukas Bader
+    - coef: 3.63e-6
+      frac: 0.99363038
+  - - Tyler Borrdaile
+    - coef: 3.64e-6
+      frac: 0.99361581
+  - - Tullio Gervasoni
+    - coef: 3.67e-6
+      frac: 0.9934768
+  - - Trent Brown
+    - coef: 3.67e-6
+      frac: 0.99345589
+  - - Brad Porter
+    - coef: 3.68e-6
+      frac: 0.99342237
+  - - Olav Opsanger
+    - coef: 3.68e-6
+      frac: 0.99340008
+  - - Niki Longshore
+    - coef: 3.68e-6
+      frac: 0.99338161
+  - - Gordon Rigg
+    - coef: 3.69e-6
+      frac: 0.99337381
+  - - Adam Stevens
+    - coef: 3.69e-6
+      frac: 0.99337093
+  - - Guy Hubbard
+    - coef: 3.69e-6
+      frac: 0.99335269
+  - - Nils Vesk
+    - coef: 3.69e-6
+      frac: 0.99333461
+  - - Bruce Wynne
+    - coef: 3.7e-6
+      frac: 0.99332841
+  - - Takeshi Yokoyama
+    - coef: 3.7e-6
+      frac: 0.99330431
+  - - Sasha Serebrennikova
+    - coef: 3.71e-6
+      frac: 0.99327813
+  - - Mikhail Karmazin
+    - coef: 3.71e-6
+      frac: 0.99323669
+  - - Tony Giammichele
+    - coef: 3.73e-6
+      frac: 0.99317793
+  - - Jason Kath
+    - coef: 3.77e-6
+      frac: 0.99296798
+  - - Andrew Barnes
+    - coef: 3.88e-6
+      frac: 0.99245356
+  - - Christian Voiblet
+    - coef: 4.04e-6
+      frac: 0.99174464
+  - - Michael Jackson
+    - coef: 4.04e-6
+      frac: 0.99173574
+  - - Attila Bertok
+    - coef: 4.05e-6
+      frac: 0.99170483
+  - - Steve Blenkinsop
+    - coef: 4.07e-6
+      frac: 0.99162314
+  - - Kato Minoru
+    - coef: 4.09e-6
+      frac: 0.99153206
+  - - John Smith
+    - coef: 4.14e-6
+      frac: 0.99131775
+  - - Jonny Durand
+    - coef: 4.18e-6
+      frac: 0.99112734
+  - - Andre Wolf
+    - coef: 4.3e-6
+      frac: 0.99061801
+  - - Yasuhiro Noma
+    - coef: 4.41e-6
+      frac: 0.99017816
+  - - Gavin Myers
+    - coef: 5560448.90463195
+      frac: 0
+  - - Viv Clements
+    - coef: 8670251.66700078
+      frac: 0
+  - - Jon Durand Snr
+    - coef: 1.062350380669675e7
+      frac: 0
+  - - Anatoly Reyter
+    - coef: 1.820446928589265e7
+      frac: 0
+  - - Rory Duncan
+    - coef: 2.803186790261496e7
+      frac: 0
+  - - Rob de Groot
+    - coef: 2.968960710092936e7
+      frac: 0
+  - - Rob Larkin
+    - coef: 3.76334736909298e7
+      frac: 0
+  - - Ito Manabu
+    - coef: 4.541897178061769e7
+      frac: 0
+  - - Dale Regehr
+    - coef: 4.839394644563637e7
+      frac: 0
+  - - Peter Burkitt
+    - coef: 5.646654420985707e7
+      frac: 0
+  - - Kodaka Fumio
+    - coef: 6.068434837727266e7
+      frac: 0
+  - - Dick Heffer
+    - coef: 6.275701347364172e7
+      frac: 0
+  - - Sergei Sukleta
+    - coef: 6.558541593992909e7
+      frac: 0
+  - - Longfei Yang
+    - coef: 6.854652721560133e7
+      frac: 0
+  - - Len Paton
+    - coef: 7.93495177760567e7
+      frac: 0
+  - - Frank Chetcuti
+    - coef: 8.612745916969679e7
+      frac: 0
+  - - Steve Docherty
+    - coef: 1.0103147626799209e8
+      frac: 0
+  - - Josh Woods
+    - coef: 1.2115451845055064e8
+      frac: 0
+  - - Mark Alton
+    - coef: 1.3915493195469505e8
+      frac: 0
+  - - Derek Mckee
+    - coef: 2.3645603583035362e8
+      frac: 0
+  - - Yoko Isomoto
+    - coef: 2.3877562096292783e8
+      frac: 0
+  - - Les Bestt
+    - coef: 2.5583261180005563e8
+      frac: 0
+  - - Ryosuke Hattori
+    - coef: 2.6082457217795882e8
+      frac: 0
+  - - Tony Armstrong
+    - coef: 2.6335243630930167e8
+      frac: 0
+  - - Glen Mcfarlane
+    - coef: 2.7257895137679838e8
+      frac: 0
+  - - Noel Collins
+    - coef: 3.08171418589575e8
+      frac: 0
+  - - Hossain Tefaili
+    - coef: 3.787585719044793e8
+      frac: 0
+  - - Don Cramer
+    - coef: 3.8458833069563369e8
+      frac: 0
+  - - Neale Halsall
+    - coef: 4.6488494719724948e8
+      frac: 0
+  - - Nariyuki Watabe
+    - coef: 4.6823320858432685e8
+      frac: 0
+  - - Akira Nagusa
+    - coef: 6.0886475953892579e8
+      frac: 0
+- - - Attila Bertok
+    - coef: 2.01e-6
+      frac: 1
+  - - Andre Wolf
+    - coef: 2.01e-6
+      frac: 0.99984774
+  - - Jonny Durand
+    - coef: 2.01e-6
+      frac: 0.99984387
+  - - Guy Hubbard
+    - coef: 2.02e-6
+      frac: 0.99958677
+  - - Filippo Oppici
+    - coef: 2.03e-6
+      frac: 0.99940081
+  - - Glen Mcfarlane
+    - coef: 2.05e-6
+      frac: 0.99905858
+  - - Kato Minoru
+    - coef: 2.05e-6
+      frac: 0.99904672
+  - - Gordon Rigg
+    - coef: 2.08e-6
+      frac: 0.99860487
+  - - Jason Kath
+    - coef: 2.08e-6
+      frac: 0.99853686
+  - - Tony Armstrong
+    - coef: 2.09e-6
+      frac: 0.99852294
+  - - Gijs Wanders
+    - coef: 2.09e-6
+      frac: 0.99842287
+  - - Lukas Bader
+    - coef: 2.11e-6
+      frac: 0.99823089
+  - - Mark Alton
+    - coef: 2.15e-6
+      frac: 0.99780904
+  - - Rohan Taylor
+    - coef: 2.2e-6
+      frac: 0.99737832
+  - - Tullio Gervasoni
+    - coef: 2.2e-6
+      frac: 0.99729725
+  - - Rory Duncan
+    - coef: 2.22e-6
+      frac: 0.99714188
+  - - Olav Lien Olsen
+    - coef: 2.22e-6
+      frac: 0.99712476
+  - - Craig Taylor
+    - coef: 2.31e-6
+      frac: 0.99640958
+  - - Yasuhiro Noma
+    - coef: 2.33e-6
+      frac: 0.99625733
+  - - Adam Stevens
+    - coef: 2.39e-6
+      frac: 0.99584785
+  - - Takeshi Yokoyama
+    - coef: 2.4e-6
+      frac: 0.99575347
+  - - Vic Hare
+    - coef: 2.43e-6
+      frac: 0.9955546
+  - - Grant Heaney
+    - coef: 2.45e-6
+      frac: 0.99539951
+  - - Christian Voiblet
+    - coef: 2.53e-6
+      frac: 0.99482047
+  - - Kodaka Fumio
+    - coef: 2.55e-6
+      frac: 0.99469072
+  - - Tyler Borrdaile
+    - coef: 2.57e-6
+      frac: 0.99461861
+  - - Jonas Lobitz
+    - coef: 2.59e-6
+      frac: 0.99445521
+  - - Gerolf Heinrichs
+    - coef: 2.59e-6
+      frac: 0.99443196
+  - - Michael Jackson
+    - coef: 2.61e-6
+      frac: 0.99435324
+  - - Harrison Rowntree
+    - coef: 2.61e-6
+      frac: 0.99434309
+  - - Jon Durand Snr
+    - coef: 2.61e-6
+      frac: 0.99433317
+  - - Josh Woods
+    - coef: 2.62e-6
+      frac: 0.99425956
+  - - Steve Blenkinsop
+    - coef: 2.62e-6
+      frac: 0.99425181
+  - - Andrew Barnes
+    - coef: 2.65e-6
+      frac: 0.9941126
+  - - Sasha Serebrennikova
+    - coef: 2.7e-6
+      frac: 0.99379842
+  - - Niki Longshore
+    - coef: 2.75e-6
+      frac: 0.99350362
+  - - Howard Jones
+    - coef: 2.77e-6
+      frac: 0.99340378
+  - - Bruce Wynne
+    - coef: 2.79e-6
+      frac: 0.99327996
+  - - Nils Vesk
+    - coef: 2.8e-6
+      frac: 0.99322914
+  - - Neale Halsall
+    - coef: 2.81e-6
+      frac: 0.99316488
+  - - Viv Clements
+    - coef: 2.81e-6
+      frac: 0.99312531
+  - - Brad Porter
+    - coef: 2.82e-6
+      frac: 0.99309088
+  - - Trent Brown
+    - coef: 2.84e-6
+      frac: 0.99296666
+  - - Gavin Myers
+    - coef: 2.9e-6
+      frac: 0.99266764
+  - - Tony Giammichele
+    - coef: 3.3e-6
+      frac: 0.9906094
+  - - Dick Heffer
+    - coef: 3.32e-6
+      frac: 0.99049738
+  - - Yoko Isomoto
+    - coef: 3.39e-6
+      frac: 0.99017292
+  - - Rob Larkin
+    - coef: 3.45e-6
+      frac: 0.98987285
+  - - Dale Regehr
+    - coef: 3.52e-6
+      frac: 0.98953461
+  - - Len Paton
+    - coef: 3.63e-6
+      frac: 0.98906308
+  - - Ryosuke Hattori
+    - coef: 3.66e-6
+      frac: 0.98890418
+  - - Olav Opsanger
+    - coef: 17145.53077777
+      frac: 0
+  - - Akira Nagusa
+    - coef: 92998.43612172
+      frac: 0
+  - - Frank Chetcuti
+    - coef: 4092246.81158674
+      frac: 0
+  - - Ito Manabu
+    - coef: 5255082.62492269
+      frac: 0
+  - - John Smith
+    - coef: 6242340.81020105
+      frac: 0
+  - - Sergei Sukleta
+    - coef: 9134748.05760342
+      frac: 0
+  - - Longfei Yang
+    - coef: 9998528.03046669
+      frac: 0
+  - - Noel Collins
+    - coef: 1.161475137377782e7
+      frac: 0
+  - - Derek Mckee
+    - coef: 3.610431611697936e7
+      frac: 0
+  - - Les Bestt
+    - coef: 4.633618451523365e7
+      frac: 0
+  - - Nariyuki Watabe
+    - coef: 5.23279694910822e7
+      frac: 0
+  - - Rob de Groot
+    - coef: 1.070940954687767e8
+      frac: 0
+  - - Don Cramer
+    - coef: 1.0782098477440143e8
+      frac: 0
+- - - Andre Wolf
+    - coef: 2.65e-6
+      frac: 1
+  - - Attila Bertok
+    - coef: 2.68e-6
+      frac: 0.99933219
+  - - Jonny Durand
+    - coef: 2.69e-6
+      frac: 0.99911129
+  - - Filippo Oppici
+    - coef: 2.7e-6
+      frac: 0.99907131
+  - - Gerolf Heinrichs
+    - coef: 2.7e-6
+      frac: 0.99901215
+  - - Jonas Lobitz
+    - coef: 2.7e-6
+      frac: 0.99900838
+  - - Glen Mcfarlane
+    - coef: 2.72e-6
+      frac: 0.99873816
+  - - Michael Jackson
+    - coef: 2.73e-6
+      frac: 0.99865972
+  - - Yasuhiro Noma
+    - coef: 2.73e-6
+      frac: 0.9986222
+  - - Jason Kath
+    - coef: 2.74e-6
+      frac: 0.99853262
+  - - Gordon Rigg
+    - coef: 2.74e-6
+      frac: 0.99850659
+  - - Kato Minoru
+    - coef: 2.74e-6
+      frac: 0.99849822
+  - - Christian Voiblet
+    - coef: 2.75e-6
+      frac: 0.99842398
+  - - Tyler Borrdaile
+    - coef: 2.75e-6
+      frac: 0.99841647
+  - - Lukas Bader
+    - coef: 2.76e-6
+      frac: 0.99835008
+  - - Jon Durand Snr
+    - coef: 2.76e-6
+      frac: 0.99834887
+  - - Tullio Gervasoni
+    - coef: 2.76e-6
+      frac: 0.99832113
+  - - Rory Duncan
+    - coef: 2.78e-6
+      frac: 0.99814252
+  - - Gavin Myers
+    - coef: 2.78e-6
+      frac: 0.99814009
+  - - Nils Vesk
+    - coef: 2.81e-6
+      frac: 0.99789688
+  - - Rohan Taylor
+    - coef: 2.81e-6
+      frac: 0.99784254
+  - - Harrison Rowntree
+    - coef: 2.84e-6
+      frac: 0.99758155
+  - - Olav Opsanger
+    - coef: 2.85e-6
+      frac: 0.99751162
+  - - Sasha Serebrennikova
+    - coef: 2.87e-6
+      frac: 0.99736887
+  - - Adam Stevens
+    - coef: 2.87e-6
+      frac: 0.99734094
+  - - Gijs Wanders
+    - coef: 2.88e-6
+      frac: 0.99725051
+  - - Kodaka Fumio
+    - coef: 2.9e-6
+      frac: 0.99715081
+  - - Vic Hare
+    - coef: 2.9e-6
+      frac: 0.99710316
+  - - Tony Armstrong
+    - coef: 2.91e-6
+      frac: 0.9970326
+  - - Josh Woods
+    - coef: 2.92e-6
+      frac: 0.99698357
+  - - Guy Hubbard
+    - coef: 2.92e-6
+      frac: 0.99697592
+  - - Craig Taylor
+    - coef: 3.02e-6
+      frac: 0.99627346
+  - - Niki Longshore
+    - coef: 3.03e-6
+      frac: 0.99618319
+  - - John Smith
+    - coef: 3.06e-6
+      frac: 0.9960034
+  - - Viv Clements
+    - coef: 3.07e-6
+      frac: 0.99597162
+  - - Derek Mckee
+    - coef: 3.11e-6
+      frac: 0.99569061
+  - - Dick Heffer
+    - coef: 3.13e-6
+      frac: 0.99556286
+  - - Steve Blenkinsop
+    - coef: 3.28e-6
+      frac: 0.99470407
+  - - Olav Lien Olsen
+    - coef: 3.33e-6
+      frac: 0.99443274
+  - - Yoko Isomoto
+    - coef: 3.34e-6
+      frac: 0.99437777
+  - - Trent Brown
+    - coef: 3.34e-6
+      frac: 0.99435614
+  - - Brad Porter
+    - coef: 3.36e-6
+      frac: 0.99422358
+  - - Mikhail Karmazin
+    - coef: 3.48e-6
+      frac: 0.99359108
+  - - Howard Jones
+    - coef: 3.54e-6
+      frac: 0.99329955
+  - - Andrew Barnes
+    - coef: 3.79e-6
+      frac: 0.99210569
+  - - Peter Burkitt
+    - coef: 3.99e-6
+      frac: 0.99122285
+  - - Len Paton
+    - coef: 4.18e-6
+      frac: 0.99039749
+  - - Ito Manabu
+    - coef: 4.5e-6
+      frac: 0.98910416
+  - - Ryosuke Hattori
+    - coef: 4.55e-6
+      frac: 0.98891009
+  - - Frank Chetcuti
+    - coef: 4.61e-6
+      frac: 0.98867075
+  - - Sergei Sukleta
+    - coef: 4.8e-6
+      frac: 0.98796868
+  - - Dale Regehr
+    - coef: 1.327162671143003e7
+      frac: 0
+  - - Takeshi Yokoyama
+    - coef: 2.73794103983549e7
+      frac: 0
+  - - Anatoly Reyter
+    - coef: 3.201110159581547e7
+      frac: 0
+  - - Akira Nagusa
+    - coef: 4.262069541191349e7
+      frac: 0
+  - - Tony Giammichele
+    - coef: 4.852677267667481e7
+      frac: 0
+  - - Les Bestt
+    - coef: 5.328613043811759e7
+      frac: 0
+  - - Bruce Wynne
+    - coef: 1.3401405517267429e8
+      frac: 0
+  - - Grant Heaney
+    - coef: 1.8212324660631493e8
+      frac: 0
+  - - Don Cramer
+    - coef: 2.262304608044542e8
+      frac: 0
+  - - Mark Alton
+    - coef: 3.7451534581791489e8
+      frac: 0
+  - - Rob de Groot
+    - coef: 3.9188541446086901e8
+      frac: 0
+  - - Neale Halsall
+    - coef: 4.3288058467913937e8
+      frac: 0
+  - - Noel Collins
+    - coef: 5.9963097726811297e8
+      frac: 0
+  - - Nariyuki Watabe
+    - coef: 7.4978544828627421e8
+      frac: 0
+  - - Rob Larkin
+    - coef: 8.2563725026612822e8
+      frac: 0
+  - - Longfei Yang
+    - coef: 1.00224059137875295e9
+      frac: 0
+arrival:
+- - - Tyler Borrdaile
+    - rank: 1
+      frac: 1
+  - - Lukas Bader
+    - rank: 2
+      frac: 0.93333712
+  - - Jonas Lobitz
+    - rank: 3
+      frac: 0.87052124
+  - - Steve Blenkinsop
+    - rank: 4
+      frac: 0.81143643
+  - - John Smith
+    - rank: 5
+      frac: 0.75596679
+  - - Nils Vesk
+    - rank: 6
+      frac: 0.70399642
+  - - Mikhail Karmazin
+    - rank: 7
+      frac: 0.65540942
+  - - Takeshi Yokoyama
+    - rank: 8
+      frac: 0.61008987
+  - - Yasuhiro Noma
+    - rank: 9
+      frac: 0.56792187
+  - - Tony Armstrong
+    - rank: 10
+      frac: 0.52878952
+  - - Adam Stevens
+    - rank: 11
+      frac: 0.4925769
+  - - Steve Docherty
+    - rank: 12
+      frac: 0.45916812
+  - - Jonny Durand
+    - rank: 13
+      frac: 0.42844726
+  - - Josh Woods
+    - rank: 14
+      frac: 0.40029843
+  - - Michael Jackson
+    - rank: 15
+      frac: 0.37460571
+  - - Jason Kath
+    - rank: 16
+      frac: 0.3512532
+  - - Gerolf Heinrichs
+    - rank: 17
+      frac: 0.330125
+  - - Attila Bertok
+    - rank: 18
+      frac: 0.31110519
+  - - Kodaka Fumio
+    - rank: 19
+      frac: 0.29407788
+  - - Craig Taylor
+    - rank: 20
+      frac: 0.27892715
+  - - Gavin Myers
+    - rank: 21
+      frac: 0.2655371
+  - - Guy Hubbard
+    - rank: 22
+      frac: 0.25379183
+  - - Tullio Gervasoni
+    - rank: 23
+      frac: 0.24357543
+  - - Andre Wolf
+    - rank: 24
+      frac: 0.234772
+  - - Christian Voiblet
+    - rank: 25
+      frac: 0.22726562
+  - - Filippo Oppici
+    - rank: 26
+      frac: 0.22094039
+  - - Rory Duncan
+    - rank: 27
+      frac: 0.21568041
+  - - Glen Mcfarlane
+    - rank: 28
+      frac: 0.21136978
+  - - Harrison Rowntree
+    - rank: 29
+      frac: 0.20789257
+  - - Bruce Wynne
+    - rank: 30
+      frac: 0.2051329
+  - - Sergei Sukleta
+    - rank: 31
+      frac: 0.20297485
+  - - Grant Heaney
+    - rank: 32
+      frac: 0.20130252
+- []
+- - - Attila Bertok
+    - rank: 1
+      frac: 1
+  - - Jonny Durand
+    - rank: 2
+      frac: 0.95418901
+  - - Filippo Oppici
+    - rank: 3
+      frac: 0.91017847
+  - - Kato Minoru
+    - rank: 4
+      frac: 0.8679318
+  - - Michael Jackson
+    - rank: 5
+      frac: 0.82741242
+  - - Andre Wolf
+    - rank: 6
+      frac: 0.78858374
+  - - Steve Blenkinsop
+    - rank: 7
+      frac: 0.75140918
+  - - Gavin Myers
+    - rank: 8
+      frac: 0.71585217
+  - - Glen Mcfarlane
+    - rank: 9
+      frac: 0.68187611
+  - - Tony Giammichele
+    - rank: 10
+      frac: 0.64944443
+  - - Tony Armstrong
+    - rank: 11
+      frac: 0.61852055
+  - - Harrison Rowntree
+    - rank: 12
+      frac: 0.58906789
+  - - Tyler Borrdaile
+    - rank: 13
+      frac: 0.56104986
+  - - Adam Stevens
+    - rank: 14
+      frac: 0.53442988
+  - - Christian Voiblet
+    - rank: 15
+      frac: 0.50917137
+  - - Jon Durand Snr
+    - rank: 16
+      frac: 0.48523776
+  - - Olav Opsanger
+    - rank: 17
+      frac: 0.46259245
+  - - Craig Taylor
+    - rank: 18
+      frac: 0.44119886
+  - - Rory Duncan
+    - rank: 19
+      frac: 0.42102042
+  - - Nils Vesk
+    - rank: 20
+      frac: 0.40202055
+  - - Rohan Taylor
+    - rank: 21
+      frac: 0.38416266
+  - - Grant Heaney
+    - rank: 22
+      frac: 0.36741016
+  - - Jason Kath
+    - rank: 23
+      frac: 0.35172649
+  - - Mikhail Karmazin
+    - rank: 24
+      frac: 0.33707506
+  - - Guy Hubbard
+    - rank: 25
+      frac: 0.32341928
+  - - Howard Jones
+    - rank: 26
+      frac: 0.31072257
+  - - Gerolf Heinrichs
+    - rank: 27
+      frac: 0.29894836
+  - - Bruce Wynne
+    - rank: 28
+      frac: 0.28806006
+  - - Yasuhiro Noma
+    - rank: 29
+      frac: 0.27802109
+  - - Trent Brown
+    - rank: 30
+      frac: 0.26879487
+  - - Gijs Wanders
+    - rank: 31
+      frac: 0.26034481
+  - - Brad Porter
+    - rank: 32
+      frac: 0.25263434
+  - - Niki Longshore
+    - rank: 33
+      frac: 0.24562688
+  - - Sergei Sukleta
+    - rank: 34
+      frac: 0.23928584
+  - - Rob de Groot
+    - rank: 35
+      frac: 0.23357464
+  - - Takeshi Yokoyama
+    - rank: 36
+      frac: 0.2284567
+  - - Viv Clements
+    - rank: 37
+      frac: 0.22389543
+  - - Olav Lien Olsen
+    - rank: 38
+      frac: 0.21985427
+  - - Yoko Isomoto
+    - rank: 39
+      frac: 0.21629662
+  - - Gordon Rigg
+    - rank: 40
+      frac: 0.2131859
+  - - Noel Collins
+    - rank: 41
+      frac: 0.21048553
+  - - Sasha Serebrennikova
+    - rank: 42
+      frac: 0.20815894
+  - - Frank Chetcuti
+    - rank: 43
+      frac: 0.20616953
+  - - Akira Nagusa
+    - rank: 44
+      frac: 0.20448074
+  - - Ito Manabu
+    - rank: 45
+      frac: 0.20305597
+  - - Steve Docherty
+    - rank: 46
+      frac: 0.20185864
+  - - Rob Larkin
+    - rank: 47
+      frac: 0.20085218
+- - - Gerolf Heinrichs
+    - rank: 1
+      frac: 1
+  - - Vic Hare
+    - rank: 2
+      frac: 0.94360411
+  - - Craig Taylor
+    - rank: 3
+      frac: 0.88994926
+  - - Trent Brown
+    - rank: 4
+      frac: 0.83896623
+  - - Olav Lien Olsen
+    - rank: 5
+      frac: 0.79058579
+  - - Grant Heaney
+    - rank: 6
+      frac: 0.74473875
+  - - Kato Minoru
+    - rank: 7
+      frac: 0.70135588
+  - - Attila Bertok
+    - rank: 8
+      frac: 0.66036796
+  - - Filippo Oppici
+    - rank: 9
+      frac: 0.62170578
+  - - Gordon Rigg
+    - rank: 10
+      frac: 0.58530013
+  - - Michael Jackson
+    - rank: 11
+      frac: 0.55108179
+  - - Gijs Wanders
+    - rank: 12
+      frac: 0.51898153
+  - - Jonny Durand
+    - rank: 13
+      frac: 0.48893016
+  - - Olav Opsanger
+    - rank: 14
+      frac: 0.46085845
+  - - Jonas Lobitz
+    - rank: 15
+      frac: 0.43469718
+  - - Harrison Rowntree
+    - rank: 16
+      frac: 0.41037715
+  - - Lukas Bader
+    - rank: 17
+      frac: 0.38782912
+  - - Tyler Borrdaile
+    - rank: 18
+      frac: 0.3669839
+  - - Rohan Taylor
+    - rank: 19
+      frac: 0.34777227
+  - - Tullio Gervasoni
+    - rank: 20
+      frac: 0.330125
+  - - Bruce Wynne
+    - rank: 21
+      frac: 0.31397288
+  - - Christian Voiblet
+    - rank: 22
+      frac: 0.2992467
+  - - Adam Stevens
+    - rank: 23
+      frac: 0.28587724
+  - - Niki Longshore
+    - rank: 24
+      frac: 0.27379528
+  - - Brad Porter
+    - rank: 25
+      frac: 0.26293162
+  - - Howard Jones
+    - rank: 26
+      frac: 0.25321703
+  - - Tony Giammichele
+    - rank: 27
+      frac: 0.2445823
+  - - Mikhail Karmazin
+    - rank: 28
+      frac: 0.23695821
+  - - Steve Blenkinsop
+    - rank: 29
+      frac: 0.23027555
+  - - Takeshi Yokoyama
+    - rank: 30
+      frac: 0.2244651
+  - - Sasha Serebrennikova
+    - rank: 31
+      frac: 0.21945764
+  - - Guy Hubbard
+    - rank: 32
+      frac: 0.21518397
+  - - Nils Vesk
+    - rank: 33
+      frac: 0.21157486
+  - - Andrew Barnes
+    - rank: 34
+      frac: 0.2085611
+  - - Andre Wolf
+    - rank: 35
+      frac: 0.20607348
+  - - John Smith
+    - rank: 36
+      frac: 0.20404277
+  - - Yasuhiro Noma
+    - rank: 37
+      frac: 0.20239976
+  - - Jason Kath
+    - rank: 38
+      frac: 0.20107524
+- - - Jonny Durand
+    - rank: 1
+      frac: 1
+  - - Andre Wolf
+    - rank: 2
+      frac: 0.95771648
+  - - Attila Bertok
+    - rank: 3
+      frac: 0.91696451
+  - - Filippo Oppici
+    - rank: 4
+      frac: 0.87771544
+  - - Kato Minoru
+    - rank: 5
+      frac: 0.83994065
+  - - Glen Mcfarlane
+    - rank: 6
+      frac: 0.8036115
+  - - Gijs Wanders
+    - rank: 7
+      frac: 0.76869936
+  - - Guy Hubbard
+    - rank: 8
+      frac: 0.73517561
+  - - Tullio Gervasoni
+    - rank: 9
+      frac: 0.7030116
+  - - Lukas Bader
+    - rank: 10
+      frac: 0.6721787
+  - - Jason Kath
+    - rank: 11
+      frac: 0.6426483
+  - - Rohan Taylor
+    - rank: 12
+      frac: 0.61439174
+  - - Gordon Rigg
+    - rank: 13
+      frac: 0.58738041
+  - - Mark Alton
+    - rank: 14
+      frac: 0.56158567
+  - - Tyler Borrdaile
+    - rank: 15
+      frac: 0.53697889
+  - - Tony Armstrong
+    - rank: 16
+      frac: 0.51353144
+  - - Jonas Lobitz
+    - rank: 17
+      frac: 0.49121469
+  - - Gerolf Heinrichs
+    - rank: 18
+      frac: 0.47
+  - - Steve Blenkinsop
+    - rank: 19
+      frac: 0.44985874
+  - - Harrison Rowntree
+    - rank: 20
+      frac: 0.43076228
+  - - Josh Woods
+    - rank: 21
+      frac: 0.412682
+  - - Christian Voiblet
+    - rank: 22
+      frac: 0.39558925
+  - - Gavin Myers
+    - rank: 23
+      frac: 0.37945541
+  - - Craig Taylor
+    - rank: 24
+      frac: 0.36425184
+  - - Olav Lien Olsen
+    - rank: 25
+      frac: 0.34994992
+  - - Jon Durand Snr
+    - rank: 26
+      frac: 0.33652102
+  - - Michael Jackson
+    - rank: 27
+      frac: 0.32393649
+  - - Rory Duncan
+    - rank: 28
+      frac: 0.31216771
+  - - Trent Brown
+    - rank: 29
+      frac: 0.30118605
+  - - Vic Hare
+    - rank: 30
+      frac: 0.29096288
+  - - Takeshi Yokoyama
+    - rank: 31
+      frac: 0.28146957
+  - - Adam Stevens
+    - rank: 32
+      frac: 0.27267747
+  - - Yasuhiro Noma
+    - rank: 33
+      frac: 0.26455797
+  - - Kodaka Fumio
+    - rank: 34
+      frac: 0.25708243
+  - - Grant Heaney
+    - rank: 35
+      frac: 0.2502
+  - - Len Paton
+    - rank: 36
+      frac: 0.2439487
+  - - Bruce Wynne
+    - rank: 37
+      frac: 0.23823325
+  - - Viv Clements
+    - rank: 38
+      frac: 0.23304724
+  - - Sasha Serebrennikova
+    - rank: 39
+      frac: 0.22836203
+  - - Tony Giammichele
+    - rank: 40
+      frac: 0.22414899
+  - - Andrew Barnes
+    - rank: 41
+      frac: 0.22037949
+  - - Ryosuke Hattori
+    - rank: 42
+      frac: 0.21702489
+  - - Howard Jones
+    - rank: 43
+      frac: 0.21405658
+  - - Nils Vesk
+    - rank: 44
+      frac: 0.21144591
+  - - Neale Halsall
+    - rank: 45
+      frac: 0.20916425
+  - - Brad Porter
+    - rank: 46
+      frac: 0.20718298
+  - - Niki Longshore
+    - rank: 47
+      frac: 0.20547346
+  - - Dale Regehr
+    - rank: 48
+      frac: 0.20400705
+  - - Dick Heffer
+    - rank: 49
+      frac: 0.20275513
+  - - Yoko Isomoto
+    - rank: 50
+      frac: 0.20168907
+  - - Rob Larkin
+    - rank: 51
+      frac: 0.20078024
+- - - Gerolf Heinrichs
+    - rank: 1
+      frac: 1
+  - - Andre Wolf
+    - rank: 2
+      frac: 0.95771648
+  - - Attila Bertok
+    - rank: 3
+      frac: 0.91696451
+  - - Kato Minoru
+    - rank: 4
+      frac: 0.87771544
+  - - Jonny Durand
+    - rank: 5
+      frac: 0.83994065
+  - - Glen Mcfarlane
+    - rank: 6
+      frac: 0.8036115
+  - - Jonas Lobitz
+    - rank: 7
+      frac: 0.76869936
+  - - Filippo Oppici
+    - rank: 8
+      frac: 0.73517561
+  - - Michael Jackson
+    - rank: 9
+      frac: 0.7030116
+  - - Tyler Borrdaile
+    - rank: 10
+      frac: 0.6721787
+  - - Christian Voiblet
+    - rank: 11
+      frac: 0.6426483
+  - - Gordon Rigg
+    - rank: 12
+      frac: 0.61439174
+  - - Lukas Bader
+    - rank: 13
+      frac: 0.58738041
+  - - Rory Duncan
+    - rank: 14
+      frac: 0.56158567
+  - - Gavin Myers
+    - rank: 15
+      frac: 0.53697889
+  - - Yasuhiro Noma
+    - rank: 16
+      frac: 0.51353144
+  - - Jason Kath
+    - rank: 17
+      frac: 0.49121469
+  - - Tullio Gervasoni
+    - rank: 18
+      frac: 0.47
+  - - Jon Durand Snr
+    - rank: 19
+      frac: 0.44985874
+  - - Harrison Rowntree
+    - rank: 20
+      frac: 0.43076228
+  - - Rohan Taylor
+    - rank: 21
+      frac: 0.412682
+  - - Olav Opsanger
+    - rank: 22
+      frac: 0.39558925
+  - - Gijs Wanders
+    - rank: 23
+      frac: 0.37945541
+  - - Tony Armstrong
+    - rank: 24
+      frac: 0.36425184
+  - - Nils Vesk
+    - rank: 25
+      frac: 0.34994992
+  - - Guy Hubbard
+    - rank: 26
+      frac: 0.33652102
+  - - Josh Woods
+    - rank: 27
+      frac: 0.32393649
+  - - Kodaka Fumio
+    - rank: 28
+      frac: 0.31216771
+  - - Craig Taylor
+    - rank: 29
+      frac: 0.30118605
+  - - Sasha Serebrennikova
+    - rank: 30
+      frac: 0.29096288
+  - - Trent Brown
+    - rank: 31
+      frac: 0.28146957
+  - - Steve Blenkinsop
+    - rank: 32
+      frac: 0.27267747
+  - - Adam Stevens
+    - rank: 33
+      frac: 0.26455797
+  - - Niki Longshore
+    - rank: 34
+      frac: 0.25708243
+  - - Vic Hare
+    - rank: 35
+      frac: 0.2502
+  - - Olav Lien Olsen
+    - rank: 36
+      frac: 0.2439487
+  - - John Smith
+    - rank: 37
+      frac: 0.23823325
+  - - Mikhail Karmazin
+    - rank: 38
+      frac: 0.23304724
+  - - Howard Jones
+    - rank: 39
+      frac: 0.22836203
+  - - Viv Clements
+    - rank: 40
+      frac: 0.22414899
+  - - Yoko Isomoto
+    - rank: 41
+      frac: 0.22037949
+  - - Brad Porter
+    - rank: 42
+      frac: 0.21702489
+  - - Dick Heffer
+    - rank: 43
+      frac: 0.21405658
+  - - Len Paton
+    - rank: 44
+      frac: 0.21144591
+  - - Derek Mckee
+    - rank: 45
+      frac: 0.20916425
+  - - Andrew Barnes
+    - rank: 46
+      frac: 0.20718298
+  - - Ryosuke Hattori
+    - rank: 47
+      frac: 0.20547346
+  - - Ito Manabu
+    - rank: 48
+      frac: 0.20400705
+  - - Peter Burkitt
+    - rank: 49
+      frac: 0.20275513
+  - - Frank Chetcuti
+    - rank: 50
+      frac: 0.20168907
+  - - Sergei Sukleta
+    - rank: 51
+      frac: 0.20078024
+speed:
+- - - Tyler Borrdaile
+    - time: 2.2225 h
+      frac: 1
+  - - Lukas Bader
+    - time: 2.223888 h
+      frac: 0.99046111
+  - - Jonas Lobitz
+    - time: 2.228611 h
+      frac: 0.97438666
+  - - Steve Blenkinsop
+    - time: 2.237222 h
+      frac: 0.95397063
+  - - John Smith
+    - time: 2.265277 h
+      frac: 0.90627296
+  - - Nils Vesk
+    - time: 2.365277 h
+      frac: 0.7906724
+  - - Jonny Durand
+    - time: 2.395 h
+      frac: 0.76254637
+  - - Josh Woods
+    - time: 2.404722 h
+      frac: 0.75370611
+  - - Andre Wolf
+    - time: 2.408333 h
+      frac: 0.75046288
+  - - Michael Jackson
+    - time: 2.416666 h
+      frac: 0.74305755
+  - - Christian Voiblet
+    - time: 2.418888 h
+      frac: 0.74110081
+  - - Filippo Oppici
+    - time: 2.424166 h
+      frac: 0.73648288
+  - - Gerolf Heinrichs
+    - time: 2.448611 h
+      frac: 0.7155971
+  - - Glen Mcfarlane
+    - time: 2.466388 h
+      frac: 0.70087864
+  - - Attila Bertok
+    - time: 2.476388 h
+      frac: 0.69275708
+  - - Harrison Rowntree
+    - time: 2.502222 h
+      frac: 0.672254
+  - - Takeshi Yokoyama
+    - time: 2.504444 h
+      frac: 0.67052047
+  - - Yasuhiro Noma
+    - time: 2.530833 h
+      frac: 0.65026985
+  - - Adam Stevens
+    - time: 2.592777 h
+      frac: 0.60487196
+  - - Gavin Myers
+    - time: 2.627222 h
+      frac: 0.5807329
+  - - Guy Hubbard
+    - time: 2.632499 h
+      frac: 0.57709581
+  - - Jason Kath
+    - time: 2.660277 h
+      frac: 0.55820389
+  - - Tullio Gervasoni
+    - time: 2.662222 h
+      frac: 0.55689666
+  - - Rory Duncan
+    - time: 2.713611 h
+      frac: 0.52301368
+  - - Tony Armstrong
+    - time: 2.777222 h
+      frac: 0.48266747
+  - - Kodaka Fumio
+    - time: 2.836944 h
+      frac: 0.44617253
+  - - Mikhail Karmazin
+    - time: 2.9775 h
+      frac: 0.36464364
+  - - Craig Taylor
+    - time: 3.083055 h
+      frac: 0.30672529
+  - - Grant Heaney
+    - time: 3.097222 h
+      frac: 0.29913745
+  - - Steve Docherty
+    - time: 3.148055 h
+      frac: 0.27224074
+  - - Bruce Wynne
+    - time: 3.283333 h
+      frac: 0.20295254
+  - - Sergei Sukleta
+    - time: 3.318333 h
+      frac: 0.18551626
+- []
+- - - Attila Bertok
+    - time: 2.748333 h
+      frac: 1
+  - - Jonny Durand
+    - time: 2.813055 h
+      frac: 0.88491665
+  - - Andre Wolf
+    - time: 2.818333 h
+      frac: 0.87874242
+  - - Glen Mcfarlane
+    - time: 2.885833 h
+      frac: 0.80981394
+  - - Gerolf Heinrichs
+    - time: 2.969166 h
+      frac: 0.73917255
+  - - Olav Opsanger
+    - time: 2.979722 h
+      frac: 0.73092591
+  - - Kato Minoru
+    - time: 3.031388 h
+      frac: 0.69223115
+  - - Trent Brown
+    - time: 3.045277 h
+      frac: 0.68224406
+  - - Jason Kath
+    - time: 3.046944 h
+      frac: 0.68105619
+  - - Filippo Oppici
+    - time: 3.056666 h
+      frac: 0.67417041
+  - - Grant Heaney
+    - time: 3.061111 h
+      frac: 0.67104679
+  - - Michael Jackson
+    - time: 3.064722 h
+      frac: 0.66851973
+  - - Steve Blenkinsop
+    - time: 3.075555 h
+      frac: 0.66099555
+  - - Tony Armstrong
+    - time: 3.079166 h
+      frac: 0.65850603
+  - - Gavin Myers
+    - time: 3.093333 h
+      frac: 0.64882553
+  - - Tony Giammichele
+    - time: 3.226944 h
+      frac: 0.56318382
+  - - Harrison Rowntree
+    - time: 3.246666 h
+      frac: 0.55126478
+  - - Adam Stevens
+    - time: 3.250277 h
+      frac: 0.54909958
+  - - Bruce Wynne
+    - time: 3.250833 h
+      frac: 0.54876694
+  - - Rohan Taylor
+    - time: 3.277777 h
+      frac: 0.53277745
+  - - Nils Vesk
+    - time: 3.279166 h
+      frac: 0.53196069
+  - - Tyler Borrdaile
+    - time: 3.285833 h
+      frac: 0.52805015
+  - - Christian Voiblet
+    - time: 3.292499 h
+      frac: 0.52415575
+  - - Rory Duncan
+    - time: 3.293055 h
+      frac: 0.52383194
+  - - Craig Taylor
+    - time: 3.306111 h
+      frac: 0.51625368
+  - - Jon Durand Snr
+    - time: 3.311111 h
+      frac: 0.51336707
+  - - Mikhail Karmazin
+    - time: 3.384999 h
+      frac: 0.47165418
+  - - Guy Hubbard
+    - time: 3.391944 h
+      frac: 0.46781917
+  - - Gijs Wanders
+    - time: 3.405833 h
+      frac: 0.46019027
+  - - Howard Jones
+    - time: 3.433888 h
+      frac: 0.44494165
+  - - Yasuhiro Noma
+    - time: 3.505833 h
+      frac: 0.4067579
+  - - Noel Collins
+    - time: 3.526388 h
+      frac: 0.3960737
+  - - Sasha Serebrennikova
+    - time: 3.555277 h
+      frac: 0.38121569
+  - - Olav Lien Olsen
+    - time: 3.557777 h
+      frac: 0.37993831
+  - - Niki Longshore
+    - time: 3.654166 h
+      frac: 0.33164213
+  - - Viv Clements
+    - time: 3.746111 h
+      frac: 0.28714792
+  - - Gordon Rigg
+    - time: 3.760833 h
+      frac: 0.28015296
+  - - Takeshi Yokoyama
+    - time: 3.775833 h
+      frac: 0.2730608
+  - - Yoko Isomoto
+    - time: 3.9275 h
+      frac: 0.20317981
+  - - Rob de Groot
+    - time: 3.947499 h
+      frac: 0.19419511
+  - - Frank Chetcuti
+    - time: 4.114166 h
+      frac: 0.12116231
+  - - Brad Porter
+    - time: 4.136388 h
+      frac: 0.11165547
+  - - Akira Nagusa
+    - time: 4.153888 h
+      frac: 0.1042045
+  - - Ito Manabu
+    - time: 4.162777 h
+      frac: 0.10043173
+  - - Sergei Sukleta
+    - time: 4.170277 h
+      frac: 9.72546e-2
+  - - Rob Larkin
+    - time: 4.306944 h
+      frac: 4.030026e-2
+  - - Steve Docherty
+    - time: 4.469444 h
+      frac: 0
+- - - Gerolf Heinrichs
+    - time: 3.873333 h
+      frac: 1
+  - - Jonny Durand
+    - time: 3.901111 h
+      frac: 0.94159679
+  - - Attila Bertok
+    - time: 4.098333 h
+      frac: 0.76444442
+  - - Kato Minoru
+    - time: 4.11 h
+      frac: 0.75637055
+  - - Michael Jackson
+    - time: 4.130833 h
+      frac: 0.74227501
+  - - Christian Voiblet
+    - time: 4.218611 h
+      frac: 0.68661072
+  - - Trent Brown
+    - time: 4.264444 h
+      frac: 0.65945711
+  - - Steve Blenkinsop
+    - time: 4.329444 h
+      frac: 0.62270115
+  - - Filippo Oppici
+    - time: 4.384722 h
+      frac: 0.59280175
+  - - Olav Opsanger
+    - time: 4.389444 h
+      frac: 0.59029885
+  - - Gordon Rigg
+    - time: 4.390833 h
+      frac: 0.58956415
+  - - Andre Wolf
+    - time: 4.391944 h
+      frac: 0.58897687
+  - - Vic Hare
+    - time: 4.3925 h
+      frac: 0.58868339
+  - - Gijs Wanders
+    - time: 4.393333 h
+      frac: 0.58824336
+  - - Jonas Lobitz
+    - time: 4.394444 h
+      frac: 0.58765702
+  - - Harrison Rowntree
+    - time: 4.398055 h
+      frac: 0.58575429
+  - - Lukas Bader
+    - time: 4.400277 h
+      frac: 0.58458555
+  - - Tyler Borrdaile
+    - time: 4.408333 h
+      frac: 0.58036255
+  - - Rohan Taylor
+    - time: 4.410277 h
+      frac: 0.57934639
+  - - Tullio Gervasoni
+    - time: 4.413888 h
+      frac: 0.57746249
+  - - Bruce Wynne
+    - time: 4.444722 h
+      frac: 0.56154377
+  - - Adam Stevens
+    - time: 4.506944 h
+      frac: 0.5302643
+  - - Niki Longshore
+    - time: 4.511944 h
+      frac: 0.52779633
+  - - Brad Porter
+    - time: 4.531388 h
+      frac: 0.51825921
+  - - Sasha Serebrennikova
+    - time: 4.537499 h
+      frac: 0.51528131
+  - - Tony Giammichele
+    - time: 4.567499 h
+      frac: 0.50079275
+  - - Mikhail Karmazin
+    - time: 4.58 h
+      frac: 0.49481771
+  - - Takeshi Yokoyama
+    - time: 4.594999 h
+      frac: 0.48769396
+  - - Craig Taylor
+    - time: 4.707499 h
+      frac: 0.43574736
+  - - Guy Hubbard
+    - time: 4.742222 h
+      frac: 0.420196
+  - - John Smith
+    - time: 4.759166 h
+      frac: 0.41268234
+  - - Nils Vesk
+    - time: 4.769166 h
+      frac: 0.40827054
+  - - Andrew Barnes
+    - time: 4.793055 h
+      frac: 0.39779711
+  - - Yasuhiro Noma
+    - time: 4.794166 h
+      frac: 0.3973122
+  - - Olav Lien Olsen
+    - time: 4.800555 h
+      frac: 0.39452772
+  - - Grant Heaney
+    - time: 4.849999 h
+      frac: 0.37318994
+  - - Howard Jones
+    - time: 5.051944 h
+      frac: 0.28951966
+  - - Jason Kath
+    - time: 5.057777 h
+      frac: 0.28717732
+- - - Jonny Durand
+    - time: 2.824444 h
+      frac: 1
+  - - Trent Brown
+    - time: 2.891944 h
+      frac: 0.88271976
+  - - Filippo Oppici
+    - time: 2.918611 h
+      frac: 0.85357324
+  - - Attila Bertok
+    - time: 2.920833 h
+      frac: 0.85127854
+  - - Kato Minoru
+    - time: 2.926388 h
+      frac: 0.84561751
+  - - Andre Wolf
+    - time: 2.928055 h
+      frac: 0.84393942
+  - - Gijs Wanders
+    - time: 2.928055 h
+      frac: 0.84393942
+  - - Glen Mcfarlane
+    - time: 2.928611 h
+      frac: 0.84338206
+  - - Gerolf Heinrichs
+    - time: 2.95 h
+      frac: 0.82261661
+  - - Tyler Borrdaile
+    - time: 2.9575 h
+      frac: 0.81562119
+  - - Harrison Rowntree
+    - time: 2.961111 h
+      frac: 0.81230009
+  - - Jonas Lobitz
+    - time: 2.963888 h
+      frac: 0.80976527
+  - - Steve Blenkinsop
+    - time: 2.964166 h
+      frac: 0.80951272
+  - - Josh Woods
+    - time: 2.965555 h
+      frac: 0.80825246
+  - - Christian Voiblet
+    - time: 2.975833 h
+      frac: 0.79905139
+  - - Gavin Myers
+    - time: 2.979444 h
+      frac: 0.79586845
+  - - Jon Durand Snr
+    - time: 3.009166 h
+      frac: 0.77054276
+  - - Michael Jackson
+    - time: 3.013333 h
+      frac: 0.76710512
+  - - Guy Hubbard
+    - time: 3.015833 h
+      frac: 0.76505467
+  - - Len Paton
+    - time: 3.038055 h
+      frac: 0.74720321
+  - - Tullio Gervasoni
+    - time: 3.109999 h
+      frac: 0.69322775
+  - - Lukas Bader
+    - time: 3.121666 h
+      frac: 0.68492797
+  - - Jason Kath
+    - time: 3.134166 h
+      frac: 0.67615497
+  - - Rohan Taylor
+    - time: 3.145277 h
+      frac: 0.66845538
+  - - Gordon Rigg
+    - time: 3.152777 h
+      frac: 0.66330838
+  - - Mark Alton
+    - time: 3.178055 h
+      frac: 0.64624201
+  - - Olav Lien Olsen
+    - time: 3.206944 h
+      frac: 0.627228
+  - - Tony Armstrong
+    - time: 3.210833 h
+      frac: 0.6247056
+  - - Craig Taylor
+    - time: 3.216666 h
+      frac: 0.62093782
+  - - Rory Duncan
+    - time: 3.326666 h
+      frac: 0.55302187
+  - - Ryosuke Hattori
+    - time: 3.343888 h
+      frac: 0.54286087
+  - - Vic Hare
+    - time: 3.39 h
+      frac: 0.5161926
+  - - Takeshi Yokoyama
+    - time: 3.394722 h
+      frac: 0.51350323
+  - - Kodaka Fumio
+    - time: 3.396666 h
+      frac: 0.51239801
+  - - Adam Stevens
+    - time: 3.412222 h
+      frac: 0.50360077
+  - - Yasuhiro Noma
+    - time: 3.435 h
+      frac: 0.49085777
+  - - Tony Giammichele
+    - time: 3.439722 h
+      frac: 0.48823591
+  - - Grant Heaney
+    - time: 3.527777 h
+      frac: 0.44050468
+  - - Viv Clements
+    - time: 3.644722 h
+      frac: 0.3800886
+  - - Howard Jones
+    - time: 3.759722 h
+      frac: 0.32342481
+  - - Nils Vesk
+    - time: 3.804722 h
+      frac: 0.30189337
+  - - Bruce Wynne
+    - time: 3.842499 h
+      frac: 0.28407096
+  - - Sasha Serebrennikova
+    - time: 3.895555 h
+      frac: 0.25940858
+  - - Andrew Barnes
+    - time: 3.936111 h
+      frac: 0.24083057
+  - - Brad Porter
+    - time: 4.090555 h
+      frac: 0.17205109
+  - - Neale Halsall
+    - time: 4.138611 h
+      frac: 0.15123143
+  - - Dale Regehr
+    - time: 4.857777 h
+      frac: 0
+  - - Niki Longshore
+    - time: 5.128611 h
+      frac: 0
+  - - Dick Heffer
+    - time: 5.391111 h
+      frac: 0
+  - - Rob Larkin
+    - time: 5.468333 h
+      frac: 0
+  - - Yoko Isomoto
+    - time: 5.635555 h
+      frac: 0
+- - - Andre Wolf
+    - time: 3.343888 h
+      frac: 1
+  - - Gerolf Heinrichs
+    - time: 3.350833 h
+      frac: 0.97565885
+  - - Attila Bertok
+    - time: 3.382499 h
+      frac: 0.92360629
+  - - Kato Minoru
+    - time: 3.386111 h
+      frac: 0.91891445
+  - - Jonny Durand
+    - time: 3.426111 h
+      frac: 0.8735529
+  - - Jonas Lobitz
+    - time: 3.454166 h
+      frac: 0.84621709
+  - - Glen Mcfarlane
+    - time: 3.458888 h
+      frac: 0.84185773
+  - - Filippo Oppici
+    - time: 3.468888 h
+      frac: 0.83281804
+  - - Michael Jackson
+    - time: 3.475 h
+      frac: 0.82741261
+  - - Tyler Borrdaile
+    - time: 3.476388 h
+      frac: 0.82619591
+  - - Gordon Rigg
+    - time: 3.482499 h
+      frac: 0.82089209
+  - - Christian Voiblet
+    - time: 3.486388 h
+      frac: 0.81755752
+  - - Gavin Myers
+    - time: 3.495833 h
+      frac: 0.8095829
+  - - Rory Duncan
+    - time: 3.495833 h
+      frac: 0.8095829
+  - - Lukas Bader
+    - time: 3.502777 h
+      frac: 0.80382436
+  - - Yasuhiro Noma
+    - time: 3.505833 h
+      frac: 0.80131728
+  - - Jason Kath
+    - time: 3.506111 h
+      frac: 0.80109015
+  - - Tullio Gervasoni
+    - time: 3.507499 h
+      frac: 0.79995643
+  - - Tony Armstrong
+    - time: 3.522777 h
+      frac: 0.78768942
+  - - Jon Durand Snr
+    - time: 3.536944 h
+      frac: 0.77662344
+  - - Harrison Rowntree
+    - time: 3.538611 h
+      frac: 0.77533966
+  - - Rohan Taylor
+    - time: 3.543333 h
+      frac: 0.77172202
+  - - Olav Opsanger
+    - time: 3.544999 h
+      frac: 0.77045204
+  - - Gijs Wanders
+    - time: 3.551111 h
+      frac: 0.76582513
+  - - Trent Brown
+    - time: 3.579166 h
+      frac: 0.74513903
+  - - Nils Vesk
+    - time: 3.580277 h
+      frac: 0.74433726
+  - - Steve Blenkinsop
+    - time: 3.596666 h
+      frac: 0.732653
+  - - Guy Hubbard
+    - time: 3.686111 h
+      frac: 0.67281891
+  - - Josh Woods
+    - time: 3.698888 h
+      frac: 0.66472465
+  - - Kodaka Fumio
+    - time: 3.709999 h
+      frac: 0.65776481
+  - - Olav Lien Olsen
+    - time: 3.730555 h
+      frac: 0.64507176
+  - - Sasha Serebrennikova
+    - time: 3.75 h
+      frac: 0.63327039
+  - - Craig Taylor
+    - time: 3.750555 h
+      frac: 0.63293601
+  - - Adam Stevens
+    - time: 3.890277 h
+      frac: 0.55305855
+  - - Niki Longshore
+    - time: 3.904999 h
+      frac: 0.54506575
+  - - Mikhail Karmazin
+    - time: 3.921666 h
+      frac: 0.53610117
+  - - Vic Hare
+    - time: 3.958055 h
+      frac: 0.5168223
+  - - Len Paton
+    - time: 4.055555 h
+      frac: 0.46695099
+  - - John Smith
+    - time: 4.067222 h
+      frac: 0.46114112
+  - - Howard Jones
+    - time: 4.117499 h
+      frac: 0.43645164
+  - - Viv Clements
+    - time: 4.346111 h
+      frac: 0.33028184
+  - - Yoko Isomoto
+    - time: 4.363611 h
+      frac: 0.3225083
+  - - Brad Porter
+    - time: 4.415 h
+      frac: 0.29993386
+  - - Ryosuke Hattori
+    - time: 4.498055 h
+      frac: 0.26419668
+  - - Andrew Barnes
+    - time: 4.553333 h
+      frac: 0.24088657
+  - - Ito Manabu
+    - time: 4.627777 h
+      frac: 0.21004743
+  - - Dick Heffer
+    - time: 4.723611 h
+      frac: 0.17121128
+  - - Derek Mckee
+    - time: 4.821666 h
+      frac: 0.1323948
+  - - Frank Chetcuti
+    - time: 5.041111 h
+      frac: 4.850058e-2
+  - - Peter Burkitt
+    - time: 5.194444 h
+      frac: 0
+  - - Sergei Sukleta
+    - time: 5.261944 h
+      frac: 0
+nigh:
+- - - Noel Collins
+    - togo:
+        distance: 3.225801
+        legs:
+        - 3.225801
+        legsSum:
+        - 3.225801
+        waypoints:
+        - lat: -32.47764999
+          lng: 148.95822999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 136.512642
+  - - Olav Lien Olsen
+    - togo:
+        distance: 4.345106
+        legs:
+        - 4.345106
+        legsSum:
+        - 4.345106
+        waypoints:
+        - lat: -32.50263
+          lng: 148.975916
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 135.393642
+  - - Ryosuke Hattori
+    - togo:
+        distance: 7.446916
+        legs:
+        - 7.446916
+        legsSum:
+        - 7.446916
+        waypoints:
+        - lat: -32.5165
+          lng: 148.93823
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 132.291642
+  - - Tony Giammichele
+    - togo:
+        distance: 14.897292
+        legs:
+        - 14.897292
+        legsSum:
+        - 14.897292
+        waypoints:
+        - lat: -32.55772999
+          lng: 148.87438299
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 124.840642
+  - - Kato Minoru
+    - togo:
+        distance: 16.65847
+        legs:
+        - 16.65847
+        legsSum:
+        - 16.65847
+        waypoints:
+        - lat: -32.54718299
+          lng: 148.8406
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 123.080642
+  - - Ito Manabu
+    - togo:
+        distance: 18.182572
+        legs:
+        - 18.182572
+        legsSum:
+        - 18.182572
+        waypoints:
+        - lat: -32.60479999
+          lng: 148.88826
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 121.556642
+  - - Jon Durand Snr
+    - togo:
+        distance: 20.51761
+        legs:
+        - 20.51761
+        legsSum:
+        - 20.51761
+        waypoints:
+        - lat: -32.58182999
+          lng: 148.8197
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 119.220642
+  - - Olav Opsanger
+    - togo:
+        distance: 21.363134
+        legs:
+        - 21.363134
+        legsSum:
+        - 21.363134
+        waypoints:
+        - lat: -32.61529999
+          lng: 148.84701599
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 118.375642
+  - - Niki Longshore
+    - togo:
+        distance: 21.700535
+        legs:
+        - 21.700535
+        legsSum:
+        - 21.700535
+        waypoints:
+        - lat: -32.618316
+          lng: 148.84573
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 118.038642
+  - - Vic Hare
+    - togo:
+        distance: 24.172104
+        legs:
+        - 24.172104
+        legsSum:
+        - 24.172104
+        waypoints:
+        - lat: -32.59393
+          lng: 148.781516
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 115.566642
+  - - Anatoly Reyter
+    - togo:
+        distance: 23.844564
+        legs:
+        - 23.844564
+        legsSum:
+        - 23.844564
+        waypoints:
+        - lat: -32.62575999
+          lng: 148.82065
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 115.893642
+  - - Andrew Barnes
+    - togo:
+        distance: 24.374862
+        legs:
+        - 24.374862
+        legsSum:
+        - 24.374862
+        waypoints:
+        - lat: -32.629916
+          lng: 148.817683
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 115.363642
+  - - Peter Burkitt
+    - togo:
+        distance: 26.446537
+        legs:
+        - 26.446537
+        legsSum:
+        - 26.446537
+        waypoints:
+        - lat: -32.6456
+          lng: 148.805383
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 113.291642
+  - - Akira Nagusa
+    - togo:
+        distance: 26.583992
+        legs:
+        - 26.583992
+        legsSum:
+        - 26.583992
+        waypoints:
+        - lat: -32.61124999
+          lng: 148.76475999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 113.155642
+  - - Sasha Serebrennikova
+    - togo:
+        distance: 26.540687
+        legs:
+        - 26.540687
+        legsSum:
+        - 26.540687
+        waypoints:
+        - lat: -32.60971599
+          lng: 148.76394999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 113.197642
+  - - Viv Clements
+    - togo:
+        distance: 29.222445
+        legs:
+        - 29.222445
+        legsSum:
+        - 29.222445
+        waypoints:
+        - lat: -32.65894999
+          lng: 148.7786
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 110.520642
+  - - Derek Mckee
+    - togo:
+        distance: 29.297645
+        legs:
+        - 29.297645
+        legsSum:
+        - 29.297645
+        waypoints:
+        - lat: -32.6589
+          lng: 148.77735
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 110.440642
+  - - Len Paton
+    - togo:
+        distance: 31.694648
+        legs:
+        - 31.694648
+        legsSum:
+        - 31.694648
+        waypoints:
+        - lat: -32.65898299
+          lng: 148.74126
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 108.044642
+  - - Rohan Taylor
+    - togo:
+        distance: 38.975363
+        legs:
+        - 38.975363
+        legsSum:
+        - 38.975363
+        waypoints:
+        - lat: -32.70013
+          lng: 148.68056
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 100.763642
+  - - Longfei Yang
+    - togo:
+        distance: 47.095551
+        legs:
+        - 47.095551
+        legsSum:
+        - 47.095551
+        waypoints:
+        - lat: -32.76653
+          lng: 148.635916
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 92.642642
+  - - Gijs Wanders
+    - togo:
+        distance: 52.064219
+        legs:
+        - 52.064219
+        legsSum:
+        - 52.064219
+        waypoints:
+        - lat: -32.80082999
+          lng: 148.60159999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 87.678642
+  - - Rob Larkin
+    - togo:
+        distance: 52.578579
+        legs:
+        - 52.578579
+        legsSum:
+        - 52.578579
+        waypoints:
+        - lat: -32.79816
+          lng: 148.59059999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 87.159642
+  - - Dick Heffer
+    - togo:
+        distance: 53.214698
+        legs:
+        - 53.214698
+        legsSum:
+        - 53.214698
+        waypoints:
+        - lat: -32.7787
+          lng: 148.55995999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 86.524642
+  - - Gordon Rigg
+    - togo:
+        distance: 56.9966
+        legs:
+        - 56.9966
+        legsSum:
+        - 56.9966
+        waypoints:
+        - lat: -32.81759999
+          lng: 148.54723
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 82.742642
+  - - Trent Brown
+    - togo:
+        distance: 62.602319
+        legs:
+        - 62.602319
+        legsSum:
+        - 62.602319
+        waypoints:
+        - lat: -32.866016
+          lng: 148.51963
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 77.136642
+  - - Nariyuki Watabe
+    - togo:
+        distance: 64.95049
+        legs:
+        - 64.95049
+        legsSum:
+        - 64.95049
+        waypoints:
+        - lat: -32.86868299
+          lng: 148.48754999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 74.787642
+  - - Brad Porter
+    - togo:
+        distance: 68.618761
+        legs:
+        - 68.618761
+        legsSum:
+        - 68.618761
+        waypoints:
+        - lat: -32.894516
+          lng: 148.46261599
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 71.119642
+  - - Don Cramer
+    - togo:
+        distance: 68.796509
+        legs:
+        - 68.796509
+        legsSum:
+        - 68.796509
+        waypoints:
+        - lat: -32.88308299
+          lng: 148.44724999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 70.941642
+  - - Yoko Isomoto
+    - togo:
+        distance: 81.062
+        legs:
+        - 81.062
+        legsSum:
+        - 81.062
+        waypoints:
+        - lat: -32.98313
+          lng: 148.37944999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 58.676642
+  - - Les Bestt
+    - togo:
+        distance: 91.082575
+        legs:
+        - 91.082575
+        legsSum:
+        - 91.082575
+        waypoints:
+        - lat: -33.04401599
+          lng: 148.300083
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 48.655642
+  - - Mark Alton
+    - togo:
+        distance: 91.945206
+        legs:
+        - 91.945206
+        legsSum:
+        - 91.945206
+        waypoints:
+        - lat: -33.05061599
+          lng: 148.29485999
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 47.793642
+  - - Dale Regehr
+    - togo:
+        distance: 106.557176
+        legs:
+        - 106.557176
+        legsSum:
+        - 106.557176
+        waypoints:
+        - lat: -33.15576
+          lng: 148.19873
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 33.181642
+  - - Neale Halsall
+    - togo:
+        distance: 110.095337
+        legs:
+        - 110.095337
+        legsSum:
+        - 110.095337
+        waypoints:
+        - lat: -33.16149999
+          lng: 148.15171599
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 29.643642
+  - - Rob de Groot
+    - togo:
+        distance: 118.41247
+        legs:
+        - 118.41247
+        legsSum:
+        - 118.41247
+        waypoints:
+        - lat: -33.20935999
+          lng: 148.08265
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 21.325642
+  - - Hossain Tefaili
+    - togo:
+        distance: 129.309369
+        legs:
+        - 129.309369
+        legsSum:
+        - 129.309369
+        waypoints:
+        - lat: -33.29418299
+          lng: 148.01813
+        - lat: -32.46522
+          lng: 148.98929999
+      made: 10.429642
+- - - Michael Jackson
+    - togo:
+        distance: 11.952471
+        legs:
+        - 11.952471
+        legsSum:
+        - 11.952471
+        waypoints:
+        - lat: -32.79184999
+          lng: 148.22929999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.780724
+  - - Jonny Durand
+    - togo:
+        distance: 12.25525
+        legs:
+        - 12.25525
+        legsSum:
+        - 12.25525
+        waypoints:
+        - lat: -32.78868299
+          lng: 148.2306
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.477724
+  - - Andre Wolf
+    - togo:
+        distance: 12.455532
+        legs:
+        - 12.455532
+        legsSum:
+        - 12.455532
+        waypoints:
+        - lat: -32.78726
+          lng: 148.22875999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.277724
+  - - Filippo Oppici
+    - togo:
+        distance: 12.515972
+        legs:
+        - 12.515972
+        legsSum:
+        - 12.515972
+        waypoints:
+        - lat: -32.78616
+          lng: 148.23096
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.217724
+  - - Steve Blenkinsop
+    - togo:
+        distance: 12.592378
+        legs:
+        - 12.592378
+        legsSum:
+        - 12.592378
+        waypoints:
+        - lat: -32.78524999
+          lng: 148.231816
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.140724
+  - - Kato Minoru
+    - togo:
+        distance: 12.630818
+        legs:
+        - 12.630818
+        legsSum:
+        - 12.630818
+        waypoints:
+        - lat: -32.78498299
+          lng: 148.23141599
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 152.101724
+  - - Glen Mcfarlane
+    - togo:
+        distance: 12.748339
+        legs:
+        - 12.748339
+        legsSum:
+        - 12.748339
+        waypoints:
+        - lat: -32.78325
+          lng: 148.23436
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.984724
+  - - Jonas Lobitz
+    - togo:
+        distance: 12.802231
+        legs:
+        - 12.802231
+        legsSum:
+        - 12.802231
+        waypoints:
+        - lat: -32.78524999
+          lng: 148.22399999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.930724
+  - - Guy Hubbard
+    - togo:
+        distance: 12.93274
+        legs:
+        - 12.93274
+        legsSum:
+        - 12.93274
+        waypoints:
+        - lat: -32.77921599
+          lng: 148.24934999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.799724
+  - - Josh Woods
+    - togo:
+        distance: 13.123357
+        legs:
+        - 13.123357
+        legsSum:
+        - 13.123357
+        waypoints:
+        - lat: -32.77988299
+          lng: 148.23384999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.609724
+  - - Rory Duncan
+    - togo:
+        distance: 26.176232
+        legs:
+        - 26.176232
+        legsSum:
+        - 26.176232
+        waypoints:
+        - lat: -32.65919999
+          lng: 148.2624
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 135.051724
+  - - Rob de Groot
+    - togo:
+        distance: 13.227472
+        legs:
+        - 13.227472
+        legsSum:
+        - 13.227472
+        waypoints:
+        - lat: -32.78161599
+          lng: 148.222583
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.505724
+  - - Harrison Rowntree
+    - togo:
+        distance: 13.668218
+        legs:
+        - 13.668218
+        legsSum:
+        - 13.668218
+        waypoints:
+        - lat: -32.77185
+          lng: 148.25874999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 151.064724
+  - - Gordon Rigg
+    - togo:
+        distance: 13.776563
+        legs:
+        - 13.776563
+        legsSum:
+        - 13.776563
+        waypoints:
+        - lat: -32.77235
+          lng: 148.24285
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 150.955724
+  - - Tony Giammichele
+    - togo:
+        distance: 14.094462
+        legs:
+        - 14.094462
+        legsSum:
+        - 14.094462
+        waypoints:
+        - lat: -32.770383
+          lng: 148.23679999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 150.638724
+  - - Gijs Wanders
+    - togo:
+        distance: 14.167084
+        legs:
+        - 14.167084
+        legsSum:
+        - 14.167084
+        waypoints:
+        - lat: -32.768883
+          lng: 148.242183
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 150.565724
+  - - Jon Durand Snr
+    - togo:
+        distance: 14.371269
+        legs:
+        - 14.371269
+        legsSum:
+        - 14.371269
+        waypoints:
+        - lat: -32.76556
+          lng: 148.25785999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 150.362724
+  - - Tyler Borrdaile
+    - togo:
+        distance: 14.523524
+        legs:
+        - 14.523524
+        legsSum:
+        - 14.523524
+        waypoints:
+        - lat: -32.76729999
+          lng: 148.23205999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 150.212724
+  - - Gerolf Heinrichs
+    - togo:
+        distance: 15.151769
+        legs:
+        - 15.151769
+        legsSum:
+        - 15.151769
+        waypoints:
+        - lat: -32.758316
+          lng: 148.26609999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 149.580724
+  - - Adam Stevens
+    - togo:
+        distance: 15.491816
+        legs:
+        - 15.491816
+        legsSum:
+        - 15.491816
+        waypoints:
+        - lat: -32.75634999
+          lng: 148.24622999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 149.240724
+  - - Takeshi Yokoyama
+    - togo:
+        distance: 15.995281
+        legs:
+        - 15.995281
+        legsSum:
+        - 15.995281
+        waypoints:
+        - lat: -32.75829999
+          lng: 148.21216
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 148.740724
+  - - Niki Longshore
+    - togo:
+        distance: 16.070818
+        legs:
+        - 16.070818
+        legsSum:
+        - 16.070818
+        waypoints:
+        - lat: -32.75222999
+          lng: 148.2372
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 148.662724
+  - - Gavin Myers
+    - togo:
+        distance: 16.98649
+        legs:
+        - 16.98649
+        legsSum:
+        - 16.98649
+        waypoints:
+        - lat: -32.74542999
+          lng: 148.22765
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 147.746724
+  - - Brad Porter
+    - togo:
+        distance: 17.086099
+        legs:
+        - 17.086099
+        legsSum:
+        - 17.086099
+        waypoints:
+        - lat: -32.74385999
+          lng: 148.23135999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 147.647724
+  - - Trent Brown
+    - togo:
+        distance: 17.13594
+        legs:
+        - 17.13594
+        legsSum:
+        - 17.13594
+        waypoints:
+        - lat: -32.74405999
+          lng: 148.227616
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 147.597724
+  - - Len Paton
+    - togo:
+        distance: 17.201376
+        legs:
+        - 17.201376
+        legsSum:
+        - 17.201376
+        waypoints:
+        - lat: -32.74281599
+          lng: 148.23128299
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 147.531724
+  - - Bruce Wynne
+    - togo:
+        distance: 17.241549
+        legs:
+        - 17.241549
+        legsSum:
+        - 17.241549
+        waypoints:
+        - lat: -32.74215
+          lng: 148.23312999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 147.491724
+  - - Attila Bertok
+    - togo:
+        distance: 17.882461
+        legs:
+        - 17.882461
+        legsSum:
+        - 17.882461
+        waypoints:
+        - lat: -32.73919999
+          lng: 148.2176
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 146.850724
+  - - Tullio Gervasoni
+    - togo:
+        distance: 18.425776
+        legs:
+        - 18.425776
+        legsSum:
+        - 18.425776
+        waypoints:
+        - lat: -32.73113
+          lng: 148.234516
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 146.307724
+  - - Olav Opsanger
+    - togo:
+        distance: 18.645923
+        legs:
+        - 18.645923
+        legsSum:
+        - 18.645923
+        waypoints:
+        - lat: -32.728883
+          lng: 148.23629999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 146.086724
+  - - Viv Clements
+    - togo:
+        distance: 18.751232
+        legs:
+        - 18.751232
+        legsSum:
+        - 18.751232
+        waypoints:
+        - lat: -32.72802999
+          lng: 148.2355
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 145.981724
+  - - Vic Hare
+    - togo:
+        distance: 19.460325
+        legs:
+        - 19.460325
+        legsSum:
+        - 19.460325
+        waypoints:
+        - lat: -32.72115999
+          lng: 148.23893
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 145.272724
+  - - Lukas Bader
+    - togo:
+        distance: 19.182813
+        legs:
+        - 19.182813
+        legsSum:
+        - 19.182813
+        waypoints:
+        - lat: -32.72395
+          lng: 148.23668298
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 145.549724
+  - - Frank Chetcuti
+    - togo:
+        distance: 20.080043
+        legs:
+        - 20.080043
+        legsSum:
+        - 20.080043
+        waypoints:
+        - lat: -32.71406
+          lng: 148.26111599
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 144.653724
+  - - Sasha Serebrennikova
+    - togo:
+        distance: 20.28805
+        legs:
+        - 20.28805
+        legsSum:
+        - 20.28805
+        waypoints:
+        - lat: -32.71345999
+          lng: 148.24073
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 144.445724
+  - - John Smith
+    - togo:
+        distance: 20.298244
+        legs:
+        - 20.298244
+        legsSum:
+        - 20.298244
+        waypoints:
+        - lat: -32.71329999
+          lng: 148.24139999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 144.434724
+  - - Tony Armstrong
+    - togo:
+        distance: 21.393598
+        legs:
+        - 21.393598
+        legsSum:
+        - 21.393598
+        waypoints:
+        - lat: -32.703316
+          lng: 148.24213
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 143.339724
+  - - Peter Burkitt
+    - togo:
+        distance: 21.634992
+        legs:
+        - 21.634992
+        legsSum:
+        - 21.634992
+        waypoints:
+        - lat: -32.70094999
+          lng: 148.24422999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 143.097724
+  - - Craig Taylor
+    - togo:
+        distance: 22.448015
+        legs:
+        - 22.448015
+        legsSum:
+        - 22.448015
+        waypoints:
+        - lat: -32.693483
+          lng: 148.2458
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 142.284724
+  - - Rohan Taylor
+    - togo:
+        distance: 22.880391
+        legs:
+        - 22.880391
+        legsSum:
+        - 22.880391
+        waypoints:
+        - lat: -32.69258299
+          lng: 148.2203
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 141.852724
+  - - Christian Voiblet
+    - togo:
+        distance: 21.834869
+        legs:
+        - 21.834869
+        legsSum:
+        - 21.834869
+        waypoints:
+        - lat: -32.709116
+          lng: 148.1902
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 142.897724
+  - - Nils Vesk
+    - togo:
+        distance: 23.980064
+        legs:
+        - 23.980064
+        legsSum:
+        - 23.980064
+        waypoints:
+        - lat: -32.67985
+          lng: 148.24315999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 140.752724
+  - - Longfei Yang
+    - togo:
+        distance: 24.845445
+        legs:
+        - 24.845445
+        legsSum:
+        - 24.845445
+        waypoints:
+        - lat: -32.67186
+          lng: 148.24559999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 139.887724
+  - - Yasuhiro Noma
+    - togo:
+        distance: 25.220914
+        legs:
+        - 25.220914
+        legsSum:
+        - 25.220914
+        waypoints:
+        - lat: -32.667783
+          lng: 148.26312999
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 139.511724
+  - - Ryosuke Hattori
+    - togo:
+        distance: 35.808462
+        legs:
+        - 9.062638
+        - 26.745824
+        legsSum:
+        - 9.062638
+        - 35.808462
+        waypoints:
+        - lat: -32.72311599
+          lng: 148.2861
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 128.923724
+  - - Dick Heffer
+    - togo:
+        distance: 27.028779
+        legs:
+        - 27.028779
+        legsSum:
+        - 27.028779
+        waypoints:
+        - lat: -32.651583
+          lng: 148.25948299
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 137.703724
+  - - Yoko Isomoto
+    - togo:
+        distance: 61.610956
+        legs:
+        - 34.865132
+        - 26.745824
+        legsSum:
+        - 34.865132
+        - 61.610956
+        waypoints:
+        - lat: -32.959583
+          lng: 148.32425
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 103.121724
+  - - Mikhail Karmazin
+    - togo:
+        distance: 64.965655
+        legs:
+        - 38.219831
+        - 26.745824
+        legsSum:
+        - 38.219831
+        - 64.965655
+        waypoints:
+        - lat: -32.984216
+          lng: 148.35245
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 99.766724
+  - - Jason Kath
+    - togo:
+        distance: 74.98245
+        legs:
+        - 48.236626
+        - 26.745824
+        legsSum:
+        - 48.236626
+        - 74.98245
+        waypoints:
+        - lat: -33.076
+          lng: 148.360183
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 89.750724
+  - - Grant Heaney
+    - togo:
+        distance: 83.663788
+        legs:
+        - 56.917963
+        - 26.745824
+        legsSum:
+        - 56.917963
+        - 83.663788
+        waypoints:
+        - lat: -33.140683
+          lng: 148.427083
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 81.068724
+  - - Noel Collins
+    - togo:
+        distance: 83.631885
+        legs:
+        - 56.886061
+        - 26.745824
+        legsSum:
+        - 56.886061
+        - 83.631885
+        waypoints:
+        - lat: -33.13944999
+          lng: 148.430316
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 81.100724
+  - - Olav Lien Olsen
+    - togo:
+        distance: 91.84055
+        legs:
+        - 65.094726
+        - 26.745824
+        legsSum:
+        - 65.094726
+        - 91.84055
+        waypoints:
+        - lat: -33.22299999
+          lng: 148.4045
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 72.891724
+  - - Andrew Barnes
+    - togo:
+        distance: 94.723533
+        legs:
+        - 67.977709
+        - 26.745824
+        legsSum:
+        - 67.977709
+        - 94.723533
+        waypoints:
+        - lat: -33.23145
+          lng: 148.47695999
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 70.008724
+  - - Hossain Tefaili
+    - togo:
+        distance: 101.75997
+        legs:
+        - 75.014146
+        - 26.745824
+        legsSum:
+        - 75.014146
+        - 101.75997
+        waypoints:
+        - lat: -33.27544999
+          lng: 148.54955
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 62.972724
+  - - Sergei Sukleta
+    - togo:
+        distance: 102.687866
+        legs:
+        - 75.942042
+        - 26.745824
+        legsSum:
+        - 75.942042
+        - 102.687866
+        waypoints:
+        - lat: -33.2841
+          lng: 148.55075999
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 62.044724
+  - - Steve Docherty
+    - togo:
+        distance: 107.080681
+        legs:
+        - 1.833294
+        - 78.501563
+        - 26.745824
+        legsSum:
+        - 1.833294
+        - 80.334857
+        - 107.080681
+        waypoints:
+        - lat: -33.29473
+          lng: 148.54939999
+        - lat: -33.30368521
+          lng: 148.56596243
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 57.652724
+  - - Akira Nagusa
+    - togo:
+        distance: 107.919593
+        legs:
+        - 81.173769
+        - 26.745824
+        legsSum:
+        - 81.173769
+        - 107.919593
+        waypoints:
+        - lat: -33.337516
+          lng: 148.54301599
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 56.812724
+  - - Don Cramer
+    - togo:
+        distance: 108.048083
+        legs:
+        - 3.245706
+        - 78.056553
+        - 26.745824
+        legsSum:
+        - 3.245706
+        - 81.302259
+        - 108.048083
+        waypoints:
+        - lat: -33.3057
+          lng: 148.5438
+        - lat: -33.29539472
+          lng: 148.57647481
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 56.684724
+  - - Dale Regehr
+    - togo:
+        distance: 116.865986
+        legs:
+        - 9.609162
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 9.609162
+        - 90.120162
+        - 116.865986
+        waypoints:
+        - lat: -33.32025999
+          lng: 148.44538299
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 47.866724
+  - - Howard Jones
+    - togo:
+        distance: 123.418098
+        legs:
+        - 16.161274
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 16.161274
+        - 96.672274
+        - 123.418098
+        waypoints:
+        - lat: -33.340083
+          lng: 148.37472999
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 41.314724
+  - - Neale Halsall
+    - togo:
+        distance: 126.750207
+        legs:
+        - 19.493383
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 19.493383
+        - 100.004383
+        - 126.750207
+        waypoints:
+        - lat: -33.40338299
+          lng: 148.35791599
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 37.982724
+  - - Les Bestt
+    - togo:
+        distance: 129.161323
+        legs:
+        - 21.904499
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 21.904499
+        - 102.415499
+        - 129.161323
+        waypoints:
+        - lat: -33.36285
+          lng: 148.31583
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 35.571724
+  - - Rob Larkin
+    - togo:
+        distance: 134.69354
+        legs:
+        - 27.436716
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 27.436716
+        - 107.947715
+        - 134.69354
+        waypoints:
+        - lat: -33.30705999
+          lng: 148.25416
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 30.039724
+  - - Kodaka Fumio
+    - togo:
+        distance: 139.389038
+        legs:
+        - 34.586661
+        - 78.056553
+        - 26.745824
+        legsSum:
+        - 34.586661
+        - 112.643214
+        - 139.389038
+        waypoints:
+        - lat: -33.29055999
+          lng: 148.20439999
+        - lat: -33.29539472
+          lng: 148.57647481
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 25.343724
+  - - Anatoly Reyter
+    - togo:
+        distance: 140.967921
+        legs:
+        - 33.711097
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 33.711097
+        - 114.222096
+        - 140.967921
+        waypoints:
+        - lat: -33.34846
+          lng: 148.18604999
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 23.764724
+  - - Mark Alton
+    - togo:
+        distance: 145.227644
+        legs:
+        - 37.97082
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 37.97082
+        - 118.481819
+        - 145.227644
+        waypoints:
+        - lat: -33.38736
+          lng: 148.145316
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 19.504724
+  - - Ito Manabu
+    - togo:
+        distance: 156.271983
+        legs:
+        - 49.015159
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 49.015159
+        - 129.526159
+        - 156.271983
+        waypoints:
+        - lat: -33.3286
+          lng: 148.02065
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 8.460724
+  - - Nariyuki Watabe
+    - togo:
+        distance: 156.596865
+        legs:
+        - 49.340041
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 49.340041
+        - 129.851041
+        - 156.596865
+        waypoints:
+        - lat: -33.30518299
+          lng: 148.01801599
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 8.135724
+  - - Derek Mckee
+    - togo:
+        distance: 161.592804
+        legs:
+        - 54.33598
+        - 80.511
+        - 26.745824
+        legsSum:
+        - 54.33598
+        - 134.84698
+        - 161.592804
+        waypoints:
+        - lat: -33.303283
+          lng: 147.9643
+        - lat: -33.32941582
+          lng: 148.54822412
+        - lat: -32.65592404
+          lng: 148.23128985
+        - lat: -32.89457718
+          lng: 148.2669668
+      made: 3.142724
+- - - Derek Mckee
+    - togo:
+        distance: 14.135046
+        legs:
+        - 14.135046
+        legsSum:
+        - 14.135046
+        waypoints:
+        - lat: -33.385283
+          lng: 146.46485
+        - lat: -33.2849
+          lng: 146.37149998
+      made: 142.119318
+  - - Josh Woods
+    - togo:
+        distance: 35.688834
+        legs:
+        - 35.688834
+        legsSum:
+        - 35.688834
+        waypoints:
+        - lat: -33.44472999
+          lng: 146.70625
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 120.565318
+  - - Jonas Lobitz
+    - togo:
+        distance: 50.203852
+        legs:
+        - 13.275932
+        - 36.92792
+        legsSum:
+        - 13.275932
+        - 50.203852
+        waypoints:
+        - lat: -33.34609999
+          lng: 146.8
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 106.050318
+  - - Neale Halsall
+    - togo:
+        distance: 52.175076
+        legs:
+        - 15.247156
+        - 36.92792
+        legsSum:
+        - 15.247156
+        - 52.175076
+        waypoints:
+        - lat: -33.36058299
+          lng: 146.84986
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 104.078318
+  - - Mark Alton
+    - togo:
+        distance: 53.593198
+        legs:
+        - 16.824723
+        - 36.768475
+        legsSum:
+        - 16.824723
+        - 53.593198
+        waypoints:
+        - lat: -33.30216
+          lng: 146.77401599
+        - lat: -33.44622907
+          lng: 146.71864262
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 102.661318
+  - - Anatoly Reyter
+    - togo:
+        distance: 57.557647
+        legs:
+        - 20.629727
+        - 36.92792
+        legsSum:
+        - 20.629727
+        - 57.557647
+        waypoints:
+        - lat: -33.36254999
+          lng: 146.91972999
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 98.696318
+  - - Kodaka Fumio
+    - togo:
+        distance: 66.75957
+        legs:
+        - 29.83165
+        - 36.92792
+        legsSum:
+        - 29.83165
+        - 66.75957
+        waypoints:
+        - lat: -33.25482999
+          lng: 146.94679999
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 89.495318
+  - - Nariyuki Watabe
+    - togo:
+        distance: 75.988975
+        legs:
+        - 39.061055
+        - 36.92792
+        legsSum:
+        - 39.061055
+        - 75.988975
+        waypoints:
+        - lat: -33.28568299
+          lng: 147.09549999
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 80.265318
+  - - Tullio Gervasoni
+    - togo:
+        distance: 78.170583
+        legs:
+        - 41.242663
+        - 36.92792
+        legsSum:
+        - 41.242663
+        - 78.170583
+        waypoints:
+        - lat: -33.25406
+          lng: 147.10122999
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 78.084318
+  - - Lukas Bader
+    - togo:
+        distance: 83.618618
+        legs:
+        - 5.24848
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 5.24848
+        - 46.690698
+        - 83.618618
+        waypoints:
+        - lat: -33.2629
+          lng: 147.160583
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 72.635318
+  - - Dick Heffer
+    - togo:
+        distance: 81.415801
+        legs:
+        - 3.11495
+        - 41.372931
+        - 36.92792
+        legsSum:
+        - 3.11495
+        - 44.487881
+        - 81.415801
+        waypoints:
+        - lat: -33.22285999
+          lng: 147.09989999
+        - lat: -33.25086832
+          lng: 147.10053897
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 74.839318
+  - - Vic Hare
+    - togo:
+        distance: 84.671739
+        legs:
+        - 6.301601
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 6.301601
+        - 47.743819
+        - 84.671739
+        waypoints:
+        - lat: -33.25755
+          lng: 147.17255
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 71.582318
+  - - John Smith
+    - togo:
+        distance: 87.942362
+        legs:
+        - 9.655435
+        - 41.359007
+        - 36.92792
+        legsSum:
+        - 9.655435
+        - 51.014442
+        - 87.942362
+        waypoints:
+        - lat: -33.30851599
+          lng: 147.18598299
+        - lat: -33.25549645
+          lng: 147.10372321
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 68.312318
+  - - Ryosuke Hattori
+    - togo:
+        distance: 116.425984
+        legs:
+        - 38.055846
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 38.055846
+        - 79.498064
+        - 116.425984
+        waypoints:
+        - lat: -33.276116
+          lng: 147.51339999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 39.828318
+  - - Hossain Tefaili
+    - togo:
+        distance: 118.225042
+        legs:
+        - 39.854904
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 39.854904
+        - 81.297122
+        - 118.225042
+        waypoints:
+        - lat: -33.30105999
+          lng: 147.53008299
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 38.029318
+  - - Peter Burkitt
+    - togo:
+        distance: 121.366968
+        legs:
+        - 42.99683
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 42.99683
+        - 84.439048
+        - 121.366968
+        waypoints:
+        - lat: -33.315216
+          lng: 147.56184999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 34.887318
+  - - Dale Regehr
+    - togo:
+        distance: 124.669915
+        legs:
+        - 46.299777
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 46.299777
+        - 87.741995
+        - 124.669915
+        waypoints:
+        - lat: -33.3384
+          lng: 147.59302999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 31.584318
+  - - Les Bestt
+    - togo:
+        distance: 127.909605
+        legs:
+        - 49.539467
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 49.539467
+        - 90.981685
+        - 127.909605
+        waypoints:
+        - lat: -33.36741599
+          lng: 147.62085999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 28.344318
+  - - Len Paton
+    - togo:
+        distance: 130.625738
+        legs:
+        - 52.255601
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 52.255601
+        - 93.697818
+        - 130.625738
+        waypoints:
+        - lat: -33.347816
+          lng: 147.65615999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 25.628318
+  - - Andrew Barnes
+    - togo:
+        distance: 131.943628
+        legs:
+        - 53.57349
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 53.57349
+        - 95.015708
+        - 131.943628
+        waypoints:
+        - lat: -33.36863
+          lng: 147.66524999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 24.310318
+  - - Don Cramer
+    - togo:
+        distance: 143.389803
+        legs:
+        - 65.019666
+        - 41.442218
+        - 36.92792
+        legsSum:
+        - 65.019666
+        - 106.461884
+        - 143.389803
+        waypoints:
+        - lat: -33.28576
+          lng: 147.80325999
+        - lat: -33.25557376
+          lng: 147.10482025
+        - lat: -33.44563271
+          lng: 146.72101999
+        - lat: -33.28247719
+          lng: 146.37468079
+      made: 12.864318
+- - - Gavin Myers
+    - togo:
+        distance: 16.642387
+        legs:
+        - 16.642387
+        legsSum:
+        - 16.642387
+        waypoints:
+        - lat: -33.85755
+          lng: 145.81281599
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 199.69667
+  - - Viv Clements
+    - togo:
+        distance: 20.815895
+        legs:
+        - 20.815895
+        legsSum:
+        - 20.815895
+        waypoints:
+        - lat: -33.813
+          lng: 145.80325999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 195.55767
+  - - Jon Durand Snr
+    - togo:
+        distance: 23.003973
+        legs:
+        - 23.003973
+        legsSum:
+        - 23.003973
+        waypoints:
+        - lat: -33.80595999
+          lng: 145.84271599
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 193.33567
+  - - Anatoly Reyter
+    - togo:
+        distance: 30.112275
+        legs:
+        - 30.112275
+        legsSum:
+        - 30.112275
+        waypoints:
+        - lat: -33.811883
+          lng: 145.97354999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 186.22667
+  - - Rory Duncan
+    - togo:
+        distance: 37.365871
+        legs:
+        - 37.365871
+        legsSum:
+        - 37.365871
+        waypoints:
+        - lat: -33.78354999
+          lng: 146.04708299
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 178.97267
+  - - Rob de Groot
+    - togo:
+        distance: 38.455019
+        legs:
+        - 38.455019
+        legsSum:
+        - 38.455019
+        waypoints:
+        - lat: -33.88738299
+          lng: 146.12528299
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 177.88367
+  - - Rob Larkin
+    - togo:
+        distance: 43.294545
+        legs:
+        - 43.294545
+        legsSum:
+        - 43.294545
+        waypoints:
+        - lat: -33.71138299
+          lng: 146.05543
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 173.04367
+  - - Ito Manabu
+    - togo:
+        distance: 47.563725
+        legs:
+        - 47.563725
+        legsSum:
+        - 47.563725
+        waypoints:
+        - lat: -33.72146
+          lng: 146.12864999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 168.77567
+  - - Dale Regehr
+    - togo:
+        distance: 49.095964
+        legs:
+        - 49.095964
+        legsSum:
+        - 49.095964
+        waypoints:
+        - lat: -33.7242
+          lng: 146.152216
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 167.24267
+  - - Peter Burkitt
+    - togo:
+        distance: 53.032791
+        legs:
+        - 53.032791
+        legsSum:
+        - 53.032791
+        waypoints:
+        - lat: -33.84001599
+          lng: 146.272783
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 163.30567
+  - - Dick Heffer
+    - togo:
+        distance: 55.909567
+        legs:
+        - 55.909567
+        legsSum:
+        - 55.909567
+        waypoints:
+        - lat: -33.69075999
+          lng: 146.21413
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 160.42967
+  - - Kodaka Fumio
+    - togo:
+        distance: 54.978208
+        legs:
+        - 54.978208
+        legsSum:
+        - 54.978208
+        waypoints:
+        - lat: -33.693116
+          lng: 146.203683
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 161.36067
+  - - Sergei Sukleta
+    - togo:
+        distance: 57.154808
+        legs:
+        - 57.154808
+        legsSum:
+        - 57.154808
+        waypoints:
+        - lat: -33.63705
+          lng: 146.1776
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 159.18367
+  - - Longfei Yang
+    - togo:
+        distance: 58.430862
+        legs:
+        - 58.430862
+        legsSum:
+        - 58.430862
+        waypoints:
+        - lat: -33.69042999
+          lng: 146.247383
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 157.90767
+  - - Len Paton
+    - togo:
+        distance: 62.864483
+        legs:
+        - 62.864483
+        legsSum:
+        - 62.864483
+        waypoints:
+        - lat: -33.77531599
+          lng: 146.3573
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 153.47167
+  - - Frank Chetcuti
+    - togo:
+        distance: 65.497307
+        legs:
+        - 65.497307
+        legsSum:
+        - 65.497307
+        waypoints:
+        - lat: -33.86205999
+          lng: 146.42005
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 150.84167
+  - - Steve Docherty
+    - togo:
+        distance: 70.937584
+        legs:
+        - 70.937584
+        legsSum:
+        - 70.937584
+        waypoints:
+        - lat: -33.69571599
+          lng: 146.408916
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 145.40067
+  - - Josh Woods
+    - togo:
+        distance: 77.682261
+        legs:
+        - 77.682261
+        legsSum:
+        - 77.682261
+        waypoints:
+        - lat: -33.60555999
+          lng: 146.429516
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 138.65667
+  - - Mark Alton
+    - togo:
+        distance: 83.252881
+        legs:
+        - 83.252881
+        legsSum:
+        - 83.252881
+        waypoints:
+        - lat: -33.631816
+          lng: 146.51875
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 133.08567
+  - - Derek Mckee
+    - togo:
+        distance: 108.524108
+        legs:
+        - 108.524108
+        legsSum:
+        - 108.524108
+        waypoints:
+        - lat: -33.54955
+          lng: 146.77512999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 107.81467
+  - - Yoko Isomoto
+    - togo:
+        distance: 109.052542
+        legs:
+        - 109.052542
+        legsSum:
+        - 109.052542
+        waypoints:
+        - lat: -33.67249999
+          lng: 146.8443
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 107.28367
+  - - Les Bestt
+    - togo:
+        distance: 112.883315
+        legs:
+        - 112.883315
+        legsSum:
+        - 112.883315
+        waypoints:
+        - lat: -33.43885
+          lng: 146.752483
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 103.45567
+  - - Ryosuke Hattori
+    - togo:
+        distance: 113.979298
+        legs:
+        - 113.979298
+        legsSum:
+        - 113.979298
+        waypoints:
+        - lat: -33.57699999
+          lng: 146.85609999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 102.35967
+  - - Tony Armstrong
+    - togo:
+        distance: 114.53025
+        legs:
+        - 114.53025
+        legsSum:
+        - 114.53025
+        waypoints:
+        - lat: -33.610516
+          lng: 146.8796
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 101.80867
+  - - Glen Mcfarlane
+    - togo:
+        distance: 116.518356
+        legs:
+        - 116.518356
+        legsSum:
+        - 116.518356
+        waypoints:
+        - lat: -33.5264
+          lng: 146.85773
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 99.81967
+  - - Noel Collins
+    - togo:
+        distance: 123.893463
+        legs:
+        - 123.893463
+        legsSum:
+        - 123.893463
+        waypoints:
+        - lat: -33.81179999
+          lng: 147.052183
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 92.44567
+  - - Hossain Tefaili
+    - togo:
+        distance: 137.350362
+        legs:
+        - 137.350362
+        legsSum:
+        - 137.350362
+        waypoints:
+        - lat: -33.46029999
+          lng: 147.06906
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 78.98767
+  - - Don Cramer
+    - togo:
+        distance: 138.403825
+        legs:
+        - 138.403825
+        legsSum:
+        - 138.403825
+        waypoints:
+        - lat: -33.5503
+          lng: 147.128083
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 77.93467
+  - - Neale Halsall
+    - togo:
+        distance: 152.168365
+        legs:
+        - 152.168365
+        legsSum:
+        - 152.168365
+        waypoints:
+        - lat: -33.56345999
+          lng: 147.29159999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 64.17067
+  - - Nariyuki Watabe
+    - togo:
+        distance: 152.714749
+        legs:
+        - 152.714749
+        legsSum:
+        - 152.714749
+        waypoints:
+        - lat: -33.57222999
+          lng: 147.30129999
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 63.62367
+  - - Akira Nagusa
+    - togo:
+        distance: 174.144744
+        legs:
+        - 174.144744
+        legsSum:
+        - 174.144744
+        waypoints:
+        - lat: -33.461516
+          lng: 147.49986
+        - lat: -33.98914298
+          lng: 145.72688768
+      made: 42.19367
+- - - Olav Opsanger
+    - togo:
+        distance: 0.915115
+        legs:
+        - 0.915115
+        legsSum:
+        - 0.915115
+        waypoints:
+        - lat: -33.1191
+          lng: 147.90493
+        - lat: -33.12592
+          lng: 147.91042999
+      made: 142.089062
+  - - Akira Nagusa
+    - togo:
+        distance: 2.131492
+        legs:
+        - 2.131492
+        legsSum:
+        - 2.131492
+        waypoints:
+        - lat: -33.10705999
+          lng: 147.90182999
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 140.873062
+  - - Frank Chetcuti
+    - togo:
+        distance: 14.136442
+        legs:
+        - 14.136442
+        legsSum:
+        - 14.136442
+        waypoints:
+        - lat: -32.996616
+          lng: 147.92312999
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 128.868062
+  - - Ito Manabu
+    - togo:
+        distance: 16.018809
+        legs:
+        - 16.018809
+        legsSum:
+        - 16.018809
+        waypoints:
+        - lat: -32.98211599
+          lng: 147.94659999
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 126.985062
+  - - John Smith
+    - togo:
+        distance: 17.458781
+        legs:
+        - 17.458781
+        legsSum:
+        - 17.458781
+        waypoints:
+        - lat: -32.97511599
+          lng: 147.97485
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 125.545062
+  - - Sergei Sukleta
+    - togo:
+        distance: 21.120266
+        legs:
+        - 21.120266
+        legsSum:
+        - 21.120266
+        waypoints:
+        - lat: -32.93925999
+          lng: 147.9687
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 121.884062
+  - - Longfei Yang
+    - togo:
+        distance: 22.095717
+        legs:
+        - 22.095717
+        legsSum:
+        - 22.095717
+        waypoints:
+        - lat: -32.93118299
+          lng: 147.97326
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 120.908062
+  - - Noel Collins
+    - togo:
+        distance: 23.815835
+        legs:
+        - 23.815835
+        legsSum:
+        - 23.815835
+        waypoints:
+        - lat: -32.91723
+          lng: 147.9824
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 119.189062
+  - - Derek Mckee
+    - togo:
+        distance: 41.988305
+        legs:
+        - 16.732756
+        - 25.25555
+        legsSum:
+        - 16.732756
+        - 41.988305
+        waypoints:
+        - lat: -32.87819999
+          lng: 147.80424999
+        - lat: -32.90349179
+          lng: 147.9809077
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 101.016062
+  - - Les Bestt
+    - togo:
+        distance: 47.566738
+        legs:
+        - 22.311188
+        - 25.25555
+        legsSum:
+        - 22.311188
+        - 47.566738
+        waypoints:
+        - lat: -32.90062999
+          lng: 147.74195
+        - lat: -32.90349179
+          lng: 147.9809077
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 95.437062
+  - - Nariyuki Watabe
+    - togo:
+        distance: 50.548847
+        legs:
+        - 25.202489
+        - 25.346358
+        legsSum:
+        - 25.202489
+        - 50.548847
+        waypoints:
+        - lat: -32.74589999
+          lng: 147.785783
+        - lat: -32.90259538
+          lng: 147.98065762
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 92.455062
+  - - Rob de Groot
+    - togo:
+        distance: 72.315447
+        legs:
+        - 47.059897
+        - 25.25555
+        legsSum:
+        - 47.059897
+        - 72.315447
+        waypoints:
+        - lat: -32.83959999
+          lng: 147.482783
+        - lat: -32.90349179
+          lng: 147.9809077
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 70.689062
+  - - Don Cramer
+    - togo:
+        distance: 72.56088
+        legs:
+        - 47.305331
+        - 25.25555
+        legsSum:
+        - 47.305331
+        - 72.56088
+        waypoints:
+        - lat: -32.8378
+          lng: 147.48045999
+        - lat: -32.90349179
+          lng: 147.9809077
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 70.444062
+  - - Peter Burkitt
+    - togo:
+        distance: 140.929851
+        legs:
+        - 69.76931
+        - 45.904991
+        - 25.25555
+        legsSum:
+        - 69.76931
+        - 115.674301
+        - 140.929851
+        waypoints:
+        - lat: -33.336283
+          lng: 147.9256
+        - lat: -32.82031567
+          lng: 147.49950609
+        - lat: -32.90349179
+          lng: 147.9809077
+        - lat: -33.12349719
+          lng: 147.91360502
+      made: 2.074062
+- - - Dale Regehr
+    - togo:
+        distance: 24.754547
+        legs:
+        - 24.754547
+        legsSum:
+        - 24.754547
+        waypoints:
+        - lat: -33.49692999
+          lng: 145.79475999
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 202.564047
+  - - Takeshi Yokoyama
+    - togo:
+        distance: 35.556121
+        legs:
+        - 35.556121
+        legsSum:
+        - 35.556121
+        waypoints:
+        - lat: -33.6278
+          lng: 145.873816
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 191.763047
+  - - Anatoly Reyter
+    - togo:
+        distance: 38.444995
+        legs:
+        - 38.444995
+        legsSum:
+        - 38.444995
+        waypoints:
+        - lat: -33.58109999
+          lng: 145.92786
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 188.873047
+  - - Akira Nagusa
+    - togo:
+        distance: 44.302656
+        legs:
+        - 44.302656
+        legsSum:
+        - 44.302656
+        waypoints:
+        - lat: -33.60336
+          lng: 145.98599999
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 182.957047
+  - - Les Bestt
+    - togo:
+        distance: 49.603488
+        legs:
+        - 3.641394
+        - 45.962094
+        legsSum:
+        - 3.641394
+        - 49.603488
+        waypoints:
+        - lat: -33.57588299
+          lng: 146.00278299
+        - lat: -33.60863083
+          lng: 146.00281156
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 177.716047
+  - - Tony Giammichele
+    - togo:
+        distance: 47.335807
+        legs:
+        - 1.373713
+        - 45.962094
+        legsSum:
+        - 1.373713
+        - 47.335807
+        waypoints:
+        - lat: -33.596316
+          lng: 146.00163
+        - lat: -33.60863083
+          lng: 146.00281156
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 179.983047
+  - - Bruce Wynne
+    - togo:
+        distance: 78.66359
+        legs:
+        - 32.453625
+        - 46.209965
+        legsSum:
+        - 32.453625
+        - 78.66359
+        waypoints:
+        - lat: -33.509816
+          lng: 146.33609999
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 148.655047
+  - - Grant Heaney
+    - togo:
+        distance: 91.703216
+        legs:
+        - 45.493251
+        - 46.209965
+        legsSum:
+        - 45.493251
+        - 91.703216
+        waypoints:
+        - lat: -33.5345
+          lng: 146.4892
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 135.616047
+  - - Don Cramer
+    - togo:
+        distance: 102.206018
+        legs:
+        - 55.996053
+        - 46.209965
+        legsSum:
+        - 55.996053
+        - 102.206018
+        waypoints:
+        - lat: -33.48485999
+          lng: 146.592083
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 125.113047
+  - - Mark Alton
+    - togo:
+        distance: 131.503566
+        legs:
+        - 85.293601
+        - 46.209965
+        legsSum:
+        - 85.293601
+        - 131.503566
+        waypoints:
+        - lat: -33.35676
+          lng: 146.87521599
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 95.816047
+  - - Rob de Groot
+    - togo:
+        distance: 134.517602
+        legs:
+        - 88.307637
+        - 46.209965
+        legsSum:
+        - 88.307637
+        - 134.517602
+        waypoints:
+        - lat: -33.5305
+          lng: 146.95468299
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 92.801047
+  - - Neale Halsall
+    - togo:
+        distance: 141.378614
+        legs:
+        - 95.168649
+        - 46.209965
+        legsSum:
+        - 95.168649
+        - 141.378614
+        waypoints:
+        - lat: -33.35504999
+          lng: 146.98654999
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 85.940047
+  - - Noel Collins
+    - togo:
+        distance: 166.396396
+        legs:
+        - 120.186431
+        - 46.209965
+        legsSum:
+        - 120.186431
+        - 166.396396
+        waypoints:
+        - lat: -33.222616
+          lng: 147.2161
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 60.923047
+  - - Nariyuki Watabe
+    - togo:
+        distance: 186.067105
+        legs:
+        - 139.85714
+        - 46.209965
+        legsSum:
+        - 139.85714
+        - 186.067105
+        waypoints:
+        - lat: -33.17345
+          lng: 147.41995
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 41.252047
+  - - Rob Larkin
+    - togo:
+        distance: 195.251973
+        legs:
+        - 149.042008
+        - 46.209965
+        legsSum:
+        - 149.042008
+        - 195.251973
+        waypoints:
+        - lat: -33.17322999
+          lng: 147.52483
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 32.067047
+  - - Longfei Yang
+    - togo:
+        distance: 215.123061
+        legs:
+        - 168.913096
+        - 46.209965
+        legsSum:
+        - 168.913096
+        - 215.123061
+        waypoints:
+        - lat: -33.36945
+          lng: 147.805
+        - lat: -33.6074327
+          lng: 146.00603
+        - lat: -33.48927719
+          lng: 145.52796837
+      made: 12.196047
+land:
+- - - Noel Collins
+    - togo: 3.336671
+      made: 136.402
+  - - Olav Lien Olsen
+    - togo: 4.493348
+      made: 135.245
+  - - Ryosuke Hattori
+    - togo: 7.675821
+      made: 132.063
+  - - Tony Giammichele
+    - togo: 15.893679
+      made: 123.845
+  - - Kato Minoru
+    - togo: 17.22334
+      made: 122.515
+  - - Ito Manabu
+    - togo: 18.961605
+      made: 120.777
+  - - Jon Durand Snr
+    - togo: 20.68952
+      made: 119.049
+  - - Olav Opsanger
+    - togo: 21.744995
+      made: 117.994
+  - - Niki Longshore
+    - togo: 22.205308
+      made: 117.533
+  - - Vic Hare
+    - togo: 24.476409
+      made: 115.262
+  - - Anatoly Reyter
+    - togo: 24.6849
+      made: 115.054
+  - - Andrew Barnes
+    - togo: 25.138168
+      made: 114.6
+  - - Peter Burkitt
+    - togo: 26.816731
+      made: 112.922
+  - - Akira Nagusa
+    - togo: 26.817368
+      made: 112.921
+  - - Sasha Serebrennikova
+    - togo: 27.07863
+      made: 112.66
+  - - Viv Clements
+    - togo: 29.450711
+      made: 110.288
+  - - Derek Mckee
+    - togo: 29.502947
+      made: 110.236
+  - - Len Paton
+    - togo: 31.847516
+      made: 107.891
+  - - Rohan Taylor
+    - togo: 39.263102
+      made: 100.476
+  - - Longfei Yang
+    - togo: 47.264811
+      made: 92.474
+  - - Gijs Wanders
+    - togo: 52.441224
+      made: 87.297
+  - - Rob Larkin
+    - togo: 52.795119
+      made: 86.944
+  - - Dick Heffer
+    - togo: 53.535399
+      made: 86.203
+  - - Gordon Rigg
+    - togo: 57.705631
+      made: 82.033
+  - - Trent Brown
+    - togo: 62.857642
+      made: 76.881
+  - - Nariyuki Watabe
+    - togo: 64.974481
+      made: 74.764
+  - - Brad Porter
+    - togo: 68.97889
+      made: 70.76
+  - - Don Cramer
+    - togo: 69.657458
+      made: 70.081
+  - - Yoko Isomoto
+    - togo: 84.74315
+      made: 54.995
+  - - Les Bestt
+    - togo: 91.349196
+      made: 48.389
+  - - Mark Alton
+    - togo: 92.116266
+      made: 47.622
+  - - Dale Regehr
+    - togo: 106.857118
+      made: 32.882
+  - - Neale Halsall
+    - togo: 110.694691
+      made: 29.044
+  - - Rob de Groot
+    - togo: 118.651328
+      made: 21.087
+  - - Hossain Tefaili
+    - togo: 129.604016
+      made: 10.135
+- - - Michael Jackson
+    - togo: 11.951555
+      made: 152.781
+  - - Jonny Durand
+    - togo: 12.257859
+      made: 152.475
+  - - Andre Wolf
+    - togo: 12.454643
+      made: 152.278
+  - - Filippo Oppici
+    - togo: 12.519498
+      made: 152.213
+  - - Steve Blenkinsop
+    - togo: 12.592362
+      made: 152.14
+  - - Kato Minoru
+    - togo: 12.630766
+      made: 152.102
+  - - Glen Mcfarlane
+    - togo: 12.74819
+      made: 151.985
+  - - Jonas Lobitz
+    - togo: 12.802231
+      made: 151.93
+  - - Guy Hubbard
+    - togo: 12.932667
+      made: 151.8
+  - - Josh Woods
+    - togo: 13.123321
+      made: 151.609
+  - - Rory Duncan
+    - togo: 13.127572
+      made: 151.605
+  - - Rob de Groot
+    - togo: 13.259077
+      made: 151.474
+  - - Harrison Rowntree
+    - togo: 13.729149
+      made: 151.004
+  - - Gordon Rigg
+    - togo: 13.776818
+      made: 150.956
+  - - Tony Giammichele
+    - togo: 14.098369
+      made: 150.634
+  - - Gijs Wanders
+    - togo: 14.359409
+      made: 150.373
+  - - Jon Durand Snr
+    - togo: 14.370492
+      made: 150.362
+  - - Tyler Borrdaile
+    - togo: 14.519773
+      made: 150.213
+  - - Gerolf Heinrichs
+    - togo: 15.151695
+      made: 149.581
+  - - Adam Stevens
+    - togo: 15.491777
+      made: 149.241
+  - - Takeshi Yokoyama
+    - togo: 15.99157
+      made: 148.741
+  - - Niki Longshore
+    - togo: 16.070453
+      made: 148.662
+  - - Gavin Myers
+    - togo: 16.986128
+      made: 147.747
+  - - Brad Porter
+    - togo: 17.131691
+      made: 147.601
+  - - Trent Brown
+    - togo: 17.135203
+      made: 147.598
+  - - Len Paton
+    - togo: 17.201297
+      made: 147.531
+  - - Bruce Wynne
+    - togo: 17.249461
+      made: 147.483
+  - - Attila Bertok
+    - togo: 18.242221
+      made: 146.491
+  - - Tullio Gervasoni
+    - togo: 18.478517
+      made: 146.254
+  - - Olav Opsanger
+    - togo: 18.646126
+      made: 146.087
+  - - Viv Clements
+    - togo: 18.750866
+      made: 145.982
+  - - Vic Hare
+    - togo: 19.463641
+      made: 145.269
+  - - Lukas Bader
+    - togo: 19.697973
+      made: 145.035
+  - - Frank Chetcuti
+    - togo: 20.098042
+      made: 144.635
+  - - Sasha Serebrennikova
+    - togo: 20.289305
+      made: 144.443
+  - - John Smith
+    - togo: 20.300085
+      made: 144.433
+  - - Tony Armstrong
+    - togo: 21.39349
+      made: 143.339
+  - - Peter Burkitt
+    - togo: 21.634961
+      made: 143.098
+  - - Craig Taylor
+    - togo: 22.447978
+      made: 142.285
+  - - Rohan Taylor
+    - togo: 22.880355
+      made: 141.852
+  - - Christian Voiblet
+    - togo: 23.192745
+      made: 141.54
+  - - Nils Vesk
+    - togo: 24.322666
+      made: 140.41
+  - - Longfei Yang
+    - togo: 25.487233
+      made: 139.245
+  - - Yasuhiro Noma
+    - togo: 26.700675
+      made: 138.032
+  - - Ryosuke Hattori
+    - togo: 35.974422
+      made: 128.758
+  - - Dick Heffer
+    - togo: 36.34053
+      made: 128.392
+  - - Yoko Isomoto
+    - togo: 61.986179
+      made: 102.747
+  - - Mikhail Karmazin
+    - togo: 66.177571
+      made: 98.555
+  - - Jason Kath
+    - togo: 76.352024
+      made: 88.381
+  - - Grant Heaney
+    - togo: 83.991545
+      made: 80.741
+  - - Noel Collins
+    - togo: 85.35079
+      made: 79.382
+  - - Olav Lien Olsen
+    - togo: 92.191518
+      made: 72.541
+  - - Andrew Barnes
+    - togo: 95.12442
+      made: 69.608
+  - - Hossain Tefaili
+    - togo: 101.995555
+      made: 62.737
+  - - Sergei Sukleta
+    - togo: 103.011036
+      made: 61.722
+  - - Steve Docherty
+    - togo: 107.500948
+      made: 57.232
+  - - Akira Nagusa
+    - togo: 108.112075
+      made: 56.621
+  - - Don Cramer
+    - togo: 108.814249
+      made: 55.918
+  - - Dale Regehr
+    - togo: 117.803925
+      made: 46.929
+  - - Howard Jones
+    - togo: 123.688365
+      made: 41.044
+  - - Neale Halsall
+    - togo: 128.312959
+      made: 36.42
+  - - Les Bestt
+    - togo: 130.528325
+      made: 34.204
+  - - Rob Larkin
+    - togo: 134.818971
+      made: 29.914
+  - - Kodaka Fumio
+    - togo: 140.557169
+      made: 24.176
+  - - Anatoly Reyter
+    - togo: 141.780419
+      made: 22.952
+  - - Mark Alton
+    - togo: 145.423228
+      made: 19.309
+  - - Ito Manabu
+    - togo: 156.462009
+      made: 8.271
+  - - Nariyuki Watabe
+    - togo: 156.827515
+      made: 7.905
+  - - Derek Mckee
+    - togo: 161.907189
+      made: 2.826
+- - - Derek Mckee
+    - togo: 14.228702
+      made: 142.026
+  - - Josh Woods
+    - togo: 36.035597
+      made: 120.219
+  - - Jonas Lobitz
+    - togo: 50.384836
+      made: 105.869
+  - - Neale Halsall
+    - togo: 52.395451
+      made: 103.859
+  - - Mark Alton
+    - togo: 53.646275
+      made: 102.608
+  - - Anatoly Reyter
+    - togo: 57.710822
+      made: 98.543
+  - - Kodaka Fumio
+    - togo: 66.835593
+      made: 89.419
+  - - Nariyuki Watabe
+    - togo: 76.007944
+      made: 80.246
+  - - Tullio Gervasoni
+    - togo: 78.477842
+      made: 77.776
+  - - Lukas Bader
+    - togo: 83.715612
+      made: 72.539
+  - - Dick Heffer
+    - togo: 84.409472
+      made: 71.845
+  - - Vic Hare
+    - togo: 84.88776
+      made: 71.367
+  - - John Smith
+    - togo: 88.068401
+      made: 68.186
+  - - Ryosuke Hattori
+    - togo: 116.42919
+      made: 39.825
+  - - Hossain Tefaili
+    - togo: 118.694728
+      made: 37.56
+  - - Peter Burkitt
+    - togo: 121.598718
+      made: 34.656
+  - - Dale Regehr
+    - togo: 125.180262
+      made: 31.074
+  - - Les Bestt
+    - togo: 128.27795
+      made: 27.976
+  - - Len Paton
+    - togo: 130.856553
+      made: 25.398
+  - - Andrew Barnes
+    - togo: 132.402101
+      made: 23.852
+  - - Don Cramer
+    - togo: 145.021401
+      made: 11.233
+- - - Gavin Myers
+    - togo: 17.988778
+      made: 198.35
+  - - Viv Clements
+    - togo: 20.905528
+      made: 195.433
+  - - Jon Durand Snr
+    - togo: 23.280507
+      made: 193.058
+  - - Anatoly Reyter
+    - togo: 30.421117
+      made: 185.918
+  - - Rory Duncan
+    - togo: 37.525769
+      made: 178.813
+  - - Rob de Groot
+    - togo: 38.872186
+      made: 177.466
+  - - Rob Larkin
+    - togo: 44.077888
+      made: 172.261
+  - - Ito Manabu
+    - togo: 47.954031
+      made: 168.385
+  - - Dale Regehr
+    - togo: 49.25097
+      made: 167.088
+  - - Peter Burkitt
+    - togo: 53.260397
+      made: 163.078
+  - - Dick Heffer
+    - togo: 55.996453
+      made: 160.342
+  - - Kodaka Fumio
+    - togo: 56.065929
+      made: 160.273
+  - - Sergei Sukleta
+    - togo: 57.283689
+      made: 159.055
+  - - Longfei Yang
+    - togo: 58.809545
+      made: 157.529
+  - - Len Paton
+    - togo: 62.870409
+      made: 153.468
+  - - Frank Chetcuti
+    - togo: 65.757416
+      made: 150.581
+  - - Steve Docherty
+    - togo: 72.783291
+      made: 143.555
+  - - Josh Woods
+    - togo: 77.810008
+      made: 138.529
+  - - Mark Alton
+    - togo: 83.453869
+      made: 132.885
+  - - Derek Mckee
+    - togo: 108.637984
+      made: 107.701
+  - - Yoko Isomoto
+    - togo: 109.322254
+      made: 107.016
+  - - Les Bestt
+    - togo: 114.299921
+      made: 102.039
+  - - Ryosuke Hattori
+    - togo: 114.546484
+      made: 101.792
+  - - Tony Armstrong
+    - togo: 114.806902
+      made: 101.532
+  - - Glen Mcfarlane
+    - togo: 116.783345
+      made: 99.555
+  - - Noel Collins
+    - togo: 124.134228
+      made: 92.204
+  - - Hossain Tefaili
+    - togo: 137.68559
+      made: 78.653
+  - - Don Cramer
+    - togo: 138.577539
+      made: 77.761
+  - - Neale Halsall
+    - togo: 152.957635
+      made: 63.381
+  - - Nariyuki Watabe
+    - togo: 153.396569
+      made: 62.942
+  - - Akira Nagusa
+    - togo: 174.716932
+      made: 41.622
+- - - Olav Opsanger
+    - togo: 0.998795
+      made: 142.005
+  - - Akira Nagusa
+    - togo: 2.131496
+      made: 140.873
+  - - Frank Chetcuti
+    - togo: 14.255319
+      made: 128.749
+  - - Ito Manabu
+    - togo: 16.122862
+      made: 126.881
+  - - John Smith
+    - togo: 17.875008
+      made: 125.129
+  - - Sergei Sukleta
+    - togo: 21.180809
+      made: 121.823
+  - - Longfei Yang
+    - togo: 22.806713
+      made: 120.197
+  - - Noel Collins
+    - togo: 24.721924
+      made: 118.282
+  - - Derek Mckee
+    - togo: 41.989214
+      made: 101.015
+  - - Les Bestt
+    - togo: 47.978995
+      made: 95.025
+  - - Nariyuki Watabe
+    - togo: 51.794294
+      made: 91.21
+  - - Rob de Groot
+    - togo: 72.701601
+      made: 70.302
+  - - Don Cramer
+    - togo: 73.241225
+      made: 69.763
+  - - Peter Burkitt
+    - togo: 143.526261
+      made: -0.522
+- - - Dale Regehr
+    - togo: 24.969397
+      made: 202.35
+  - - Takeshi Yokoyama
+    - togo: 35.632928
+      made: 191.686
+  - - Anatoly Reyter
+    - togo: 39.192587
+      made: 188.126
+  - - Akira Nagusa
+    - togo: 45.776168
+      made: 181.543
+  - - Les Bestt
+    - togo: 49.761367
+      made: 177.558
+  - - Tony Giammichele
+    - togo: 49.884922
+      made: 177.434
+  - - Bruce Wynne
+    - togo: 79.138642
+      made: 148.18
+  - - Grant Heaney
+    - togo: 91.779966
+      made: 135.539
+  - - Don Cramer
+    - togo: 102.665094
+      made: 124.654
+  - - Mark Alton
+    - togo: 131.585195
+      made: 95.734
+  - - Rob de Groot
+    - togo: 135.028942
+      made: 92.29
+  - - Neale Halsall
+    - togo: 142.26698
+      made: 85.052
+  - - Noel Collins
+    - togo: 166.670466
+      made: 60.649
+  - - Nariyuki Watabe
+    - togo: 186.067105
+      made: 41.252
+  - - Rob Larkin
+    - togo: 195.440787
+      made: 31.878
+  - - Longfei Yang
+    - togo: 216.863069
+      made: 10.456
