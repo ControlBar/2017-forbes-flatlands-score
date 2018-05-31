@@ -1,5 +1,6 @@
 comp:
   compName: Forbes Flatlands 2017
+  discipline: hg
   location: forbes
   from: '2016-12-29'
   to: '2016-12-29'
