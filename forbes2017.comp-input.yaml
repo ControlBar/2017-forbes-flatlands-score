@@ -7,6 +7,7 @@ comp:
   civilId: '11691'
   utcOffset:
     timeZoneMinutes: 660
+  scoreBack: 0.0 s
 nominal:
   launch: 1
   goal: 0.25
@@ -47,6 +48,7 @@ tasks:
   - 2016-12-31T04:45:00Z
   - 2016-12-31T05:00:00Z
   absent: []
+  stopped: null
 - taskName: smart alec
   zones:
   - zoneName: BMI023
@@ -92,6 +94,7 @@ tasks:
   - 2017-01-02T04:15:00Z
   - 2017-01-02T04:30:00Z
   absent: []
+  stopped: null
 - taskName: boom town
   zones:
   - zoneName: BMI023
@@ -138,6 +141,7 @@ tasks:
   - 2017-01-03T04:45:00Z
   absent:
   - Longfei Yang
+  stopped: null
 - taskName: all good at goolgowi
   zones:
   - zoneName: BMI023
@@ -171,6 +175,7 @@ tasks:
   - 2017-01-04T04:15:00Z
   - 2017-01-04T04:30:00Z
   absent: []
+  stopped: null
 - taskName: andre do you have a name for the task
   zones:
   - zoneName: BMI023
@@ -219,6 +224,7 @@ tasks:
   - Hossain Tefaili
   - Mikhail Karmazin
   - Steve Docherty
+  stopped: null
 - taskName: hillstorm
   zones:
   - zoneName: BMI023
@@ -259,6 +265,7 @@ tasks:
   absent:
   - Hossain Tefaili
   - Steve Docherty
+  stopped: null
 taskFolders:
 - - scoring
   - day 1
