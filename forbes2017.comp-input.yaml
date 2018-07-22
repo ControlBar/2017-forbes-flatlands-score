@@ -17,36 +17,20 @@ nominal:
 tasks:
 - taskName: Well we'll think about it...
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: WELLIN
-    lat: -32.46522
-    lng: 148.9893
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - circle:
-      center:
-      - -32.46522 deg
-      - 148.9893 deg
+    - zoneName: WELLIN
+      lat: -32.46522
+      lng: 148.9893
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -57,13 +41,29 @@ tasks:
         - -33.3562 deg
         - 147.9336 deg
         radius: 10000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -32.46522 deg
         - 148.9893 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      goal:
+        circle:
+          center:
+          - -32.46522 deg
+          - 148.9893 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 3
@@ -83,56 +83,31 @@ tasks:
   - 2016-12-31T04:45:00Z
   - 2016-12-31T05:00:00Z
   absent: []
+  stopped: null
 - taskName: smart alec
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: TOOGON
-    lat: -33.35167
-    lng: 148.63012
-    radius: 8000.0 m
-  - zoneName: TOMING
-    lat: -32.56608
-    lng: 148.22657
-    radius: 10000.0 m
-  - zoneName: ALEC
-    lat: -32.897
-    lng: 148.2638
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -33.35167 deg
-      - 148.63012 deg
+    - zoneName: TOOGON
+      lat: -33.35167
+      lng: 148.63012
       radius: 8000.0 m
-  - cylinder:
-      center:
-      - -32.56608 deg
-      - 148.22657 deg
+    - zoneName: TOMING
+      lat: -32.56608
+      lng: 148.22657
       radius: 10000.0 m
-  - circle:
-      center:
-      - -32.897 deg
-      - 148.2638 deg
+    - zoneName: ALEC
+      lat: -32.897
+      lng: 148.2638
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -153,13 +128,39 @@ tasks:
         - -32.56608 deg
         - 148.22657 deg
         radius: 10000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -32.897 deg
         - 148.2638 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -33.35167 deg
+          - 148.63012 deg
+          radius: 8000.0 m
+      - cylinder:
+          center:
+          - -32.56608 deg
+          - 148.22657 deg
+          radius: 10000.0 m
+      goal:
+        circle:
+          center:
+          - -32.897 deg
+          - 148.2638 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 5
@@ -183,56 +184,31 @@ tasks:
   - 2017-01-02T04:15:00Z
   - 2017-01-02T04:30:00Z
   absent: []
+  stopped: null
 - taskName: boom town
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: MILBY
-    lat: -33.25198
-    lng: 147.10463
-    radius: 400.0 m
-  - zoneName: TULLIB
-    lat: -33.44923
-    lng: 146.72102
-    radius: 400.0 m
-  - zoneName: LAKECA
-    lat: -33.2849
-    lng: 146.3715
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -33.25198 deg
-      - 147.10463 deg
+    - zoneName: MILBY
+      lat: -33.25198
+      lng: 147.10463
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.44923 deg
-      - 146.72102 deg
+    - zoneName: TULLIB
+      lat: -33.44923
+      lng: 146.72102
       radius: 400.0 m
-  - circle:
-      center:
-      - -33.2849 deg
-      - 146.3715 deg
+    - zoneName: LAKECA
+      lat: -33.2849
+      lng: 146.3715
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -253,13 +229,39 @@ tasks:
         - -33.44923 deg
         - 146.72102 deg
         radius: 400.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -33.2849 deg
         - 146.3715 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -33.25198 deg
+          - 147.10463 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.44923 deg
+          - 146.72102 deg
+          radius: 400.0 m
+      goal:
+        circle:
+          center:
+          - -33.2849 deg
+          - 146.3715 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 5
@@ -285,38 +287,23 @@ tasks:
   absent:
   - - '64'
     - Longfei Yang
+  stopped: null
 - taskName: all good at goolgowi
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: GOOLGO
-    lat: -33.9952
-    lng: 145.71887
-    radius: 1000.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - circle:
-      center:
-      - -33.9952 deg
-      - 145.71887 deg
+    - zoneName: GOOLGO
+      lat: -33.9952
+      lng: 145.71887
       radius: 1000.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -327,13 +314,29 @@ tasks:
         - -33.3562 deg
         - 147.9336 deg
         radius: 10000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -33.9952 deg
         - 145.71887 deg
         radius: 1000.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      goal:
+        circle:
+          center:
+          - -33.9952 deg
+          - 145.71887 deg
+          radius: 1000.0 m
   speedSection:
   - 2
   - 3
@@ -353,56 +356,31 @@ tasks:
   - 2017-01-04T04:15:00Z
   - 2017-01-04T04:30:00Z
   absent: []
+  stopped: null
 - taskName: andre do you have a name for the task
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: FIFIEL
-    lat: -32.80455
-    lng: 147.4494
-    radius: 5000.0 m
-  - zoneName: MINES
-    lat: -32.90223
-    lng: 147.98492
-    radius: 400.0 m
-  - zoneName: BOGAN
-    lat: -33.12592
-    lng: 147.91043
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -32.80455 deg
-      - 147.4494 deg
+    - zoneName: FIFIEL
+      lat: -32.80455
+      lng: 147.4494
       radius: 5000.0 m
-  - cylinder:
-      center:
-      - -32.90223 deg
-      - 147.98492 deg
+    - zoneName: MINES
+      lat: -32.90223
+      lng: 147.98492
       radius: 400.0 m
-  - circle:
-      center:
-      - -33.12592 deg
-      - 147.91043 deg
+    - zoneName: BOGAN
+      lat: -33.12592
+      lng: 147.91043
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -423,13 +401,39 @@ tasks:
         - -32.90223 deg
         - 147.98492 deg
         radius: 400.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -33.12592 deg
         - 147.91043 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -32.80455 deg
+          - 147.4494 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - -32.90223 deg
+          - 147.98492 deg
+          radius: 400.0 m
+      goal:
+        circle:
+          center:
+          - -33.12592 deg
+          - 147.91043 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 5
@@ -460,47 +464,27 @@ tasks:
     - Mikhail Karmazin
   - - '36'
     - Steve Docherty
+  stopped: null
 - taskName: hillstorm
   zones:
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 400.0 m
-  - zoneName: BMI023
-    lat: -33.3562
-    lng: 147.9336
-    radius: 10000.0 m
-  - zoneName: MONIA
-    lat: -33.61103
-    lng: 146.00603
-    radius: 400.0 m
-  - zoneName: HILLS
-    lat: -33.4917
-    lng: 145.52478
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    raw:
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3562 deg
-      - 147.9336 deg
+    - zoneName: BMI023
+      lat: -33.3562
+      lng: 147.9336
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -33.61103 deg
-      - 146.00603 deg
+    - zoneName: MONIA
+      lat: -33.61103
+      lng: 146.00603
       radius: 400.0 m
-  - circle:
-      center:
-      - -33.4917 deg
-      - 145.52478 deg
+    - zoneName: HILLS
+      lat: -33.4917
+      lng: 145.52478
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3562 deg
@@ -516,13 +500,34 @@ tasks:
         - -33.61103 deg
         - 146.00603 deg
         radius: 400.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -33.4917 deg
         - 145.52478 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3562 deg
+          - 147.9336 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -33.61103 deg
+          - 146.00603 deg
+          radius: 400.0 m
+      goal:
+        circle:
+          center:
+          - -33.4917 deg
+          - 145.52478 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 4
@@ -547,6 +552,7 @@ tasks:
     - Hossain Tefaili
   - - '36'
     - Steve Docherty
+  stopped: null
 taskFolders:
 - - scoring
   - day 1
