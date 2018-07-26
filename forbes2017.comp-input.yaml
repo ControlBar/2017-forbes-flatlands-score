@@ -31,18 +31,19 @@ tasks:
       lng: 148.9893
       radius: 400.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 10000.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -32.46522 deg
@@ -92,12 +93,13 @@ tasks:
       lng: 148.2638
       radius: 400.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
@@ -113,7 +115,7 @@ tasks:
           - -32.56608 deg
           - 148.22657 deg
           radius: 10000.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -32.897 deg
@@ -167,12 +169,13 @@ tasks:
       lng: 146.3715
       radius: 400.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
@@ -188,7 +191,7 @@ tasks:
           - -33.44923 deg
           - 146.72102 deg
           radius: 400.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -33.2849 deg
@@ -236,18 +239,19 @@ tasks:
       lng: 145.71887
       radius: 1000.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 10000.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -33.9952 deg
@@ -297,12 +301,13 @@ tasks:
       lng: 147.91043
       radius: 400.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
@@ -318,7 +323,7 @@ tasks:
           - -32.90223 deg
           - 147.98492 deg
           radius: 400.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -33.12592 deg
@@ -375,12 +380,13 @@ tasks:
       lng: 145.52478
       radius: 400.0 m
     kind:
-      turnpoints:
+      prolog:
       - cylinder:
           center:
           - -33.3562 deg
           - 147.9336 deg
           radius: 400.0 m
+      race:
       - cylinder:
           center:
           - -33.3562 deg
@@ -391,7 +397,7 @@ tasks:
           - -33.61103 deg
           - 146.00603 deg
           radius: 400.0 m
-      goal:
+      race-ess-is-goal:
         circle:
           center:
           - -33.4917 deg
