@@ -33,6 +33,11 @@ difficulty:
     endChunk: 10.2 km
     endAhead: 22.2 km
     down: 1
+    downs:
+    - 10.135 km
+    downers:
+    - - '1'
+      - Hossain Tefaili
     downward: 2
     rel: 6.80272e-3
     frac: 6.80272e-3
@@ -41,6 +46,11 @@ difficulty:
     endChunk: 21.1 km
     endAhead: 33.1 km
     down: 1
+    downs:
+    - 21.087 km
+    downers:
+    - - '42'
+      - Rob de Groot
     downward: 3
     rel: 1.020408e-2
     frac: 1.70068e-2
@@ -49,6 +59,11 @@ difficulty:
     endChunk: 29.1 km
     endAhead: 41.1 km
     down: 1
+    downs:
+    - 29.044 km
+    downers:
+    - - '68'
+      - Neale Halsall
     downward: 2
     rel: 6.80272e-3
     frac: 2.380952e-2
@@ -57,6 +72,11 @@ difficulty:
     endChunk: 32.9 km
     endAhead: 44.9 km
     down: 1
+    downs:
+    - 32.882 km
+    downers:
+    - - '52'
+      - Dale Regehr
     downward: 1
     rel: 3.40136e-3
     frac: 2.721088e-2
@@ -65,6 +85,11 @@ difficulty:
     endChunk: 47.7 km
     endAhead: 59.7 km
     down: 1
+    downs:
+    - 47.622 km
+    downers:
+    - - '67'
+      - Mark Alton
     downward: 3
     rel: 1.020408e-2
     frac: 3.741497e-2
@@ -73,6 +98,11 @@ difficulty:
     endChunk: 48.4 km
     endAhead: 60.4 km
     down: 1
+    downs:
+    - 48.389 km
+    downers:
+    - - '24'
+      - Les Bestt
     downward: 2
     rel: 6.80272e-3
     frac: 4.421769e-2
@@ -81,6 +111,11 @@ difficulty:
     endChunk: 55.0 km
     endAhead: 67.0 km
     down: 1
+    downs:
+    - 54.995 km
+    downers:
+    - - '6'
+      - Yoko Isomoto
     downward: 1
     rel: 3.40136e-3
     frac: 4.761905e-2
@@ -89,6 +124,11 @@ difficulty:
     endChunk: 70.1 km
     endAhead: 82.1 km
     down: 1
+    downs:
+    - 70.081 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 5
     rel: 1.70068e-2
     frac: 6.462585e-2
@@ -97,6 +137,11 @@ difficulty:
     endChunk: 70.8 km
     endAhead: 82.8 km
     down: 1
+    downs:
+    - 70.760 km
+    downers:
+    - - '34'
+      - Brad Porter
     downward: 4
     rel: 1.360544e-2
     frac: 7.823129e-2
@@ -105,6 +150,11 @@ difficulty:
     endChunk: 74.8 km
     endAhead: 86.8 km
     down: 1
+    downs:
+    - 74.764 km
+    downers:
+    - - '18'
+      - Nariyuki Watabe
     downward: 4
     rel: 1.360544e-2
     frac: 9.183673e-2
@@ -113,6 +163,11 @@ difficulty:
     endChunk: 76.9 km
     endAhead: 88.9 km
     down: 1
+    downs:
+    - 76.881 km
+    downers:
+    - - '31'
+      - Trent Brown
     downward: 5
     rel: 1.70068e-2
     frac: 0.10884354
@@ -121,6 +176,11 @@ difficulty:
     endChunk: 82.1 km
     endAhead: 94.1 km
     down: 1
+    downs:
+    - 82.033 km
+    downers:
+    - - '8'
+      - Gordon Rigg
     downward: 5
     rel: 1.70068e-2
     frac: 0.12585034
@@ -129,6 +189,11 @@ difficulty:
     endChunk: 86.3 km
     endAhead: 98.3 km
     down: 1
+    downs:
+    - 86.203 km
+    downers:
+    - - '54'
+      - Dick Heffer
     downward: 4
     rel: 1.360544e-2
     frac: 0.13945578
@@ -137,6 +202,11 @@ difficulty:
     endChunk: 87.0 km
     endAhead: 99.0 km
     down: 1
+    downs:
+    - 86.944 km
+    downers:
+    - - '71'
+      - Rob Larkin
     downward: 3
     rel: 1.020408e-2
     frac: 0.14965986
@@ -145,6 +215,11 @@ difficulty:
     endChunk: 87.3 km
     endAhead: 99.3 km
     down: 1
+    downs:
+    - 87.297 km
+    downers:
+    - - '9'
+      - Gijs Wanders
     downward: 2
     rel: 6.80272e-3
     frac: 0.15646259
@@ -153,6 +228,11 @@ difficulty:
     endChunk: 92.5 km
     endAhead: 104.5 km
     down: 1
+    downs:
+    - 92.474 km
+    downers:
+    - - '64'
+      - Longfei Yang
     downward: 2
     rel: 6.80272e-3
     frac: 0.16326531
@@ -161,6 +241,11 @@ difficulty:
     endChunk: 100.5 km
     endAhead: 112.5 km
     down: 1
+    downs:
+    - 100.476 km
+    downers:
+    - - '22'
+      - Rohan Taylor
     downward: 3
     rel: 1.020408e-2
     frac: 0.17346939
@@ -169,6 +254,11 @@ difficulty:
     endChunk: 107.9 km
     endAhead: 119.9 km
     down: 1
+    downs:
+    - 107.891 km
+    downers:
+    - - '63'
+      - Len Paton
     downward: 10
     rel: 3.401361e-2
     frac: 0.20748299
@@ -177,6 +267,14 @@ difficulty:
     endChunk: 110.3 km
     endAhead: 122.3 km
     down: 2
+    downs:
+    - 110.236 km
+    - 110.288 km
+    downers:
+    - - '2'
+      - Derek Mckee
+    - - '13'
+      - Viv Clements
     downward: 10
     rel: 3.401361e-2
     frac: 0.2414966
@@ -185,6 +283,11 @@ difficulty:
     endChunk: 112.7 km
     endAhead: 124.7 km
     down: 1
+    downs:
+    - 112.660 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
     downward: 11
     rel: 3.741497e-2
     frac: 0.27891156
@@ -193,14 +296,27 @@ difficulty:
     endChunk: 113.0 km
     endAhead: 125.0 km
     down: 2
+    downs:
+    - 112.921 km
+    - 112.922 km
+    downers:
+    - - '46'
+      - Akira Nagusa
+    - - '14'
+      - Peter Burkitt
     downward: 10
     rel: 3.401361e-2
     frac: 0.31292517
-  - chunk: 1046
-    startChunk: 114.5 km
-    endChunk: 114.6 km
-    endAhead: 126.6 km
+  - chunk: 1047
+    startChunk: 114.6 km
+    endChunk: 114.7 km
+    endAhead: 126.7 km
     down: 1
+    downs:
+    - 114.600 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 9
     rel: 3.061224e-2
     frac: 0.34353741
@@ -209,6 +325,11 @@ difficulty:
     endChunk: 115.1 km
     endAhead: 127.1 km
     down: 1
+    downs:
+    - 115.054 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
     downward: 8
     rel: 2.721088e-2
     frac: 0.3707483
@@ -217,6 +338,11 @@ difficulty:
     endChunk: 115.3 km
     endAhead: 127.3 km
     down: 1
+    downs:
+    - 115.262 km
+    downers:
+    - - '74'
+      - Vic Hare
     downward: 7
     rel: 2.380952e-2
     frac: 0.39455782
@@ -225,6 +351,11 @@ difficulty:
     endChunk: 117.6 km
     endAhead: 129.6 km
     down: 1
+    downs:
+    - 117.533 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 6
     rel: 2.040816e-2
     frac: 0.41496599
@@ -233,6 +364,11 @@ difficulty:
     endChunk: 118.0 km
     endAhead: 130.0 km
     down: 1
+    downs:
+    - 117.994 km
+    downers:
+    - - '7'
+      - Olav Opsanger
     downward: 5
     rel: 1.70068e-2
     frac: 0.43197279
@@ -241,6 +377,11 @@ difficulty:
     endChunk: 119.1 km
     endAhead: 131.1 km
     down: 1
+    downs:
+    - 119.049 km
+    downers:
+    - - '39'
+      - Jon Durand Snr
     downward: 4
     rel: 1.360544e-2
     frac: 0.44557823
@@ -249,6 +390,11 @@ difficulty:
     endChunk: 120.8 km
     endAhead: 132.8 km
     down: 1
+    downs:
+    - 120.777 km
+    downers:
+    - - '66'
+      - Ito Manabu
     downward: 4
     rel: 1.360544e-2
     frac: 0.45918367
@@ -257,6 +403,11 @@ difficulty:
     endChunk: 122.6 km
     endAhead: 134.6 km
     down: 1
+    downs:
+    - 122.515 km
+    downers:
+    - - '17'
+      - Kato Minoru
     downward: 3
     rel: 1.020408e-2
     frac: 0.46938776
@@ -265,6 +416,11 @@ difficulty:
     endChunk: 123.9 km
     endAhead: 135.9 km
     down: 1
+    downs:
+    - 123.845 km
+    downers:
+    - - '73'
+      - Tony Giammichele
     downward: 3
     rel: 1.020408e-2
     frac: 0.47959184
@@ -273,6 +429,11 @@ difficulty:
     endChunk: 132.1 km
     endAhead: 144.1 km
     down: 1
+    downs:
+    - 132.063 km
+    downers:
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 1.020408e-2
     frac: 0.48979592
@@ -281,6 +442,11 @@ difficulty:
     endChunk: 135.3 km
     endAhead: 147.3 km
     down: 1
+    downs:
+    - 135.245 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 6.80272e-3
     frac: 0.49659864
@@ -289,6 +455,11 @@ difficulty:
     endChunk: 136.5 km
     endAhead: 148.5 km
     down: 1
+    downs:
+    - 136.402 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 3.40136e-3
     frac: 0.5
@@ -297,6 +468,8 @@ difficulty:
     endChunk: 10.0 km
     endAhead: 16.6 km
     down: 3
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 8.7566e-4
@@ -305,6 +478,8 @@ difficulty:
     endChunk: 19.4 km
     endAhead: 26.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 2.62697e-3
     frac: 3.50263e-3
@@ -313,6 +488,8 @@ difficulty:
     endChunk: 23.0 km
     endAhead: 29.6 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 5.25394e-3
@@ -321,6 +498,8 @@ difficulty:
     endChunk: 24.2 km
     endAhead: 30.8 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 7.00525e-3
@@ -329,6 +508,8 @@ difficulty:
     endChunk: 30.0 km
     endAhead: 36.6 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 2.62697e-3
     frac: 9.63222e-3
@@ -337,6 +518,8 @@ difficulty:
     endChunk: 34.3 km
     endAhead: 40.9 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 1.138354e-2
@@ -345,6 +528,8 @@ difficulty:
     endChunk: 36.5 km
     endAhead: 43.1 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 1.313485e-2
@@ -353,6 +538,8 @@ difficulty:
     endChunk: 41.1 km
     endAhead: 47.7 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 1.488616e-2
@@ -361,6 +548,8 @@ difficulty:
     endChunk: 47.0 km
     endAhead: 53.6 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 1.576182e-2
@@ -369,6 +558,8 @@ difficulty:
     endChunk: 56.0 km
     endAhead: 62.6 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 3.50263e-3
     frac: 1.926445e-2
@@ -377,6 +568,8 @@ difficulty:
     endChunk: 56.7 km
     endAhead: 63.3 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 3.50263e-3
     frac: 2.276708e-2
@@ -385,6 +578,8 @@ difficulty:
     endChunk: 57.3 km
     endAhead: 63.9 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 2.62697e-3
     frac: 2.539405e-2
@@ -393,6 +588,8 @@ difficulty:
     endChunk: 61.8 km
     endAhead: 68.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 2.714536e-2
@@ -401,6 +598,8 @@ difficulty:
     endChunk: 62.8 km
     endAhead: 69.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 2.802102e-2
@@ -409,6 +608,8 @@ difficulty:
     endChunk: 69.7 km
     endAhead: 76.3 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 2.977233e-2
@@ -417,6 +618,8 @@ difficulty:
     endChunk: 72.6 km
     endAhead: 79.2 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 3.064799e-2
@@ -425,6 +628,8 @@ difficulty:
     endChunk: 79.4 km
     endAhead: 86.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 3.23993e-2
@@ -433,6 +638,8 @@ difficulty:
     endChunk: 80.8 km
     endAhead: 87.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 3.327496e-2
@@ -441,6 +648,8 @@ difficulty:
     endChunk: 88.4 km
     endAhead: 95.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 3.415061e-2
@@ -449,6 +658,8 @@ difficulty:
     endChunk: 98.6 km
     endAhead: 105.2 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 3.590193e-2
@@ -457,6 +668,8 @@ difficulty:
     endChunk: 102.8 km
     endAhead: 109.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 3.677758e-2
@@ -465,6 +678,8 @@ difficulty:
     endChunk: 128.4 km
     endAhead: 135.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 1.75131e-3
     frac: 3.85289e-2
@@ -473,6 +688,8 @@ difficulty:
     endChunk: 128.8 km
     endAhead: 135.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 8.7566e-4
     frac: 3.940455e-2
@@ -481,6 +698,8 @@ difficulty:
     endChunk: 138.1 km
     endAhead: 144.7 km
     down: 1
+    downs: []
+    downers: []
     downward: 10
     rel: 8.75657e-3
     frac: 4.816112e-2
@@ -489,6 +708,8 @@ difficulty:
     endChunk: 139.3 km
     endAhead: 145.9 km
     down: 1
+    downs: []
+    downers: []
     downward: 11
     rel: 9.63222e-3
     frac: 5.779335e-2
@@ -497,6 +718,8 @@ difficulty:
     endChunk: 140.5 km
     endAhead: 147.1 km
     down: 1
+    downs: []
+    downers: []
     downward: 14
     rel: 1.225919e-2
     frac: 7.005254e-2
@@ -505,6 +728,8 @@ difficulty:
     endChunk: 141.6 km
     endAhead: 148.2 km
     down: 1
+    downs: []
+    downers: []
     downward: 17
     rel: 1.488616e-2
     frac: 8.49387e-2
@@ -513,6 +738,8 @@ difficulty:
     endChunk: 141.9 km
     endAhead: 148.5 km
     down: 1
+    downs: []
+    downers: []
     downward: 16
     rel: 1.401051e-2
     frac: 9.894921e-2
@@ -521,6 +748,8 @@ difficulty:
     endChunk: 142.3 km
     endAhead: 148.9 km
     down: 1
+    downs: []
+    downers: []
     downward: 17
     rel: 1.488616e-2
     frac: 0.11383538
@@ -529,6 +758,8 @@ difficulty:
     endChunk: 143.1 km
     endAhead: 149.7 km
     down: 1
+    downs: []
+    downers: []
     downward: 18
     rel: 1.576182e-2
     frac: 0.1295972
@@ -537,6 +768,8 @@ difficulty:
     endChunk: 143.4 km
     endAhead: 150.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 17
     rel: 1.488616e-2
     frac: 0.14448336
@@ -545,6 +778,11 @@ difficulty:
     endChunk: 144.5 km
     endAhead: 151.1 km
     down: 2
+    downs:
+    - 144.443 km
+    downers:
+    - - '1'
+      - Hossain Tefaili
     downward: 21
     rel: 1.838879e-2
     frac: 0.16287215
@@ -553,6 +791,11 @@ difficulty:
     endChunk: 144.7 km
     endAhead: 151.3 km
     down: 1
+    downs:
+    - 144.635 km
+    downers:
+    - - '42'
+      - Rob de Groot
     downward: 20
     rel: 1.751313e-2
     frac: 0.18038529
@@ -561,6 +804,11 @@ difficulty:
     endChunk: 145.1 km
     endAhead: 151.7 km
     down: 1
+    downs:
+    - 145.035 km
+    downers:
+    - - '68'
+      - Neale Halsall
     downward: 21
     rel: 1.838879e-2
     frac: 0.19877408
@@ -569,6 +817,11 @@ difficulty:
     endChunk: 145.3 km
     endAhead: 151.9 km
     down: 1
+    downs:
+    - 145.269 km
+    downers:
+    - - '52'
+      - Dale Regehr
     downward: 21
     rel: 1.838879e-2
     frac: 0.21716287
@@ -577,6 +830,11 @@ difficulty:
     endChunk: 146.0 km
     endAhead: 152.6 km
     down: 1
+    downs:
+    - 145.982 km
+    downers:
+    - - '67'
+      - Mark Alton
     downward: 24
     rel: 2.101576e-2
     frac: 0.23817863
@@ -585,6 +843,11 @@ difficulty:
     endChunk: 146.1 km
     endAhead: 152.7 km
     down: 1
+    downs:
+    - 146.087 km
+    downers:
+    - - '24'
+      - Les Bestt
     downward: 23
     rel: 2.014011e-2
     frac: 0.25831874
@@ -593,6 +856,11 @@ difficulty:
     endChunk: 146.3 km
     endAhead: 152.9 km
     down: 1
+    downs:
+    - 146.254 km
+    downers:
+    - - '6'
+      - Yoko Isomoto
     downward: 23
     rel: 2.014011e-2
     frac: 0.27845884
@@ -601,6 +869,11 @@ difficulty:
     endChunk: 146.5 km
     endAhead: 153.1 km
     down: 1
+    downs:
+    - 146.491 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 22
     rel: 1.926445e-2
     frac: 0.29772329
@@ -609,6 +882,11 @@ difficulty:
     endChunk: 147.5 km
     endAhead: 154.1 km
     down: 1
+    downs:
+    - 147.483 km
+    downers:
+    - - '34'
+      - Brad Porter
     downward: 21
     rel: 1.838879e-2
     frac: 0.31611208
@@ -617,6 +895,14 @@ difficulty:
     endChunk: 147.6 km
     endAhead: 154.2 km
     down: 2
+    downs:
+    - 147.531 km
+    - 147.598 km
+    downers:
+    - - '18'
+      - Nariyuki Watabe
+    - - '31'
+      - Trent Brown
     downward: 20
     rel: 1.751313e-2
     frac: 0.33362522
@@ -625,6 +911,11 @@ difficulty:
     endChunk: 147.7 km
     endAhead: 154.3 km
     down: 1
+    downs:
+    - 147.601 km
+    downers:
+    - - '8'
+      - Gordon Rigg
     downward: 19
     rel: 1.663748e-2
     frac: 0.3502627
@@ -633,6 +924,11 @@ difficulty:
     endChunk: 147.8 km
     endAhead: 154.4 km
     down: 1
+    downs:
+    - 147.747 km
+    downers:
+    - - '54'
+      - Dick Heffer
     downward: 18
     rel: 1.576182e-2
     frac: 0.36602452
@@ -641,6 +937,11 @@ difficulty:
     endChunk: 148.7 km
     endAhead: 155.3 km
     down: 1
+    downs:
+    - 148.662 km
+    downers:
+    - - '71'
+      - Rob Larkin
     downward: 17
     rel: 1.488616e-2
     frac: 0.38091068
@@ -649,6 +950,11 @@ difficulty:
     endChunk: 148.8 km
     endAhead: 155.4 km
     down: 1
+    downs:
+    - 148.741 km
+    downers:
+    - - '9'
+      - Gijs Wanders
     downward: 16
     rel: 1.401051e-2
     frac: 0.39492119
@@ -657,6 +963,11 @@ difficulty:
     endChunk: 149.3 km
     endAhead: 155.9 km
     down: 1
+    downs:
+    - 149.241 km
+    downers:
+    - - '64'
+      - Longfei Yang
     downward: 15
     rel: 1.313485e-2
     frac: 0.40805604
@@ -665,6 +976,11 @@ difficulty:
     endChunk: 149.6 km
     endAhead: 156.2 km
     down: 1
+    downs:
+    - 149.581 km
+    downers:
+    - - '22'
+      - Rohan Taylor
     downward: 14
     rel: 1.225919e-2
     frac: 0.42031524
@@ -673,6 +989,11 @@ difficulty:
     endChunk: 150.3 km
     endAhead: 156.9 km
     down: 1
+    downs:
+    - 150.213 km
+    downers:
+    - - '63'
+      - Len Paton
     downward: 13
     rel: 1.138354e-2
     frac: 0.43169877
@@ -681,6 +1002,14 @@ difficulty:
     endChunk: 150.4 km
     endAhead: 157.0 km
     down: 2
+    downs:
+    - 150.362 km
+    - 150.373 km
+    downers:
+    - - '2'
+      - Derek Mckee
+    - - '13'
+      - Viv Clements
     downward: 12
     rel: 1.050788e-2
     frac: 0.44220665
@@ -689,6 +1018,11 @@ difficulty:
     endChunk: 150.7 km
     endAhead: 157.3 km
     down: 1
+    downs:
+    - 150.634 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
     downward: 11
     rel: 9.63222e-3
     frac: 0.45183888
@@ -697,6 +1031,11 @@ difficulty:
     endChunk: 151.0 km
     endAhead: 157.6 km
     down: 1
+    downs:
+    - 150.956 km
+    downers:
+    - - '46'
+      - Akira Nagusa
     downward: 10
     rel: 8.75657e-3
     frac: 0.46059545
@@ -705,6 +1044,11 @@ difficulty:
     endChunk: 151.1 km
     endAhead: 157.7 km
     down: 1
+    downs:
+    - 151.004 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 9
     rel: 7.88091e-3
     frac: 0.46847636
@@ -713,6 +1057,11 @@ difficulty:
     endChunk: 151.5 km
     endAhead: 158.1 km
     down: 1
+    downs:
+    - 151.474 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 8
     rel: 7.00525e-3
     frac: 0.47548161
@@ -721,14 +1070,27 @@ difficulty:
     endChunk: 151.7 km
     endAhead: 158.3 km
     down: 2
+    downs:
+    - 151.605 km
+    - 151.609 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
+    - - '74'
+      - Vic Hare
     downward: 7
     rel: 6.1296e-3
     frac: 0.48161121
-  - chunk: 1418
-    startChunk: 151.7 km
-    endChunk: 151.8 km
-    endAhead: 158.4 km
+  - chunk: 1419
+    startChunk: 151.8 km
+    endChunk: 151.9 km
+    endAhead: 158.5 km
     down: 1
+    downs:
+    - 151.800 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 6
     rel: 5.25394e-3
     frac: 0.48686515
@@ -737,6 +1099,14 @@ difficulty:
     endChunk: 152.0 km
     endAhead: 158.6 km
     down: 2
+    downs:
+    - 151.930 km
+    - 151.985 km
+    downers:
+    - - '7'
+      - Olav Opsanger
+    - - '39'
+      - Jon Durand Snr
     downward: 5
     rel: 4.37828e-3
     frac: 0.49124343
@@ -745,6 +1115,14 @@ difficulty:
     endChunk: 152.2 km
     endAhead: 158.8 km
     down: 2
+    downs:
+    - 152.102 km
+    - 152.140 km
+    downers:
+    - - '66'
+      - Ito Manabu
+    - - '17'
+      - Kato Minoru
     downward: 4
     rel: 3.50263e-3
     frac: 0.49474606
@@ -753,6 +1131,14 @@ difficulty:
     endChunk: 152.3 km
     endAhead: 158.9 km
     down: 2
+    downs:
+    - 152.213 km
+    - 152.278 km
+    downers:
+    - - '73'
+      - Tony Giammichele
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 2.62697e-3
     frac: 0.49737303
@@ -761,6 +1147,11 @@ difficulty:
     endChunk: 152.5 km
     endAhead: 159.1 km
     down: 1
+    downs:
+    - 152.475 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 1.75131e-3
     frac: 0.49912434
@@ -769,6 +1160,11 @@ difficulty:
     endChunk: 152.8 km
     endAhead: 159.4 km
     down: 1
+    downs:
+    - 152.781 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 8.7566e-4
     frac: 0.5
@@ -777,6 +1173,11 @@ difficulty:
     endChunk: 11.3 km
     endAhead: 33.6 km
     down: 1
+    downs:
+    - 11.233 km
+    downers:
+    - - '9'
+      - Gijs Wanders
     downward: 5
     rel: 2.97619e-2
     frac: 2.97619e-2
@@ -785,6 +1186,11 @@ difficulty:
     endChunk: 23.9 km
     endAhead: 46.2 km
     down: 1
+    downs:
+    - 23.852 km
+    downers:
+    - - '64'
+      - Longfei Yang
     downward: 7
     rel: 4.166667e-2
     frac: 7.142857e-2
@@ -793,6 +1199,11 @@ difficulty:
     endChunk: 25.4 km
     endAhead: 47.7 km
     down: 1
+    downs:
+    - 25.398 km
+    downers:
+    - - '22'
+      - Rohan Taylor
     downward: 6
     rel: 3.571429e-2
     frac: 0.10714286
@@ -801,6 +1212,11 @@ difficulty:
     endChunk: 28.0 km
     endAhead: 50.3 km
     down: 1
+    downs:
+    - 27.976 km
+    downers:
+    - - '63'
+      - Len Paton
     downward: 5
     rel: 2.97619e-2
     frac: 0.13690476
@@ -809,6 +1225,11 @@ difficulty:
     endChunk: 31.1 km
     endAhead: 53.4 km
     down: 1
+    downs:
+    - 31.074 km
+    downers:
+    - - '2'
+      - Derek Mckee
     downward: 4
     rel: 2.380952e-2
     frac: 0.16071429
@@ -817,6 +1238,11 @@ difficulty:
     endChunk: 34.7 km
     endAhead: 57.0 km
     down: 1
+    downs:
+    - 34.656 km
+    downers:
+    - - '13'
+      - Viv Clements
     downward: 3
     rel: 1.785714e-2
     frac: 0.17857143
@@ -825,6 +1251,11 @@ difficulty:
     endChunk: 37.6 km
     endAhead: 59.9 km
     down: 1
+    downs:
+    - 37.560 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
     downward: 2
     rel: 1.190476e-2
     frac: 0.19047619
@@ -833,6 +1264,11 @@ difficulty:
     endChunk: 39.9 km
     endAhead: 62.2 km
     down: 1
+    downs:
+    - 39.825 km
+    downers:
+    - - '46'
+      - Akira Nagusa
     downward: 1
     rel: 5.95238e-3
     frac: 0.19642857
@@ -841,6 +1277,11 @@ difficulty:
     endChunk: 68.2 km
     endAhead: 90.5 km
     down: 1
+    downs:
+    - 68.186 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 7
     rel: 4.166667e-2
     frac: 0.23809524
@@ -849,6 +1290,11 @@ difficulty:
     endChunk: 71.4 km
     endAhead: 93.7 km
     down: 1
+    downs:
+    - 71.367 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 6
     rel: 3.571429e-2
     frac: 0.27380952
@@ -857,6 +1303,11 @@ difficulty:
     endChunk: 71.9 km
     endAhead: 94.2 km
     down: 1
+    downs:
+    - 71.845 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
     downward: 5
     rel: 2.97619e-2
     frac: 0.30357143
@@ -865,6 +1316,11 @@ difficulty:
     endChunk: 72.6 km
     endAhead: 94.9 km
     down: 1
+    downs:
+    - 72.539 km
+    downers:
+    - - '74'
+      - Vic Hare
     downward: 4
     rel: 2.380952e-2
     frac: 0.32738095
@@ -873,6 +1329,11 @@ difficulty:
     endChunk: 77.8 km
     endAhead: 100.1 km
     down: 1
+    downs:
+    - 77.776 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 4
     rel: 2.380952e-2
     frac: 0.35119048
@@ -881,6 +1342,11 @@ difficulty:
     endChunk: 80.3 km
     endAhead: 102.6 km
     down: 1
+    downs:
+    - 80.246 km
+    downers:
+    - - '7'
+      - Olav Opsanger
     downward: 3
     rel: 1.785714e-2
     frac: 0.36904762
@@ -889,6 +1355,11 @@ difficulty:
     endChunk: 89.5 km
     endAhead: 111.8 km
     down: 1
+    downs:
+    - 89.419 km
+    downers:
+    - - '39'
+      - Jon Durand Snr
     downward: 5
     rel: 2.97619e-2
     frac: 0.39880952
@@ -897,6 +1368,11 @@ difficulty:
     endChunk: 98.6 km
     endAhead: 120.9 km
     down: 1
+    downs:
+    - 98.543 km
+    downers:
+    - - '66'
+      - Ito Manabu
     downward: 5
     rel: 2.97619e-2
     frac: 0.42857143
@@ -905,6 +1381,11 @@ difficulty:
     endChunk: 102.7 km
     endAhead: 125.0 km
     down: 1
+    downs:
+    - 102.608 km
+    downers:
+    - - '17'
+      - Kato Minoru
     downward: 4
     rel: 2.380952e-2
     frac: 0.45238095
@@ -913,6 +1394,11 @@ difficulty:
     endChunk: 103.9 km
     endAhead: 126.2 km
     down: 1
+    downs:
+    - 103.859 km
+    downers:
+    - - '73'
+      - Tony Giammichele
     downward: 3
     rel: 1.785714e-2
     frac: 0.4702381
@@ -921,6 +1407,11 @@ difficulty:
     endChunk: 105.9 km
     endAhead: 128.2 km
     down: 1
+    downs:
+    - 105.869 km
+    downers:
+    - - '15'
+      - Ryosuke Hattori
     downward: 2
     rel: 1.190476e-2
     frac: 0.48214286
@@ -929,6 +1420,11 @@ difficulty:
     endChunk: 120.3 km
     endAhead: 142.6 km
     down: 1
+    downs:
+    - 120.219 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 1.190476e-2
     frac: 0.49404762
@@ -937,6 +1433,11 @@ difficulty:
     endChunk: 142.1 km
     endAhead: 164.4 km
     down: 1
+    downs:
+    - 142.026 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 5.95238e-3
     frac: 0.5
@@ -945,6 +1446,11 @@ difficulty:
     endChunk: 41.7 km
     endAhead: 62.6 km
     down: 1
+    downs:
+    - 41.622 km
+    downers:
+    - - '67'
+      - Mark Alton
     downward: 1
     rel: 3.22581e-3
     frac: 3.22581e-3
@@ -953,6 +1459,11 @@ difficulty:
     endChunk: 63.0 km
     endAhead: 83.9 km
     down: 1
+    downs:
+    - 62.942 km
+    downers:
+    - - '24'
+      - Les Bestt
     downward: 4
     rel: 1.290323e-2
     frac: 1.612903e-2
@@ -961,6 +1472,11 @@ difficulty:
     endChunk: 63.4 km
     endAhead: 84.3 km
     down: 1
+    downs:
+    - 63.381 km
+    downers:
+    - - '6'
+      - Yoko Isomoto
     downward: 3
     rel: 9.67742e-3
     frac: 2.580645e-2
@@ -969,6 +1485,11 @@ difficulty:
     endChunk: 77.8 km
     endAhead: 98.7 km
     down: 1
+    downs:
+    - 77.761 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 3
     rel: 9.67742e-3
     frac: 3.548387e-2
@@ -977,6 +1498,11 @@ difficulty:
     endChunk: 78.7 km
     endAhead: 99.6 km
     down: 1
+    downs:
+    - 78.653 km
+    downers:
+    - - '34'
+      - Brad Porter
     downward: 3
     rel: 9.67742e-3
     frac: 4.516129e-2
@@ -985,6 +1511,11 @@ difficulty:
     endChunk: 92.3 km
     endAhead: 113.2 km
     down: 1
+    downs:
+    - 92.204 km
+    downers:
+    - - '18'
+      - Nariyuki Watabe
     downward: 7
     rel: 2.258065e-2
     frac: 6.774194e-2
@@ -993,6 +1524,11 @@ difficulty:
     endChunk: 99.6 km
     endAhead: 120.5 km
     down: 1
+    downs:
+    - 99.555 km
+    downers:
+    - - '31'
+      - Trent Brown
     downward: 6
     rel: 1.935484e-2
     frac: 8.709677e-2
@@ -1001,6 +1537,11 @@ difficulty:
     endChunk: 101.6 km
     endAhead: 122.5 km
     down: 1
+    downs:
+    - 101.532 km
+    downers:
+    - - '8'
+      - Gordon Rigg
     downward: 5
     rel: 1.612903e-2
     frac: 0.10322581
@@ -1009,6 +1550,11 @@ difficulty:
     endChunk: 101.8 km
     endAhead: 122.7 km
     down: 1
+    downs:
+    - 101.792 km
+    downers:
+    - - '54'
+      - Dick Heffer
     downward: 4
     rel: 1.290323e-2
     frac: 0.11612903
@@ -1017,6 +1563,11 @@ difficulty:
     endChunk: 102.1 km
     endAhead: 123.0 km
     down: 1
+    downs:
+    - 102.039 km
+    downers:
+    - - '71'
+      - Rob Larkin
     downward: 3
     rel: 9.67742e-3
     frac: 0.12580645
@@ -1025,6 +1576,11 @@ difficulty:
     endChunk: 107.1 km
     endAhead: 128.0 km
     down: 1
+    downs:
+    - 107.016 km
+    downers:
+    - - '9'
+      - Gijs Wanders
     downward: 2
     rel: 6.45161e-3
     frac: 0.13225806
@@ -1033,6 +1589,11 @@ difficulty:
     endChunk: 107.8 km
     endAhead: 128.7 km
     down: 1
+    downs:
+    - 107.701 km
+    downers:
+    - - '64'
+      - Longfei Yang
     downward: 1
     rel: 3.22581e-3
     frac: 0.13548387
@@ -1041,6 +1602,11 @@ difficulty:
     endChunk: 132.9 km
     endAhead: 153.8 km
     down: 1
+    downs:
+    - 132.885 km
+    downers:
+    - - '22'
+      - Rohan Taylor
     downward: 5
     rel: 1.612903e-2
     frac: 0.1516129
@@ -1049,6 +1615,11 @@ difficulty:
     endChunk: 138.6 km
     endAhead: 159.5 km
     down: 1
+    downs:
+    - 138.529 km
+    downers:
+    - - '63'
+      - Len Paton
     downward: 6
     rel: 1.935484e-2
     frac: 0.17096774
@@ -1057,6 +1628,11 @@ difficulty:
     endChunk: 143.6 km
     endAhead: 164.5 km
     down: 1
+    downs:
+    - 143.555 km
+    downers:
+    - - '2'
+      - Derek Mckee
     downward: 8
     rel: 2.580645e-2
     frac: 0.19677419
@@ -1065,6 +1641,11 @@ difficulty:
     endChunk: 150.6 km
     endAhead: 171.5 km
     down: 1
+    downs:
+    - 150.581 km
+    downers:
+    - - '13'
+      - Viv Clements
     downward: 9
     rel: 2.903226e-2
     frac: 0.22580645
@@ -1073,6 +1654,11 @@ difficulty:
     endChunk: 153.5 km
     endAhead: 174.4 km
     down: 1
+    downs:
+    - 153.468 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
     downward: 9
     rel: 2.903226e-2
     frac: 0.25483871
@@ -1081,6 +1667,11 @@ difficulty:
     endChunk: 157.6 km
     endAhead: 178.5 km
     down: 1
+    downs:
+    - 157.529 km
+    downers:
+    - - '46'
+      - Akira Nagusa
     downward: 9
     rel: 2.903226e-2
     frac: 0.28387097
@@ -1089,6 +1680,11 @@ difficulty:
     endChunk: 159.1 km
     endAhead: 180.0 km
     down: 1
+    downs:
+    - 159.055 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 9
     rel: 2.903226e-2
     frac: 0.31290323
@@ -1097,6 +1693,11 @@ difficulty:
     endChunk: 160.3 km
     endAhead: 181.2 km
     down: 1
+    downs:
+    - 160.273 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 8
     rel: 2.580645e-2
     frac: 0.33870968
@@ -1105,6 +1706,11 @@ difficulty:
     endChunk: 160.4 km
     endAhead: 181.3 km
     down: 1
+    downs:
+    - 160.342 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
     downward: 7
     rel: 2.258065e-2
     frac: 0.36129032
@@ -1113,6 +1719,11 @@ difficulty:
     endChunk: 163.1 km
     endAhead: 184.0 km
     down: 1
+    downs:
+    - 163.078 km
+    downers:
+    - - '74'
+      - Vic Hare
     downward: 6
     rel: 1.935484e-2
     frac: 0.38064516
@@ -1121,6 +1732,11 @@ difficulty:
     endChunk: 167.1 km
     endAhead: 188.0 km
     down: 1
+    downs:
+    - 167.088 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 6
     rel: 1.935484e-2
     frac: 0.4
@@ -1129,6 +1745,11 @@ difficulty:
     endChunk: 168.4 km
     endAhead: 189.3 km
     down: 1
+    downs:
+    - 168.385 km
+    downers:
+    - - '7'
+      - Olav Opsanger
     downward: 5
     rel: 1.612903e-2
     frac: 0.41612903
@@ -1137,6 +1758,11 @@ difficulty:
     endChunk: 172.3 km
     endAhead: 193.2 km
     down: 1
+    downs:
+    - 172.261 km
+    downers:
+    - - '39'
+      - Jon Durand Snr
     downward: 5
     rel: 1.612903e-2
     frac: 0.43225806
@@ -1145,6 +1771,11 @@ difficulty:
     endChunk: 177.5 km
     endAhead: 198.4 km
     down: 1
+    downs:
+    - 177.466 km
+    downers:
+    - - '66'
+      - Ito Manabu
     downward: 6
     rel: 1.935484e-2
     frac: 0.4516129
@@ -1153,6 +1784,11 @@ difficulty:
     endChunk: 178.9 km
     endAhead: 199.8 km
     down: 1
+    downs:
+    - 178.813 km
+    downers:
+    - - '17'
+      - Kato Minoru
     downward: 5
     rel: 1.612903e-2
     frac: 0.46774194
@@ -1161,6 +1797,11 @@ difficulty:
     endChunk: 186.0 km
     endAhead: 206.9 km
     down: 1
+    downs:
+    - 185.918 km
+    downers:
+    - - '73'
+      - Tony Giammichele
     downward: 4
     rel: 1.290323e-2
     frac: 0.48064516
@@ -1169,6 +1810,11 @@ difficulty:
     endChunk: 193.1 km
     endAhead: 214.0 km
     down: 1
+    downs:
+    - 193.058 km
+    downers:
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 9.67742e-3
     frac: 0.49032258
@@ -1177,6 +1823,11 @@ difficulty:
     endChunk: 195.5 km
     endAhead: 216.4 km
     down: 1
+    downs:
+    - 195.433 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 6.45161e-3
     frac: 0.49677419
@@ -1185,6 +1836,11 @@ difficulty:
     endChunk: 198.4 km
     endAhead: 219.3 km
     down: 1
+    downs:
+    - 198.350 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 3.22581e-3
     frac: 0.5
@@ -1193,6 +1849,11 @@ difficulty:
     endChunk: 10.0 km
     endAhead: 40.6 km
     down: 1
+    downs:
+    - -0.522 km
+    downers:
+    - - '46'
+      - Akira Nagusa
     downward: 1
     rel: 7.93651e-3
     frac: 7.93651e-3
@@ -1201,6 +1862,11 @@ difficulty:
     endChunk: 69.8 km
     endAhead: 100.4 km
     down: 1
+    downs:
+    - 69.763 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 4
     rel: 3.174603e-2
     frac: 3.968254e-2
@@ -1209,6 +1875,11 @@ difficulty:
     endChunk: 70.4 km
     endAhead: 101.0 km
     down: 1
+    downs:
+    - 70.302 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 3
     rel: 2.380952e-2
     frac: 6.349206e-2
@@ -1217,6 +1888,11 @@ difficulty:
     endChunk: 91.3 km
     endAhead: 121.9 km
     down: 1
+    downs:
+    - 91.210 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
     downward: 6
     rel: 4.761905e-2
     frac: 0.11111111
@@ -1225,6 +1901,11 @@ difficulty:
     endChunk: 95.1 km
     endAhead: 125.7 km
     down: 1
+    downs:
+    - 95.025 km
+    downers:
+    - - '74'
+      - Vic Hare
     downward: 6
     rel: 4.761905e-2
     frac: 0.15873016
@@ -1233,6 +1914,11 @@ difficulty:
     endChunk: 101.1 km
     endAhead: 131.7 km
     down: 1
+    downs:
+    - 101.015 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 7
     rel: 5.555556e-2
     frac: 0.21428571
@@ -1241,6 +1927,11 @@ difficulty:
     endChunk: 118.3 km
     endAhead: 148.9 km
     down: 1
+    downs:
+    - 118.282 km
+    downers:
+    - - '7'
+      - Olav Opsanger
     downward: 8
     rel: 6.349206e-2
     frac: 0.27777778
@@ -1249,6 +1940,11 @@ difficulty:
     endChunk: 120.2 km
     endAhead: 150.8 km
     down: 1
+    downs:
+    - 120.197 km
+    downers:
+    - - '39'
+      - Jon Durand Snr
     downward: 7
     rel: 5.555556e-2
     frac: 0.33333333
@@ -1257,6 +1953,11 @@ difficulty:
     endChunk: 121.9 km
     endAhead: 152.5 km
     down: 1
+    downs:
+    - 121.823 km
+    downers:
+    - - '66'
+      - Ito Manabu
     downward: 6
     rel: 4.761905e-2
     frac: 0.38095238
@@ -1265,6 +1966,11 @@ difficulty:
     endChunk: 125.2 km
     endAhead: 155.8 km
     down: 1
+    downs:
+    - 125.129 km
+    downers:
+    - - '17'
+      - Kato Minoru
     downward: 5
     rel: 3.968254e-2
     frac: 0.42063492
@@ -1273,6 +1979,11 @@ difficulty:
     endChunk: 126.9 km
     endAhead: 157.5 km
     down: 1
+    downs:
+    - 126.881 km
+    downers:
+    - - '73'
+      - Tony Giammichele
     downward: 4
     rel: 3.174603e-2
     frac: 0.45238095
@@ -1281,6 +1992,11 @@ difficulty:
     endChunk: 128.8 km
     endAhead: 159.4 km
     down: 1
+    downs:
+    - 128.749 km
+    downers:
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 2.380952e-2
     frac: 0.47619048
@@ -1289,6 +2005,11 @@ difficulty:
     endChunk: 140.9 km
     endAhead: 171.5 km
     down: 1
+    downs:
+    - 140.873 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 1.587302e-2
     frac: 0.49206349
@@ -1297,6 +2018,11 @@ difficulty:
     endChunk: 142.1 km
     endAhead: 172.7 km
     down: 1
+    downs:
+    - 142.005 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 7.93651e-3
     frac: 0.5
@@ -1305,6 +2031,11 @@ difficulty:
     endChunk: 10.5 km
     endAhead: 53.1 km
     down: 1
+    downs:
+    - 10.456 km
+    downers:
+    - - '13'
+      - Viv Clements
     downward: 3
     rel: 2.727273e-2
     frac: 2.727273e-2
@@ -1313,6 +2044,11 @@ difficulty:
     endChunk: 31.9 km
     endAhead: 74.5 km
     down: 1
+    downs:
+    - 31.878 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
     downward: 3
     rel: 2.727273e-2
     frac: 5.454545e-2
@@ -1321,6 +2057,11 @@ difficulty:
     endChunk: 41.3 km
     endAhead: 83.9 km
     down: 1
+    downs:
+    - 41.252 km
+    downers:
+    - - '46'
+      - Akira Nagusa
     downward: 2
     rel: 1.818182e-2
     frac: 7.272727e-2
@@ -1329,6 +2070,11 @@ difficulty:
     endChunk: 60.7 km
     endAhead: 103.3 km
     down: 1
+    downs:
+    - 60.649 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 4
     rel: 3.636364e-2
     frac: 0.10909091
@@ -1337,6 +2083,11 @@ difficulty:
     endChunk: 85.1 km
     endAhead: 127.7 km
     down: 1
+    downs:
+    - 85.052 km
+    downers:
+    - - '32'
+      - Andrew Barnes
     downward: 4
     rel: 3.636364e-2
     frac: 0.14545455
@@ -1345,6 +2096,11 @@ difficulty:
     endChunk: 92.3 km
     endAhead: 134.9 km
     down: 1
+    downs:
+    - 92.290 km
+    downers:
+    - - '33'
+      - Anatoly Reyter
     downward: 3
     rel: 2.727273e-2
     frac: 0.17272727
@@ -1353,6 +2109,11 @@ difficulty:
     endChunk: 95.8 km
     endAhead: 138.4 km
     down: 1
+    downs:
+    - 95.734 km
+    downers:
+    - - '74'
+      - Vic Hare
     downward: 3
     rel: 2.727273e-2
     frac: 0.2
@@ -1361,6 +2122,11 @@ difficulty:
     endChunk: 124.7 km
     endAhead: 167.3 km
     down: 1
+    downs:
+    - 124.654 km
+    downers:
+    - - '69'
+      - Niki Longshore
     downward: 3
     rel: 2.727273e-2
     frac: 0.22727273
@@ -1369,6 +2135,11 @@ difficulty:
     endChunk: 135.6 km
     endAhead: 178.2 km
     down: 1
+    downs:
+    - 135.539 km
+    downers:
+    - - '7'
+      - Olav Opsanger
     downward: 4
     rel: 3.636364e-2
     frac: 0.26363636
@@ -1377,6 +2148,11 @@ difficulty:
     endChunk: 148.2 km
     endAhead: 190.8 km
     down: 1
+    downs:
+    - 148.180 km
+    downers:
+    - - '39'
+      - Jon Durand Snr
     downward: 5
     rel: 4.545455e-2
     frac: 0.30909091
@@ -1385,6 +2161,11 @@ difficulty:
     endChunk: 177.5 km
     endAhead: 220.1 km
     down: 1
+    downs:
+    - 177.434 km
+    downers:
+    - - '66'
+      - Ito Manabu
     downward: 6
     rel: 5.454545e-2
     frac: 0.36363636
@@ -1393,6 +2174,11 @@ difficulty:
     endChunk: 177.6 km
     endAhead: 220.2 km
     down: 1
+    downs:
+    - 177.558 km
+    downers:
+    - - '17'
+      - Kato Minoru
     downward: 5
     rel: 4.545455e-2
     frac: 0.40909091
@@ -1401,6 +2187,11 @@ difficulty:
     endChunk: 181.6 km
     endAhead: 224.2 km
     down: 1
+    downs:
+    - 181.543 km
+    downers:
+    - - '73'
+      - Tony Giammichele
     downward: 4
     rel: 3.636364e-2
     frac: 0.44545455
@@ -1409,6 +2200,11 @@ difficulty:
     endChunk: 188.2 km
     endAhead: 230.8 km
     down: 1
+    downs:
+    - 188.126 km
+    downers:
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 2.727273e-2
     frac: 0.47272727
@@ -1417,6 +2213,11 @@ difficulty:
     endChunk: 191.7 km
     endAhead: 234.3 km
     down: 1
+    downs:
+    - 191.686 km
+    downers:
+    - - '10'
+      - Olav Lien Olsen
     downward: 2
     rel: 1.818182e-2
     frac: 0.49090909
@@ -1425,6 +2226,11 @@ difficulty:
     endChunk: 202.4 km
     endAhead: 245.0 km
     down: 1
+    downs:
+    - 202.350 km
+    downers:
+    - - '70'
+      - Noel Collins
     downward: 1
     rel: 9.09091e-3
     frac: 0.5
