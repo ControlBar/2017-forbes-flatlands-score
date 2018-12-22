@@ -572,7 +572,7 @@ score:
       landedDistance: 139.739 km
   - - - '59'
       - Glen Mcfarlane
-    - place: '16'
+    - place: '17'
       total: 810
       breakdown:
         reach: 215.091
@@ -594,7 +594,7 @@ score:
       landedDistance: 139.739 km
   - - - '45'
       - Adam Stevens
-    - place: 17=
+    - place: 18=
       total: 797
       breakdown:
         reach: 215.091
@@ -616,7 +616,7 @@ score:
       landedDistance: 139.739 km
   - - - '61'
       - Harrison Rowntree
-    - place: 17=
+    - place: 18=
       total: 797
       breakdown:
         reach: 215.091
@@ -638,7 +638,7 @@ score:
       landedDistance: 139.739 km
   - - - '37'
       - Gavin Myers
-    - place: '18'
+    - place: '20'
       total: 769
       breakdown:
         reach: 215.091
@@ -660,7 +660,7 @@ score:
       landedDistance: 139.739 km
   - - - '27'
       - Guy Hubbard
-    - place: '19'
+    - place: '21'
       total: 768
       breakdown:
         reach: 215.091
@@ -682,7 +682,7 @@ score:
       landedDistance: 139.739 km
   - - - '30'
       - Jason Kath
-    - place: '20'
+    - place: '22'
       total: 765
       breakdown:
         reach: 215.091
@@ -704,7 +704,7 @@ score:
       landedDistance: 139.739 km
   - - - '3'
       - Tullio Gervasoni
-    - place: '21'
+    - place: '23'
       total: 759
       breakdown:
         reach: 215.091
@@ -726,7 +726,7 @@ score:
       landedDistance: 139.739 km
   - - - '41'
       - Tony Armstrong
-    - place: '22'
+    - place: '24'
       total: 747
       breakdown:
         reach: 215.091
@@ -748,7 +748,7 @@ score:
       landedDistance: 139.739 km
   - - - '76'
       - Rory Duncan
-    - place: '23'
+    - place: '25'
       total: 744
       breakdown:
         reach: 215.091
@@ -770,7 +770,7 @@ score:
       landedDistance: 139.739 km
   - - - '57'
       - Kodaka Fumio
-    - place: '24'
+    - place: '26'
       total: 713
       breakdown:
         reach: 215.091
@@ -792,7 +792,7 @@ score:
       landedDistance: 139.739 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '25'
+    - place: '27'
       total: 658
       breakdown:
         reach: 215.091
@@ -814,7 +814,7 @@ score:
       landedDistance: 139.739 km
   - - - '51'
       - Craig Taylor
-    - place: '26'
+    - place: '28'
       total: 652
       breakdown:
         reach: 215.091
@@ -836,7 +836,7 @@ score:
       landedDistance: 139.739 km
   - - - '60'
       - Grant Heaney
-    - place: '27'
+    - place: '29'
       total: 646
       breakdown:
         reach: 215.091
@@ -858,7 +858,7 @@ score:
       landedDistance: 139.739 km
   - - - '36'
       - Steve Docherty
-    - place: '28'
+    - place: '30'
       total: 623
       breakdown:
         reach: 215.091
@@ -880,7 +880,7 @@ score:
       landedDistance: 139.739 km
   - - - '49'
       - Bruce Wynne
-    - place: '29'
+    - place: '31'
       total: 610
       breakdown:
         reach: 215.091
@@ -902,7 +902,7 @@ score:
       landedDistance: 139.739 km
   - - - '29'
       - Sergei Sukleta
-    - place: '30'
+    - place: '32'
       total: 603
       breakdown:
         reach: 215.091
@@ -924,7 +924,7 @@ score:
       landedDistance: 139.739 km
   - - - '70'
       - Noel Collins
-    - place: '31'
+    - place: '33'
       total: 425
       breakdown:
         reach: 210.125
@@ -946,7 +946,7 @@ score:
       landedDistance: 136.402 km
   - - - '10'
       - Olav Lien Olsen
-    - place: '32'
+    - place: '34'
       total: 422
       breakdown:
         reach: 208.403
@@ -968,7 +968,7 @@ score:
       landedDistance: 135.245 km
   - - - '15'
       - Ryosuke Hattori
-    - place: '33'
+    - place: '35'
       total: 414
       breakdown:
         reach: 203.628
@@ -990,7 +990,7 @@ score:
       landedDistance: 132.063 km
   - - - '73'
       - Tony Giammichele
-    - place: '34'
+    - place: '36'
       total: 398
       breakdown:
         reach: 192.159
@@ -1012,7 +1012,7 @@ score:
       landedDistance: 123.845 km
   - - - '17'
       - Kato Minoru
-    - place: '35'
+    - place: '37'
       total: 391
       breakdown:
         reach: 189.45
@@ -1034,7 +1034,7 @@ score:
       landedDistance: 122.515 km
   - - - '66'
       - Ito Manabu
-    - place: '36'
+    - place: '38'
       total: 385
       breakdown:
         reach: 187.104
@@ -1056,7 +1056,7 @@ score:
       landedDistance: 120.777 km
   - - - '39'
       - Jon Durand Snr
-    - place: '37'
+    - place: '39'
       total: 375
       breakdown:
         reach: 183.509
@@ -1078,7 +1078,7 @@ score:
       landedDistance: 119.049 km
   - - - '7'
       - Olav Opsanger
-    - place: '38'
+    - place: '40'
       total: 368
       breakdown:
         reach: 182.208
@@ -1100,7 +1100,7 @@ score:
       landedDistance: 117.994 km
   - - - '69'
       - Niki Longshore
-    - place: '39'
+    - place: '41'
       total: 360
       breakdown:
         reach: 181.689
@@ -1122,7 +1122,7 @@ score:
       landedDistance: 117.533 km
   - - - '74'
       - Vic Hare
-    - place: '40'
+    - place: '42'
       total: 348
       breakdown:
         reach: 177.884
@@ -1144,7 +1144,7 @@ score:
       landedDistance: 115.262 km
   - - - '33'
       - Anatoly Reyter
-    - place: '41'
+    - place: '43'
       total: 338
       breakdown:
         reach: 178.388
@@ -1166,7 +1166,7 @@ score:
       landedDistance: 115.054 km
   - - - '32'
       - Andrew Barnes
-    - place: '42'
+    - place: '44'
       total: 325
       breakdown:
         reach: 177.572
@@ -1188,7 +1188,7 @@ score:
       landedDistance: 114.600 km
   - - - '14'
       - Peter Burkitt
-    - place: 43=
+    - place: 45=
       total: 309
       breakdown:
         reach: 174.382
@@ -1210,7 +1210,7 @@ score:
       landedDistance: 112.922 km
   - - - '46'
       - Akira Nagusa
-    - place: 43=
+    - place: 45=
       total: 309
       breakdown:
         reach: 174.173
@@ -1232,7 +1232,7 @@ score:
       landedDistance: 112.921 km
   - - - '72'
       - Sasha Serebrennikova
-    - place: '44'
+    - place: '47'
       total: 294
       breakdown:
         reach: 174.238
@@ -1254,7 +1254,7 @@ score:
       landedDistance: 112.660 km
   - - - '13'
       - Viv Clements
-    - place: 45=
+    - place: 48=
       total: 274
       breakdown:
         reach: 170.117
@@ -1276,7 +1276,7 @@ score:
       landedDistance: 110.288 km
   - - - '2'
       - Derek Mckee
-    - place: 45=
+    - place: 48=
       total: 274
       breakdown:
         reach: 169.994
@@ -1298,7 +1298,7 @@ score:
       landedDistance: 110.236 km
   - - - '63'
       - Len Paton
-    - place: '46'
+    - place: '50'
       total: 256
       breakdown:
         reach: 166.306
@@ -1320,7 +1320,7 @@ score:
       landedDistance: 107.891 km
   - - - '22'
       - Rohan Taylor
-    - place: '47'
+    - place: '51'
       total: 230
       breakdown:
         reach: 155.099
@@ -1342,7 +1342,7 @@ score:
       landedDistance: 100.476 km
   - - - '64'
       - Longfei Yang
-    - place: '48'
+    - place: '52'
       total: 213
       breakdown:
         reach: 142.599
@@ -1364,7 +1364,7 @@ score:
       landedDistance: 92.474 km
   - - - '9'
       - Gijs Wanders
-    - place: '49'
+    - place: '53'
       total: 202
       breakdown:
         reach: 134.958
@@ -1386,7 +1386,7 @@ score:
       landedDistance: 87.297 km
   - - - '71'
       - Rob Larkin
-    - place: '50'
+    - place: '54'
       total: 199
       breakdown:
         reach: 134.159
@@ -1408,7 +1408,7 @@ score:
       landedDistance: 86.944 km
   - - - '54'
       - Dick Heffer
-    - place: '51'
+    - place: '55'
       total: 193
       breakdown:
         reach: 133.182
@@ -1430,7 +1430,7 @@ score:
       landedDistance: 86.203 km
   - - - '8'
       - Gordon Rigg
-    - place: '52'
+    - place: '56'
       total: 181
       breakdown:
         reach: 127.36
@@ -1452,7 +1452,7 @@ score:
       landedDistance: 82.033 km
   - - - '31'
       - Trent Brown
-    - place: '53'
+    - place: '57'
       total: 166
       breakdown:
         reach: 118.731
@@ -1474,7 +1474,7 @@ score:
       landedDistance: 76.881 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '54'
+    - place: '58'
       total: 155
       breakdown:
         reach: 115.116
@@ -1496,7 +1496,7 @@ score:
       landedDistance: 74.764 km
   - - - '34'
       - Brad Porter
-    - place: '55'
+    - place: '59'
       total: 143
       breakdown:
         reach: 109.47
@@ -1518,7 +1518,7 @@ score:
       landedDistance: 70.760 km
   - - - '55'
       - Don Cramer
-    - place: '56'
+    - place: '60'
       total: 137
       breakdown:
         reach: 109.196
@@ -1540,7 +1540,7 @@ score:
       landedDistance: 70.081 km
   - - - '6'
       - Yoko Isomoto
-    - place: '57'
+    - place: '61'
       total: 111
       breakdown:
         reach: 90.317
@@ -1562,7 +1562,7 @@ score:
       landedDistance: 54.995 km
   - - - '24'
       - Les Bestt
-    - place: '58'
+    - place: '62'
       total: 94
       breakdown:
         reach: 74.892
@@ -1584,7 +1584,7 @@ score:
       landedDistance: 48.389 km
   - - - '67'
       - Mark Alton
-    - place: '59'
+    - place: '63'
       total: 90
       breakdown:
         reach: 73.566
@@ -1606,7 +1606,7 @@ score:
       landedDistance: 47.622 km
   - - - '52'
       - Dale Regehr
-    - place: '60'
+    - place: '64'
       total: 63
       breakdown:
         reach: 51.074
@@ -1628,7 +1628,7 @@ score:
       landedDistance: 32.882 km
   - - - '68'
       - Neale Halsall
-    - place: '61'
+    - place: '65'
       total: 56
       breakdown:
         reach: 45.629
@@ -1650,7 +1650,7 @@ score:
       landedDistance: 29.044 km
   - - - '42'
       - Rob de Groot
-    - place: '62'
+    - place: '66'
       total: 40
       breakdown:
         reach: 32.825
@@ -1672,7 +1672,7 @@ score:
       landedDistance: 21.087 km
   - - - '1'
       - Hossain Tefaili
-    - place: '63'
+    - place: '67'
       total: 19
       breakdown:
         reach: 16.054
@@ -1782,7 +1782,7 @@ score:
       landedDistance: 152.213 km
   - - - '11'
       - Steve Blenkinsop
-    - place: 4=
+    - place: 5=
       total: 910
       breakdown:
         reach: 448.115
@@ -1804,7 +1804,7 @@ score:
       landedDistance: 152.140 km
   - - - '17'
       - Kato Minoru
-    - place: 4=
+    - place: 5=
       total: 910
       breakdown:
         reach: 448
@@ -1826,7 +1826,7 @@ score:
       landedDistance: 152.102 km
   - - - '59'
       - Glen Mcfarlane
-    - place: 5=
+    - place: 7=
       total: 907
       breakdown:
         reach: 447.655
@@ -1848,7 +1848,7 @@ score:
       landedDistance: 151.985 km
   - - - '26'
       - Jonas Lobitz
-    - place: 5=
+    - place: 7=
       total: 907
       breakdown:
         reach: 447.496
@@ -1870,7 +1870,7 @@ score:
       landedDistance: 151.930 km
   - - - '27'
       - Guy Hubbard
-    - place: '6'
+    - place: '9'
       total: 902
       breakdown:
         reach: 447.111
@@ -1892,7 +1892,7 @@ score:
       landedDistance: 151.800 km
   - - - '62'
       - Josh Woods
-    - place: '7'
+    - place: '10'
       total: 897
       breakdown:
         reach: 446.551
@@ -1914,7 +1914,7 @@ score:
       landedDistance: 151.609 km
   - - - '42'
       - Rob de Groot
-    - place: '8'
+    - place: '11'
       total: 891
       breakdown:
         reach: 446.245
@@ -1936,7 +1936,7 @@ score:
       landedDistance: 151.474 km
   - - - '61'
       - Harrison Rowntree
-    - place: '9'
+    - place: '12'
       total: 884
       breakdown:
         reach: 444.946
@@ -1958,7 +1958,7 @@ score:
       landedDistance: 151.004 km
   - - - '8'
       - Gordon Rigg
-    - place: '10'
+    - place: '13'
       total: 876
       breakdown:
         reach: 444.625
@@ -1980,7 +1980,7 @@ score:
       landedDistance: 150.956 km
   - - - '73'
       - Tony Giammichele
-    - place: '11'
+    - place: '14'
       total: 867
       breakdown:
         reach: 443.691
@@ -2002,7 +2002,7 @@ score:
       landedDistance: 150.634 km
   - - - '9'
       - Gijs Wanders
-    - place: 12=
+    - place: 15=
       total: 858
       breakdown:
         reach: 443.476
@@ -2024,7 +2024,7 @@ score:
       landedDistance: 150.373 km
   - - - '39'
       - Jon Durand Snr
-    - place: 12=
+    - place: 15=
       total: 858
       breakdown:
         reach: 442.878
@@ -2046,7 +2046,7 @@ score:
       landedDistance: 150.362 km
   - - - '76'
       - Rory Duncan
-    - place: 13=
+    - place: 17=
       total: 848
       breakdown:
         reach: 397.781
@@ -2068,7 +2068,7 @@ score:
       landedDistance: 151.605 km
   - - - '25'
       - Tyler Borrdaile
-    - place: 13=
+    - place: 17=
       total: 848
       breakdown:
         reach: 442.436
@@ -2090,7 +2090,7 @@ score:
       landedDistance: 150.213 km
   - - - '58'
       - Gerolf Heinrichs
-    - place: '14'
+    - place: '19'
       total: 836
       breakdown:
         reach: 440.575
@@ -2112,7 +2112,7 @@ score:
       landedDistance: 149.581 km
   - - - '45'
       - Adam Stevens
-    - place: '15'
+    - place: '20'
       total: 824
       breakdown:
         reach: 439.573
@@ -2134,7 +2134,7 @@ score:
       landedDistance: 149.241 km
   - - - '16'
       - Takeshi Yokoyama
-    - place: '16'
+    - place: '21'
       total: 810
       breakdown:
         reach: 438.101
@@ -2156,7 +2156,7 @@ score:
       landedDistance: 148.741 km
   - - - '69'
       - Niki Longshore
-    - place: '17'
+    - place: '22'
       total: 798
       breakdown:
         reach: 437.871
@@ -2178,7 +2178,7 @@ score:
       landedDistance: 148.662 km
   - - - '37'
       - Gavin Myers
-    - place: '18'
+    - place: '23'
       total: 781
       breakdown:
         reach: 435.173
@@ -2200,7 +2200,7 @@ score:
       landedDistance: 147.747 km
   - - - '34'
       - Brad Porter
-    - place: '19'
+    - place: '24'
       total: 767
       breakdown:
         reach: 434.881
@@ -2222,7 +2222,7 @@ score:
       landedDistance: 147.601 km
   - - - '31'
       - Trent Brown
-    - place: 20=
+    - place: 25=
       total: 752
       breakdown:
         reach: 434.734
@@ -2244,7 +2244,7 @@ score:
       landedDistance: 147.598 km
   - - - '63'
       - Len Paton
-    - place: 20=
+    - place: 25=
       total: 752
       breakdown:
         reach: 434.54
@@ -2266,7 +2266,7 @@ score:
       landedDistance: 147.531 km
   - - - '49'
       - Bruce Wynne
-    - place: '21'
+    - place: '27'
       total: 736
       breakdown:
         reach: 434.422
@@ -2288,7 +2288,7 @@ score:
       landedDistance: 147.483 km
   - - - '47'
       - Attila Bertok
-    - place: '22'
+    - place: '28'
       total: 717
       breakdown:
         reach: 432.534
@@ -2310,7 +2310,7 @@ score:
       landedDistance: 146.491 km
   - - - '3'
       - Tullio Gervasoni
-    - place: '23'
+    - place: '29'
       total: 698
       breakdown:
         reach: 430.934
@@ -2332,7 +2332,7 @@ score:
       landedDistance: 146.254 km
   - - - '7'
       - Olav Opsanger
-    - place: '24'
+    - place: '30'
       total: 680
       breakdown:
         reach: 430.284
@@ -2354,7 +2354,7 @@ score:
       landedDistance: 146.087 km
   - - - '13'
       - Viv Clements
-    - place: '25'
+    - place: '31'
       total: 661
       breakdown:
         reach: 429.974
@@ -2376,7 +2376,7 @@ score:
       landedDistance: 145.982 km
   - - - '74'
       - Vic Hare
-    - place: '26'
+    - place: '32'
       total: 640
       breakdown:
         reach: 427.886
@@ -2398,7 +2398,7 @@ score:
       landedDistance: 145.269 km
   - - - '65'
       - Lukas Bader
-    - place: '27'
+    - place: '33'
       total: 625
       breakdown:
         reach: 428.702
@@ -2420,7 +2420,7 @@ score:
       landedDistance: 145.035 km
   - - - '4'
       - Frank Chetcuti
-    - place: '28'
+    - place: '34'
       total: 605
       breakdown:
         reach: 426.063
@@ -2442,7 +2442,7 @@ score:
       landedDistance: 144.635 km
   - - - '12'
       - John Smith
-    - place: 29=
+    - place: 35=
       total: 589
       breakdown:
         reach: 425.418
@@ -2464,7 +2464,7 @@ score:
       landedDistance: 144.433 km
   - - - '72'
       - Sasha Serebrennikova
-    - place: 29=
+    - place: 35=
       total: 589
       breakdown:
         reach: 425.45
@@ -2486,7 +2486,7 @@ score:
       landedDistance: 144.443 km
   - - - '41'
       - Tony Armstrong
-    - place: '30'
+    - place: '37'
       total: 569
       breakdown:
         reach: 422.192
@@ -2508,7 +2508,7 @@ score:
       landedDistance: 143.339 km
   - - - '14'
       - Peter Burkitt
-    - place: '31'
+    - place: '38'
       total: 555
       breakdown:
         reach: 421.48
@@ -2530,7 +2530,7 @@ score:
       landedDistance: 143.098 km
   - - - '51'
       - Craig Taylor
-    - place: '32'
+    - place: '39'
       total: 538
       breakdown:
         reach: 419.085
@@ -2552,7 +2552,7 @@ score:
       landedDistance: 142.285 km
   - - - '22'
       - Rohan Taylor
-    - place: '33'
+    - place: '40'
       total: 524
       breakdown:
         reach: 417.813
@@ -2574,7 +2574,7 @@ score:
       landedDistance: 141.852 km
   - - - '50'
       - Christian Voiblet
-    - place: '34'
+    - place: '41'
       total: 514
       breakdown:
         reach: 420.891
@@ -2596,7 +2596,7 @@ score:
       landedDistance: 141.540 km
   - - - '23'
       - Nils Vesk
-    - place: '35'
+    - place: '42'
       total: 495
       breakdown:
         reach: 414.573
@@ -2618,7 +2618,7 @@ score:
       landedDistance: 140.410 km
   - - - '64'
       - Longfei Yang
-    - place: '36'
+    - place: '43'
       total: 481
       breakdown:
         reach: 412.025
@@ -2640,7 +2640,7 @@ score:
       landedDistance: 139.245 km
   - - - '75'
       - Yasuhiro Noma
-    - place: '37'
+    - place: '44'
       total: 471
       breakdown:
         reach: 410.918
@@ -2662,7 +2662,7 @@ score:
       landedDistance: 138.032 km
   - - - '54'
       - Dick Heffer
-    - place: '38'
+    - place: '45'
       total: 457
       breakdown:
         reach: 405.592
@@ -2684,7 +2684,7 @@ score:
       landedDistance: 128.392 km
   - - - '15'
       - Ryosuke Hattori
-    - place: '39'
+    - place: '46'
       total: 432
       breakdown:
         reach: 379.732
@@ -2706,7 +2706,7 @@ score:
       landedDistance: 128.758 km
   - - - '6'
       - Yoko Isomoto
-    - place: '40'
+    - place: '47'
       total: 354
       breakdown:
         reach: 303.734
@@ -2728,7 +2728,7 @@ score:
       landedDistance: 102.747 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '41'
+    - place: '48'
       total: 343
       breakdown:
         reach: 293.853
@@ -2750,7 +2750,7 @@ score:
       landedDistance: 98.555 km
   - - - '30'
       - Jason Kath
-    - place: '42'
+    - place: '49'
       total: 312
       breakdown:
         reach: 264.352
@@ -2772,7 +2772,7 @@ score:
       landedDistance: 88.381 km
   - - - '60'
       - Grant Heaney
-    - place: '43'
+    - place: '50'
       total: 286
       breakdown:
         reach: 238.78
@@ -2794,7 +2794,7 @@ score:
       landedDistance: 80.741 km
   - - - '70'
       - Noel Collins
-    - place: '44'
+    - place: '51'
       total: 285
       breakdown:
         reach: 238.874
@@ -2816,7 +2816,7 @@ score:
       landedDistance: 79.382 km
   - - - '10'
       - Olav Lien Olsen
-    - place: '45'
+    - place: '52'
       total: 259
       breakdown:
         reach: 214.695
@@ -2838,7 +2838,7 @@ score:
       landedDistance: 72.541 km
   - - - '32'
       - Andrew Barnes
-    - place: '46'
+    - place: '53'
       total: 250
       breakdown:
         reach: 206.204
@@ -2860,7 +2860,7 @@ score:
       landedDistance: 69.608 km
   - - - '1'
       - Hossain Tefaili
-    - place: '47'
+    - place: '54'
       total: 228
       breakdown:
         reach: 185.48
@@ -2882,7 +2882,7 @@ score:
       landedDistance: 62.737 km
   - - - '29'
       - Sergei Sukleta
-    - place: '48'
+    - place: '55'
       total: 224
       breakdown:
         reach: 182.746
@@ -2904,7 +2904,7 @@ score:
       landedDistance: 61.722 km
   - - - '36'
       - Steve Docherty
-    - place: '49'
+    - place: '56'
       total: 210
       breakdown:
         reach: 169.81
@@ -2926,7 +2926,7 @@ score:
       landedDistance: 57.232 km
   - - - '46'
       - Akira Nagusa
-    - place: '50'
+    - place: '57'
       total: 205
       breakdown:
         reach: 167.336
@@ -2948,7 +2948,7 @@ score:
       landedDistance: 56.621 km
   - - - '55'
       - Don Cramer
-    - place: '51'
+    - place: '58'
       total: 201
       breakdown:
         reach: 166.959
@@ -2970,7 +2970,7 @@ score:
       landedDistance: 55.918 km
   - - - '52'
       - Dale Regehr
-    - place: '52'
+    - place: '59'
       total: 172
       breakdown:
         reach: 140.987
@@ -2992,7 +2992,7 @@ score:
       landedDistance: 46.929 km
   - - - '35'
       - Howard Jones
-    - place: '53'
+    - place: '60'
       total: 152
       breakdown:
         reach: 121.688
@@ -3014,7 +3014,7 @@ score:
       landedDistance: 41.044 km
   - - - '68'
       - Neale Halsall
-    - place: '54'
+    - place: '61'
       total: 141
       breakdown:
         reach: 111.874
@@ -3036,7 +3036,7 @@ score:
       landedDistance: 36.420 km
   - - - '24'
       - Les Bestt
-    - place: '55'
+    - place: '62'
       total: 132
       breakdown:
         reach: 104.773
@@ -3058,7 +3058,7 @@ score:
       landedDistance: 34.204 km
   - - - '71'
       - Rob Larkin
-    - place: '56'
+    - place: '63'
       total: 114
       breakdown:
         reach: 88.479
@@ -3080,7 +3080,7 @@ score:
       landedDistance: 29.914 km
   - - - '57'
       - Kodaka Fumio
-    - place: '57'
+    - place: '64'
       total: 98
       breakdown:
         reach: 74.647
@@ -3102,7 +3102,7 @@ score:
       landedDistance: 24.176 km
   - - - '33'
       - Anatoly Reyter
-    - place: '58'
+    - place: '65'
       total: 92
       breakdown:
         reach: 69.997
@@ -3124,7 +3124,7 @@ score:
       landedDistance: 22.952 km
   - - - '67'
       - Mark Alton
-    - place: '59'
+    - place: '66'
       total: 78
       breakdown:
         reach: 57.449
@@ -3146,7 +3146,7 @@ score:
       landedDistance: 19.309 km
   - - - '66'
       - Ito Manabu
-    - place: '60'
+    - place: '67'
       total: 26
       breakdown:
         reach: 24.92
@@ -3168,7 +3168,7 @@ score:
       landedDistance: 8.271 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '61'
+    - place: '68'
       total: 25
       breakdown:
         reach: 23.963
@@ -3190,7 +3190,7 @@ score:
       landedDistance: 7.905 km
   - - - '2'
       - Derek Mckee
-    - place: '62'
+    - place: '69'
       total: 10
       breakdown:
         reach: 9.257
@@ -4246,7 +4246,7 @@ score:
       landedDistance: 156.254 km
   - - - '2'
       - Derek Mckee
-    - place: '47'
+    - place: '48'
       total: 357
       breakdown:
         reach: 169.952
@@ -4268,7 +4268,7 @@ score:
       landedDistance: 142.026 km
   - - - '62'
       - Josh Woods
-    - place: '48'
+    - place: '49'
       total: 329
       breakdown:
         reach: 144.177
@@ -4290,7 +4290,7 @@ score:
       landedDistance: 120.219 km
   - - - '26'
       - Jonas Lobitz
-    - place: '49'
+    - place: '50'
       total: 307
       breakdown:
         reach: 126.819
@@ -4312,7 +4312,7 @@ score:
       landedDistance: 105.869 km
   - - - '68'
       - Neale Halsall
-    - place: '50'
+    - place: '51'
       total: 300
       breakdown:
         reach: 124.461
@@ -4334,7 +4334,7 @@ score:
       landedDistance: 103.859 km
   - - - '67'
       - Mark Alton
-    - place: '51'
+    - place: '52'
       total: 292
       breakdown:
         reach: 122.767
@@ -4356,7 +4356,7 @@ score:
       landedDistance: 102.608 km
   - - - '33'
       - Anatoly Reyter
-    - place: '52'
+    - place: '53'
       total: 278
       breakdown:
         reach: 118.025
@@ -4378,7 +4378,7 @@ score:
       landedDistance: 98.543 km
   - - - '57'
       - Kodaka Fumio
-    - place: '53'
+    - place: '54'
       total: 256
       breakdown:
         reach: 107.022
@@ -4400,7 +4400,7 @@ score:
       landedDistance: 89.419 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '54'
+    - place: '55'
       total: 234
       breakdown:
         reach: 95.985
@@ -4422,7 +4422,7 @@ score:
       landedDistance: 80.246 km
   - - - '3'
       - Tullio Gervasoni
-    - place: '55'
+    - place: '56'
       total: 225
       breakdown:
         reach: 93.377
@@ -4444,7 +4444,7 @@ score:
       landedDistance: 77.776 km
   - - - '65'
       - Lukas Bader
-    - place: '56'
+    - place: '57'
       total: 209
       breakdown:
         reach: 86.86
@@ -4466,7 +4466,7 @@ score:
       landedDistance: 72.539 km
   - - - '54'
       - Dick Heffer
-    - place: '57'
+    - place: '58'
       total: 203
       breakdown:
         reach: 89.496
@@ -4488,7 +4488,7 @@ score:
       landedDistance: 71.845 km
   - - - '74'
       - Vic Hare
-    - place: '58'
+    - place: '59'
       total: 188
       breakdown:
         reach: 85.601
@@ -4510,7 +4510,7 @@ score:
       landedDistance: 71.367 km
   - - - '12'
       - John Smith
-    - place: '59'
+    - place: '60'
       total: 171
       breakdown:
         reach: 81.691
@@ -4532,7 +4532,7 @@ score:
       landedDistance: 68.186 km
   - - - '15'
       - Ryosuke Hattori
-    - place: '60'
+    - place: '61'
       total: 121
       breakdown:
         reach: 47.628
@@ -4554,7 +4554,7 @@ score:
       landedDistance: 39.825 km
   - - - '1'
       - Hossain Tefaili
-    - place: '61'
+    - place: '62'
       total: 117
       breakdown:
         reach: 45.477
@@ -4576,7 +4576,7 @@ score:
       landedDistance: 37.560 km
   - - - '14'
       - Peter Burkitt
-    - place: '62'
+    - place: '63'
       total: 108
       breakdown:
         reach: 41.72
@@ -4598,7 +4598,7 @@ score:
       landedDistance: 34.656 km
   - - - '52'
       - Dale Regehr
-    - place: '63'
+    - place: '64'
       total: 98
       breakdown:
         reach: 37.77
@@ -4620,7 +4620,7 @@ score:
       landedDistance: 31.074 km
   - - - '24'
       - Les Bestt
-    - place: '64'
+    - place: '65'
       total: 85
       breakdown:
         reach: 33.895
@@ -4642,7 +4642,7 @@ score:
       landedDistance: 27.976 km
   - - - '63'
       - Len Paton
-    - place: '65'
+    - place: '66'
       total: 71
       breakdown:
         reach: 30.647
@@ -4664,7 +4664,7 @@ score:
       landedDistance: 25.398 km
   - - - '32'
       - Andrew Barnes
-    - place: '66'
+    - place: '67'
       total: 56
       breakdown:
         reach: 29.071
@@ -4686,7 +4686,7 @@ score:
       landedDistance: 23.852 km
   - - - '55'
       - Don Cramer
-    - place: '67'
+    - place: '68'
       total: 27
       breakdown:
         reach: 15.384
@@ -5346,7 +5346,7 @@ score:
       landedDistance: 216.339 km
   - - - '72'
       - Sasha Serebrennikova
-    - place: '29'
+    - place: '30'
       total: 724
       breakdown:
         reach: 202.272
@@ -5368,7 +5368,7 @@ score:
       landedDistance: 216.339 km
   - - - '60'
       - Grant Heaney
-    - place: '30'
+    - place: '31'
       total: 716
       breakdown:
         reach: 202.272
@@ -5390,7 +5390,7 @@ score:
       landedDistance: 216.339 km
   - - - '27'
       - Guy Hubbard
-    - place: '31'
+    - place: '32'
       total: 698
       breakdown:
         reach: 202.272
@@ -5412,7 +5412,7 @@ score:
       landedDistance: 216.339 km
   - - - '12'
       - John Smith
-    - place: '32'
+    - place: '33'
       total: 696
       breakdown:
         reach: 202.272
@@ -5434,7 +5434,7 @@ score:
       landedDistance: 216.339 km
   - - - '23'
       - Nils Vesk
-    - place: '33'
+    - place: '34'
       total: 693
       breakdown:
         reach: 202.272
@@ -5456,7 +5456,7 @@ score:
       landedDistance: 216.339 km
   - - - '32'
       - Andrew Barnes
-    - place: '34'
+    - place: '35'
       total: 688
       breakdown:
         reach: 202.272
@@ -5478,7 +5478,7 @@ score:
       landedDistance: 216.339 km
   - - - '75'
       - Yasuhiro Noma
-    - place: '35'
+    - place: '36'
       total: 685
       breakdown:
         reach: 202.272
@@ -5500,7 +5500,7 @@ score:
       landedDistance: 216.339 km
   - - - '35'
       - Howard Jones
-    - place: '36'
+    - place: '37'
       total: 645
       breakdown:
         reach: 202.272
@@ -5522,7 +5522,7 @@ score:
       landedDistance: 216.339 km
   - - - '30'
       - Jason Kath
-    - place: '37'
+    - place: '38'
       total: 640
       breakdown:
         reach: 202.272
@@ -5544,7 +5544,7 @@ score:
       landedDistance: 216.339 km
   - - - '37'
       - Gavin Myers
-    - place: '38'
+    - place: '39'
       total: 389
       breakdown:
         reach: 186.712
@@ -5566,7 +5566,7 @@ score:
       landedDistance: 198.350 km
   - - - '13'
       - Viv Clements
-    - place: '39'
+    - place: '40'
       total: 384
       breakdown:
         reach: 182.842
@@ -5588,7 +5588,7 @@ score:
       landedDistance: 195.433 km
   - - - '39'
       - Jon Durand Snr
-    - place: '40'
+    - place: '41'
       total: 379
       breakdown:
         reach: 180.765
@@ -5610,7 +5610,7 @@ score:
       landedDistance: 193.058 km
   - - - '33'
       - Anatoly Reyter
-    - place: '41'
+    - place: '42'
       total: 369
       breakdown:
         reach: 174.118
@@ -5632,7 +5632,7 @@ score:
       landedDistance: 185.918 km
   - - - '76'
       - Rory Duncan
-    - place: '42'
+    - place: '43'
       total: 357
       breakdown:
         reach: 167.335
@@ -5654,7 +5654,7 @@ score:
       landedDistance: 178.813 km
   - - - '42'
       - Rob de Groot
-    - place: '43'
+    - place: '44'
       total: 349
       breakdown:
         reach: 166.317
@@ -5676,7 +5676,7 @@ score:
       landedDistance: 177.466 km
   - - - '71'
       - Rob Larkin
-    - place: '44'
+    - place: '45'
       total: 337
       breakdown:
         reach: 161.792
@@ -5698,7 +5698,7 @@ score:
       landedDistance: 172.261 km
   - - - '66'
       - Ito Manabu
-    - place: '45'
+    - place: '46'
       total: 326
       breakdown:
         reach: 157.801
@@ -5720,7 +5720,7 @@ score:
       landedDistance: 168.385 km
   - - - '52'
       - Dale Regehr
-    - place: '46'
+    - place: '47'
       total: 318
       breakdown:
         reach: 156.368
@@ -5742,7 +5742,7 @@ score:
       landedDistance: 167.088 km
   - - - '14'
       - Peter Burkitt
-    - place: '47'
+    - place: '48'
       total: 307
       breakdown:
         reach: 152.687
@@ -5764,7 +5764,7 @@ score:
       landedDistance: 163.078 km
   - - - '54'
       - Dick Heffer
-    - place: '48'
+    - place: '49'
       total: 296
       breakdown:
         reach: 149.998
@@ -5786,7 +5786,7 @@ score:
       landedDistance: 160.342 km
   - - - '57'
       - Kodaka Fumio
-    - place: '49'
+    - place: '50'
       total: 288
       breakdown:
         reach: 150.869
@@ -5808,7 +5808,7 @@ score:
       landedDistance: 160.273 km
   - - - '29'
       - Sergei Sukleta
-    - place: '50'
+    - place: '51'
       total: 275
       breakdown:
         reach: 148.833
@@ -5830,7 +5830,7 @@ score:
       landedDistance: 159.055 km
   - - - '64'
       - Longfei Yang
-    - place: '51'
+    - place: '52'
       total: 262
       breakdown:
         reach: 147.64
@@ -5852,7 +5852,7 @@ score:
       landedDistance: 157.529 km
   - - - '63'
       - Len Paton
-    - place: '52'
+    - place: '53'
       total: 247
       breakdown:
         reach: 143.493
@@ -5874,7 +5874,7 @@ score:
       landedDistance: 153.468 km
   - - - '4'
       - Frank Chetcuti
-    - place: '53'
+    - place: '54'
       total: 232
       breakdown:
         reach: 141.034
@@ -5896,7 +5896,7 @@ score:
       landedDistance: 150.581 km
   - - - '36'
       - Steve Docherty
-    - place: '54'
+    - place: '55'
       total: 216
       breakdown:
         reach: 135.946
@@ -5918,7 +5918,7 @@ score:
       landedDistance: 143.555 km
   - - - '62'
       - Josh Woods
-    - place: '55'
+    - place: '56'
       total: 199
       breakdown:
         reach: 129.641
@@ -5940,7 +5940,7 @@ score:
       landedDistance: 138.529 km
   - - - '67'
       - Mark Alton
-    - place: '56'
+    - place: '57'
       total: 186
       breakdown:
         reach: 124.432
@@ -5962,7 +5962,7 @@ score:
       landedDistance: 132.885 km
   - - - '2'
       - Derek Mckee
-    - place: '57'
+    - place: '58'
       total: 156
       breakdown:
         reach: 100.804
@@ -5984,7 +5984,7 @@ score:
       landedDistance: 107.701 km
   - - - '6'
       - Yoko Isomoto
-    - place: '58'
+    - place: '59'
       total: 154
       breakdown:
         reach: 100.308
@@ -6006,7 +6006,7 @@ score:
       landedDistance: 107.016 km
   - - - '24'
       - Les Bestt
-    - place: '59'
+    - place: '60'
       total: 148
       breakdown:
         reach: 96.729
@@ -6028,7 +6028,7 @@ score:
       landedDistance: 102.039 km
   - - - '15'
       - Ryosuke Hattori
-    - place: '60'
+    - place: '61'
       total: 143
       breakdown:
         reach: 95.704
@@ -6050,7 +6050,7 @@ score:
       landedDistance: 101.792 km
   - - - '41'
       - Tony Armstrong
-    - place: '61'
+    - place: '62'
       total: 137
       breakdown:
         reach: 95.189
@@ -6072,7 +6072,7 @@ score:
       landedDistance: 101.532 km
   - - - '59'
       - Glen Mcfarlane
-    - place: '62'
+    - place: '63'
       total: 129
       breakdown:
         reach: 93.329
@@ -6094,7 +6094,7 @@ score:
       landedDistance: 99.555 km
   - - - '70'
       - Noel Collins
-    - place: '63'
+    - place: '64'
       total: 114
       breakdown:
         reach: 86.435
@@ -6116,7 +6116,7 @@ score:
       landedDistance: 92.204 km
   - - - '1'
       - Hossain Tefaili
-    - place: '64'
+    - place: '65'
       total: 92
       breakdown:
         reach: 73.852
@@ -6138,7 +6138,7 @@ score:
       landedDistance: 78.653 km
   - - - '55'
       - Don Cramer
-    - place: '65'
+    - place: '66'
       total: 87
       breakdown:
         reach: 72.867
@@ -6160,7 +6160,7 @@ score:
       landedDistance: 77.761 km
   - - - '68'
       - Neale Halsall
-    - place: '66'
+    - place: '67'
       total: 70
       breakdown:
         reach: 59.998
@@ -6182,7 +6182,7 @@ score:
       landedDistance: 63.381 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '67'
+    - place: '68'
       total: 66
       breakdown:
         reach: 59.487
@@ -6204,7 +6204,7 @@ score:
       landedDistance: 62.942 km
   - - - '46'
       - Akira Nagusa
-    - place: '68'
+    - place: '69'
       total: 41
       breakdown:
         reach: 39.45
@@ -7238,7 +7238,7 @@ score:
       landedDistance: 143.004 km
   - - - '69'
       - Niki Longshore
-    - place: 46=
+    - place: 47=
       total: 491
       breakdown:
         reach: 182.319
@@ -7260,7 +7260,7 @@ score:
       landedDistance: 143.004 km
   - - - '54'
       - Dick Heffer
-    - place: 46=
+    - place: 47=
       total: 491
       breakdown:
         reach: 182.319
@@ -7282,7 +7282,7 @@ score:
       landedDistance: 143.004 km
   - - - '52'
       - Dale Regehr
-    - place: 46=
+    - place: 47=
       total: 491
       breakdown:
         reach: 182.319
@@ -7304,7 +7304,7 @@ score:
       landedDistance: 143.004 km
   - - - '6'
       - Yoko Isomoto
-    - place: 46=
+    - place: 47=
       total: 491
       breakdown:
         reach: 182.319
@@ -7326,7 +7326,7 @@ score:
       landedDistance: 143.004 km
   - - - '71'
       - Rob Larkin
-    - place: 46=
+    - place: 47=
       total: 491
       breakdown:
         reach: 182.319
@@ -7348,7 +7348,7 @@ score:
       landedDistance: 143.004 km
   - - - '7'
       - Olav Opsanger
-    - place: '47'
+    - place: '52'
       total: 363
       breakdown:
         reach: 181.153
@@ -7370,7 +7370,7 @@ score:
       landedDistance: 142.005 km
   - - - '46'
       - Akira Nagusa
-    - place: '48'
+    - place: '53'
       total: 359
       breakdown:
         reach: 179.602
@@ -7392,7 +7392,7 @@ score:
       landedDistance: 140.873 km
   - - - '4'
       - Frank Chetcuti
-    - place: '49'
+    - place: '54'
       total: 338
       breakdown:
         reach: 164.297
@@ -7414,7 +7414,7 @@ score:
       landedDistance: 128.749 km
   - - - '66'
       - Ito Manabu
-    - place: '50'
+    - place: '55'
       total: 327
       breakdown:
         reach: 161.896
@@ -7436,7 +7436,7 @@ score:
       landedDistance: 126.881 km
   - - - '12'
       - John Smith
-    - place: '51'
+    - place: '56'
       total: 313
       breakdown:
         reach: 160.06
@@ -7458,7 +7458,7 @@ score:
       landedDistance: 125.129 km
   - - - '29'
       - Sergei Sukleta
-    - place: '52'
+    - place: '57'
       total: 294
       breakdown:
         reach: 155.393
@@ -7480,7 +7480,7 @@ score:
       landedDistance: 121.823 km
   - - - '64'
       - Longfei Yang
-    - place: '53'
+    - place: '58'
       total: 276
       breakdown:
         reach: 154.149
@@ -7502,7 +7502,7 @@ score:
       landedDistance: 120.197 km
   - - - '70'
       - Noel Collins
-    - place: '54'
+    - place: '59'
       total: 253
       breakdown:
         reach: 151.957
@@ -7524,7 +7524,7 @@ score:
       landedDistance: 118.282 km
   - - - '2'
       - Derek Mckee
-    - place: '55'
+    - place: '60'
       total: 207
       breakdown:
         reach: 128.788
@@ -7546,7 +7546,7 @@ score:
       landedDistance: 101.015 km
   - - - '24'
       - Les Bestt
-    - place: '56'
+    - place: '61'
       total: 180
       breakdown:
         reach: 121.675
@@ -7568,7 +7568,7 @@ score:
       landedDistance: 95.025 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '57'
+    - place: '62'
       total: 158
       breakdown:
         reach: 117.873
@@ -7590,7 +7590,7 @@ score:
       landedDistance: 91.210 km
   - - - '42'
       - Rob de Groot
-    - place: '58'
+    - place: '63'
       total: 113
       breakdown:
         reach: 90.123
@@ -7612,7 +7612,7 @@ score:
       landedDistance: 70.302 km
   - - - '55'
       - Don Cramer
-    - place: '59'
+    - place: '64'
       total: 104
       breakdown:
         reach: 89.811
@@ -7634,7 +7634,7 @@ score:
       landedDistance: 69.763 km
   - - - '14'
       - Peter Burkitt
-    - place: '60'
+    - place: '65'
       total: 6
       breakdown:
         reach: 2.644
@@ -8448,7 +8448,7 @@ score:
       landedDistance: 227.319 km
   - - - '74'
       - Vic Hare
-    - place: '36'
+    - place: '37'
       total: 721
       breakdown:
         reach: 183.128
@@ -8470,7 +8470,7 @@ score:
       landedDistance: 227.319 km
   - - - '12'
       - John Smith
-    - place: '37'
+    - place: '38'
       total: 687
       breakdown:
         reach: 183.128
@@ -8492,7 +8492,7 @@ score:
       landedDistance: 227.319 km
   - - - '63'
       - Len Paton
-    - place: '38'
+    - place: '39'
       total: 654
       breakdown:
         reach: 183.128
@@ -8514,7 +8514,7 @@ score:
       landedDistance: 227.319 km
   - - - '35'
       - Howard Jones
-    - place: '39'
+    - place: '40'
       total: 636
       breakdown:
         reach: 183.128
@@ -8536,7 +8536,7 @@ score:
       landedDistance: 227.319 km
   - - - '13'
       - Viv Clements
-    - place: '40'
+    - place: '41'
       total: 630
       breakdown:
         reach: 183.128
@@ -8558,7 +8558,7 @@ score:
       landedDistance: 227.319 km
   - - - '6'
       - Yoko Isomoto
-    - place: '41'
+    - place: '42'
       total: 626
       breakdown:
         reach: 183.128
@@ -8580,7 +8580,7 @@ score:
       landedDistance: 227.319 km
   - - - '34'
       - Brad Porter
-    - place: '42'
+    - place: '43'
       total: 609
       breakdown:
         reach: 183.128
@@ -8602,7 +8602,7 @@ score:
       landedDistance: 227.319 km
   - - - '15'
       - Ryosuke Hattori
-    - place: '43'
+    - place: '44'
       total: 602
       breakdown:
         reach: 183.128
@@ -8624,7 +8624,7 @@ score:
       landedDistance: 227.319 km
   - - - '32'
       - Andrew Barnes
-    - place: '44'
+    - place: '45'
       total: 593
       breakdown:
         reach: 183.128
@@ -8646,7 +8646,7 @@ score:
       landedDistance: 227.319 km
   - - - '54'
       - Dick Heffer
-    - place: '45'
+    - place: '46'
       total: 558
       breakdown:
         reach: 183.128
@@ -8668,7 +8668,7 @@ score:
       landedDistance: 227.319 km
   - - - '66'
       - Ito Manabu
-    - place: '46'
+    - place: '47'
       total: 539
       breakdown:
         reach: 183.128
@@ -8690,7 +8690,7 @@ score:
       landedDistance: 227.319 km
   - - - '2'
       - Derek Mckee
-    - place: '47'
+    - place: '48'
       total: 536
       breakdown:
         reach: 183.128
@@ -8712,7 +8712,7 @@ score:
       landedDistance: 227.319 km
   - - - '14'
       - Peter Burkitt
-    - place: 48=
+    - place: 49=
       total: 492
       breakdown:
         reach: 183.128
@@ -8734,7 +8734,7 @@ score:
       landedDistance: 227.319 km
   - - - '4'
       - Frank Chetcuti
-    - place: 48=
+    - place: 49=
       total: 492
       breakdown:
         reach: 183.128
@@ -8756,7 +8756,7 @@ score:
       landedDistance: 227.319 km
   - - - '29'
       - Sergei Sukleta
-    - place: 48=
+    - place: 49=
       total: 492
       breakdown:
         reach: 183.128
@@ -8778,7 +8778,7 @@ score:
       landedDistance: 227.319 km
   - - - '52'
       - Dale Regehr
-    - place: '49'
+    - place: '52'
       total: 346
       breakdown:
         reach: 163.186
@@ -8800,7 +8800,7 @@ score:
       landedDistance: 202.350 km
   - - - '16'
       - Takeshi Yokoyama
-    - place: '50'
+    - place: '53'
       total: 334
       breakdown:
         reach: 154.484
@@ -8822,7 +8822,7 @@ score:
       landedDistance: 191.686 km
   - - - '33'
       - Anatoly Reyter
-    - place: '51'
+    - place: '54'
       total: 325
       breakdown:
         reach: 152.156
@@ -8844,7 +8844,7 @@ score:
       landedDistance: 188.126 km
   - - - '46'
       - Akira Nagusa
-    - place: '52'
+    - place: '55'
       total: 311
       breakdown:
         reach: 147.39
@@ -8866,7 +8866,7 @@ score:
       landedDistance: 181.543 km
   - - - '24'
       - Les Bestt
-    - place: '53'
+    - place: '56'
       total: 293
       breakdown:
         reach: 143.168
@@ -8888,7 +8888,7 @@ score:
       landedDistance: 177.558 km
   - - - '73'
       - Tony Giammichele
-    - place: '54'
+    - place: '57'
       total: 278
       breakdown:
         reach: 144.994
@@ -8910,7 +8910,7 @@ score:
       landedDistance: 177.434 km
   - - - '49'
       - Bruce Wynne
-    - place: '55'
+    - place: '58'
       total: 233
       breakdown:
         reach: 119.757
@@ -8932,7 +8932,7 @@ score:
       landedDistance: 148.180 km
   - - - '60'
       - Grant Heaney
-    - place: '56'
+    - place: '59'
       total: 206
       breakdown:
         reach: 109.252
@@ -8954,7 +8954,7 @@ score:
       landedDistance: 135.539 km
   - - - '55'
       - Don Cramer
-    - place: '57'
+    - place: '60'
       total: 184
       breakdown:
         reach: 100.791
@@ -8976,7 +8976,7 @@ score:
       landedDistance: 124.654 km
   - - - '67'
       - Mark Alton
-    - place: '58'
+    - place: '61'
       total: 150
       breakdown:
         reach: 77.189
@@ -8998,7 +8998,7 @@ score:
       landedDistance: 95.734 km
   - - - '42'
       - Rob de Groot
-    - place: '59'
+    - place: '62'
       total: 138
       breakdown:
         reach: 74.761
@@ -9020,7 +9020,7 @@ score:
       landedDistance: 92.290 km
   - - - '68'
       - Neale Halsall
-    - place: '60'
+    - place: '63'
       total: 123
       breakdown:
         reach: 69.233
@@ -9042,7 +9042,7 @@ score:
       landedDistance: 85.052 km
   - - - '70'
       - Noel Collins
-    - place: '61'
+    - place: '64'
       total: 89
       breakdown:
         reach: 49.08
@@ -9064,7 +9064,7 @@ score:
       landedDistance: 60.649 km
   - - - '18'
       - Nariyuki Watabe
-    - place: '62'
+    - place: '65'
       total: 60
       breakdown:
         reach: 33.233
@@ -9086,7 +9086,7 @@ score:
       landedDistance: 41.252 km
   - - - '71'
       - Rob Larkin
-    - place: '63'
+    - place: '66'
       total: 46
       breakdown:
         reach: 25.833
@@ -9108,7 +9108,7 @@ score:
       landedDistance: 31.878 km
   - - - '64'
       - Longfei Yang
-    - place: '64'
+    - place: '67'
       total: 20
       breakdown:
         reach: 9.825
