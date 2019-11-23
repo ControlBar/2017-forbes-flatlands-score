@@ -1,19 +1,29 @@
 comp:
   compName: Forbes Flatlands 2017
   discipline: hg
+  earthMath: Haversines
   location: forbes
-  from: '2016-12-29'
-  to: '2016-12-29'
+  from: 2016-12-29
+  to: 2016-12-29
   civilId: '11691'
   utcOffset:
     timeZoneMinutes: 660
-  scoreBack: 0.0 s
+  scoreBack: 0.000 s
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
 nominal:
   launch: 1
   goal: 0.25
   distance: 100.0 km
-  free: 10.0 km
-  time: 1.5 h
+  free: 10.000 km
+  time: 1.500000 h
+compTweak:
+  arrivalWeightScaling: null
+  leadingWeightScaling: null
 tasks:
 - taskName: Well we'll think about it...
   zones:
@@ -22,32 +32,41 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 395.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.46522 deg
-          - 148.9893 deg
+          - -32.46522000 deg
+          - 148.98930000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -68,8 +87,14 @@ tasks:
   - 2016-12-31T04:30:00Z
   - 2016-12-31T04:45:00Z
   - 2016-12-31T05:00:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 - taskName: smart alec
   zones:
     raw:
@@ -77,50 +102,65 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: TOOGON
       lat: -33.35167
       lng: 148.63012
       radius: 8000.0 m
+      giveIn: 7960.0 m
+      giveOut: 8040.0 m
+      alt: 402.000 m
     - zoneName: TOMING
       lat: -32.56608
       lng: 148.22657
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 278.000 m
     - zoneName: ALEC
       lat: -32.897
       lng: 148.2638
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 340.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -33.35167 deg
-          - 148.63012 deg
+          - -33.35167000 deg
+          - 148.63012000 deg
           radius: 8000.0 m
       - cylinder:
           center:
-          - -32.56608 deg
-          - 148.22657 deg
+          - -32.56608000 deg
+          - 148.22657000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.897 deg
-          - 148.2638 deg
+          - -32.89700000 deg
+          - 148.26380000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -145,8 +185,14 @@ tasks:
   - 2017-01-02T04:00:00Z
   - 2017-01-02T04:15:00Z
   - 2017-01-02T04:30:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 - taskName: boom town
   zones:
     raw:
@@ -154,50 +200,65 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: MILBY
       lat: -33.25198
       lng: 147.10463
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 187.000 m
     - zoneName: TULLIB
       lat: -33.44923
       lng: 146.72102
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 261.000 m
     - zoneName: LAKECA
       lat: -33.2849
       lng: 146.3715
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 177.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -33.25198 deg
-          - 147.10463 deg
+          - -33.25198000 deg
+          - 147.10463000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - -33.44923 deg
-          - 146.72102 deg
+          - -33.44923000 deg
+          - 146.72102000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.2849 deg
-          - 146.3715 deg
+          - -33.28490000 deg
+          - 146.37150000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -222,10 +283,14 @@ tasks:
   - 2017-01-03T04:15:00Z
   - 2017-01-03T04:30:00Z
   - 2017-01-03T04:45:00Z
-  absent:
-  - - '64'
-    - Longfei Yang
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 - taskName: all good at goolgowi
   zones:
     raw:
@@ -233,32 +298,41 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: GOOLGO
       lat: -33.9952
       lng: 145.71887
       radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 119.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.9952 deg
-          - 145.71887 deg
+          - -33.99520000 deg
+          - 145.71887000 deg
           radius: 1000.0 m
     openKind: null
   speedSection:
@@ -279,8 +353,14 @@ tasks:
   - 2017-01-04T04:00:00Z
   - 2017-01-04T04:15:00Z
   - 2017-01-04T04:30:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 - taskName: andre do you have a name for the task
   zones:
     raw:
@@ -288,50 +368,65 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: FIFIEL
       lat: -32.80455
       lng: 147.4494
       radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: 294.000 m
     - zoneName: MINES
       lat: -32.90223
       lng: 147.98492
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 281.000 m
     - zoneName: BOGAN
       lat: -33.12592
       lng: 147.91043
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 286.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -32.80455 deg
-          - 147.4494 deg
+          - -32.80455000 deg
+          - 147.44940000 deg
           radius: 5000.0 m
       - cylinder:
           center:
-          - -32.90223 deg
-          - 147.98492 deg
+          - -32.90223000 deg
+          - 147.98492000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.12592 deg
-          - 147.91043 deg
+          - -33.12592000 deg
+          - 147.91043000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -355,16 +450,14 @@ tasks:
   - 2017-01-05T03:15:00Z
   - 2017-01-05T03:30:00Z
   - 2017-01-05T03:45:00Z
-  absent:
-  - - '33'
-    - Anatoly Reyter
-  - - '1'
-    - Hossain Tefaili
-  - - '28'
-    - Mikhail Karmazin
-  - - '36'
-    - Steve Docherty
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 - taskName: hillstorm
   zones:
     raw:
@@ -372,41 +465,53 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 230.000 m
     - zoneName: MONIA
       lat: -33.61103
       lng: 146.00603
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 147.000 m
     - zoneName: HILLS
       lat: -33.4917
       lng: 145.52478
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 119.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -33.61103 deg
-          - 146.00603 deg
+          - -33.61103000 deg
+          - 146.00603000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.4917 deg
-          - 145.52478 deg
+          - -33.49170000 deg
+          - 145.52478000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -428,12 +533,14 @@ tasks:
   - 2017-01-06T03:15:00Z
   - 2017-01-06T03:30:00Z
   - 2017-01-06T03:45:00Z
-  absent:
-  - - '1'
-    - Hossain Tefaili
-  - - '36'
-    - Steve Docherty
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
+  penals: []
 taskFolders:
 - - scoring
   - day 1
@@ -1669,3 +1776,51 @@ pilots:
   - - - '6'
       - Yoko Isomoto
     - Yoko Isomoto.20170106-122949.12517.6.igc
+pilotGroups:
+- absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '4'
+    - Frank Chetcuti
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 138.938000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 138.938000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '64'
+    - Longfei Yang
+  didFlyNoTracklog: []
+  dnf: []
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '33'
+    - Anatoly Reyter
+  - - '1'
+    - Hossain Tefaili
+  - - '28'
+    - Mikhail Karmazin
+  - - '36'
+    - Steve Docherty
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '1'
+    - Hossain Tefaili
+  - - '36'
+    - Steve Docherty
+  didFlyNoTracklog: []
+  dnf: []
