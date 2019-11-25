@@ -371,12 +371,12 @@ arrivalRank:
       - Gijs Wanders
     - rank: '12'
       frac: 0.51898154
-  - - - '43'
-      - Jonny Durand
-    - rank: '13'
-      frac: 0.48893016
   - - - '7'
       - Olav Opsanger
+    - rank: '13'
+      frac: 0.48893016
+  - - - '43'
+      - Jonny Durand
     - rank: '14'
       frac: 0.46085845
   - - - '26'
