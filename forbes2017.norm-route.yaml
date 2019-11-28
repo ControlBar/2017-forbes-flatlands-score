@@ -1,1 +1,882 @@
-[]
+- point:
+    distance: 138.938976 km
+    legs:
+    - 9.604917 km
+    - 129.334059 km
+    legsSum:
+    - 9.604917 km
+    - 138.938976 km
+    flipSum:
+    - 138.938976 km
+    - 129.334059 km
+    waypoints:
+    - lat: -33.35366
+      lng: 147.93665
+    - lat: -33.2927
+      lng: 148.00989
+    - lat: -32.46778
+      lng: 148.98631
+  sphere:
+    distance: 138.938976 km
+    legs:
+    - 9.604917 km
+    - 129.334059 km
+    legsSum:
+    - 9.604917 km
+    - 138.938976 km
+    flipSum:
+    - 138.938976 km
+    - 129.334059 km
+    waypoints:
+    - lat: -33.35366
+      lng: 147.93665
+    - lat: -33.2927
+      lng: 148.00989
+    - lat: -32.46778
+      lng: 148.98631
+  ellipse:
+    distance: 138.901804 km
+    legs:
+    - 9.602979 km
+    - 129.298825 km
+    legsSum:
+    - 9.602979 km
+    - 138.901804 km
+    flipSum:
+    - 138.901804 km
+    - 129.298825 km
+    waypoints:
+    - lat: -33.35366
+      lng: 147.93665
+    - lat: -33.2927
+      lng: 148.00989
+    - lat: -32.46778
+      lng: 148.98631
+  projected:
+    ellipsoid:
+      distance: 138.938976 km
+      legs:
+      - 9.600110 km
+      - 129.279652 km
+      legsSum:
+      - 9.600110 km
+      - 138.879761 km
+      flipSum:
+      - 138.879761 km
+      - 129.279652 km
+      waypoints:
+      - lat: -33.35366
+        lng: 147.93665
+      - lat: -33.2927
+        lng: 148.00989
+      - lat: -32.46778
+        lng: 148.98631
+    planar:
+      distance: 138.938976 km
+      legs:
+      - 9.604917 km
+      - 129.334059 km
+      legsSum:
+      - 9.604917 km
+      - 138.938976 km
+      flipSum:
+      - 138.938976 km
+      - 129.334059 km
+      mappedPoints:
+      - easting: 587148.741
+        northing: 6309113.492
+      - easting: 594028.935
+        northing: 6315808.643
+      - easting: 686674.775
+        northing: 6405975.026
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 138.938976 km
+      legs:
+      - 9.600110 km
+      - 129.279652 km
+      legsSum:
+      - 9.600110 km
+      - 138.879761 km
+      flipSum:
+      - 138.879761 km
+      - 129.279652 km
+      waypoints:
+      - lat: -33.35366
+        lng: 147.93665
+      - lat: -33.2927
+        lng: 148.00989
+      - lat: -32.46778
+        lng: 148.98631
+- point:
+    distance: 163.094215 km
+    legs:
+    - 9.581818 km
+    - 48.131630 km
+    - 78.753681 km
+    - 26.627086 km
+    legsSum:
+    - 9.581818 km
+    - 57.713448 km
+    - 136.467129 km
+    - 163.094215 km
+    flipSum:
+    - 163.094215 km
+    - 153.512398 km
+    - 105.380768 km
+    - 26.627086 km
+    waypoints:
+    - lat: -33.35592
+      lng: 147.93789
+    - lat: -33.34912
+      lng: 148.04073
+    - lat: -33.31368
+      lng: 148.55707
+    - lat: -32.65425
+      lng: 148.24902
+    - lat: -32.8934
+      lng: 148.26358
+  sphere:
+    distance: 163.094215 km
+    legs:
+    - 9.581818 km
+    - 48.131630 km
+    - 78.753681 km
+    - 26.627086 km
+    legsSum:
+    - 9.581818 km
+    - 57.713448 km
+    - 136.467129 km
+    - 163.094215 km
+    flipSum:
+    - 163.094215 km
+    - 153.512398 km
+    - 105.380768 km
+    - 26.627086 km
+    waypoints:
+    - lat: -33.35592
+      lng: 147.93789
+    - lat: -33.34912
+      lng: 148.04073
+    - lat: -33.31368
+      lng: 148.55707
+    - lat: -32.65425
+      lng: 148.24902
+    - lat: -32.8934
+      lng: 148.26358
+  ellipse:
+    distance: 162.989139 km
+    legs:
+    - 9.601992 km
+    - 48.232809 km
+    - 78.597439 km
+    - 26.556899 km
+    legsSum:
+    - 9.601992 km
+    - 57.834801 km
+    - 136.432240 km
+    - 162.989139 km
+    flipSum:
+    - 162.989139 km
+    - 153.387147 km
+    - 105.154338 km
+    - 26.556899 km
+    waypoints:
+    - lat: -33.35592
+      lng: 147.93789
+    - lat: -33.34912
+      lng: 148.04073
+    - lat: -33.31368
+      lng: 148.55707
+    - lat: -32.65425
+      lng: 148.24902
+    - lat: -32.8934
+      lng: 148.26358
+  projected:
+    ellipsoid:
+      distance: 163.094215 km
+      legs:
+      - 9.599155 km
+      - 48.222321 km
+      - 78.582704 km
+      - 26.550810 km
+      legsSum:
+      - 9.599155 km
+      - 57.821477 km
+      - 136.404180 km
+      - 162.954990 km
+      flipSum:
+      - 162.954990 km
+      - 153.355835 km
+      - 105.133513 km
+      - 26.550810 km
+      waypoints:
+      - lat: -33.35592
+        lng: 147.93789
+      - lat: -33.34912
+        lng: 148.04073
+      - lat: -33.31368
+        lng: 148.55707
+      - lat: -32.65425
+        lng: 148.24902
+      - lat: -32.8934
+        lng: 148.26358
+    planar:
+      distance: 163.094215 km
+      legs:
+      - 9.581818 km
+      - 48.131630 km
+      - 78.753681 km
+      - 26.627086 km
+      legsSum:
+      - 9.581818 km
+      - 57.713448 km
+      - 136.467129 km
+      - 163.094215 km
+      flipSum:
+      - 163.094215 km
+      - 153.512398 km
+      - 105.380768 km
+      - 26.627086 km
+      mappedPoints:
+      - easting: 587261.864
+        northing: 6308861.883
+      - easting: 596838.089
+        northing: 6309524.971
+      - easting: 644945.244
+        northing: 6312855.722
+      - easting: 617135.107
+        northing: 6386352.916
+      - easting: 618184.08
+        northing: 6359822.836
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 163.094215 km
+      legs:
+      - 9.599155 km
+      - 48.222321 km
+      - 78.582704 km
+      - 26.550810 km
+      legsSum:
+      - 9.599155 km
+      - 57.821477 km
+      - 136.404180 km
+      - 162.954990 km
+      flipSum:
+      - 162.954990 km
+      - 153.355835 km
+      - 105.133513 km
+      - 26.550810 km
+      waypoints:
+      - lat: -33.35592
+        lng: 147.93789
+      - lat: -33.34912
+        lng: 148.04073
+      - lat: -33.31368
+        lng: 148.55707
+      - lat: -32.65425
+        lng: 148.24902
+      - lat: -32.8934
+        lng: 148.26358
+- point:
+    distance: 155.520294 km
+    legs:
+    - 9.583239 km
+    - 67.788026 km
+    - 41.500477 km
+    - 36.648553 km
+    legsSum:
+    - 9.583239 km
+    - 77.371265 km
+    - 118.871742 km
+    - 155.520294 km
+    flipSum:
+    - 155.520294 km
+    - 145.937055 km
+    - 78.149029 km
+    - 36.648553 km
+    waypoints:
+    - lat: -33.3557
+      lng: 147.92934
+    - lat: -33.34359
+      lng: 147.82719
+    - lat: -33.25552
+      lng: 147.10545
+    - lat: -33.44562
+      lng: 146.72095
+    - lat: -33.28664
+      lng: 146.37526
+  sphere:
+    distance: 155.520294 km
+    legs:
+    - 9.583239 km
+    - 67.788026 km
+    - 41.500477 km
+    - 36.648553 km
+    legsSum:
+    - 9.583239 km
+    - 77.371265 km
+    - 118.871742 km
+    - 155.520294 km
+    flipSum:
+    - 155.520294 km
+    - 145.937055 km
+    - 78.149029 km
+    - 36.648553 km
+    waypoints:
+    - lat: -33.3557
+      lng: 147.92934
+    - lat: -33.34359
+      lng: 147.82719
+    - lat: -33.25552
+      lng: 147.10545
+    - lat: -33.44562
+      lng: 146.72095
+    - lat: -33.28664
+      lng: 146.37526
+  ellipse:
+    distance: 155.754265 km
+    legs:
+    - 9.602809 km
+    - 67.925908 km
+    - 41.538647 km
+    - 36.686901 km
+    legsSum:
+    - 9.602809 km
+    - 77.528717 km
+    - 119.067364 km
+    - 155.754265 km
+    flipSum:
+    - 155.754265 km
+    - 146.151456 km
+    - 78.225548 km
+    - 36.686901 km
+    waypoints:
+    - lat: -33.3557
+      lng: 147.92934
+    - lat: -33.34359
+      lng: 147.82719
+    - lat: -33.25552
+      lng: 147.10545
+    - lat: -33.44562
+      lng: 146.72095
+    - lat: -33.28664
+      lng: 146.37526
+  projected:
+    ellipsoid:
+      distance: 155.520294 km
+      legs:
+      - 9.599759 km
+      - 67.900630 km
+      - 41.522120 km
+      - 36.673065 km
+      legsSum:
+      - 9.599759 km
+      - 77.500389 km
+      - 119.022509 km
+      - 155.695574 km
+      flipSum:
+      - 155.695574 km
+      - 146.095815 km
+      - 78.195185 km
+      - 36.673065 km
+      waypoints:
+      - lat: -33.3557
+        lng: 147.92934
+      - lat: -33.34359
+        lng: 147.82719
+      - lat: -33.25552
+        lng: 147.10545
+      - lat: -33.44562
+        lng: 146.72095
+      - lat: -33.28664
+        lng: 146.37526
+    planar:
+      distance: 155.520294 km
+      legs:
+      - 9.583239 km
+      - 67.788026 km
+      - 41.500477 km
+      - 36.648553 km
+      legsSum:
+      - 9.583239 km
+      - 77.371265 km
+      - 118.871742 km
+      - 155.520294 km
+      flipSum:
+      - 155.520294 km
+      - 145.937055 km
+      - 78.149029 km
+      - 36.648553 km
+      mappedPoints:
+      - easting: 586466.556
+        northing: 6308893.403
+      - easting: 576972.814
+        northing: 6310316.162
+      - easting: 509822.209
+        northing: 6320380.547
+      - easting: 474064.1
+        northing: 6299275.001
+      - easting: 441828.372
+        northing: 6316761.324
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 155.520294 km
+      legs:
+      - 9.599759 km
+      - 67.900630 km
+      - 41.522120 km
+      - 36.673065 km
+      legsSum:
+      - 9.599759 km
+      - 77.500389 km
+      - 119.022509 km
+      - 155.695574 km
+      flipSum:
+      - 155.695574 km
+      - 146.095815 km
+      - 78.195185 km
+      - 36.673065 km
+      waypoints:
+      - lat: -33.3557
+        lng: 147.92934
+      - lat: -33.34359
+        lng: 147.82719
+      - lat: -33.25552
+        lng: 147.10545
+      - lat: -33.44562
+        lng: 146.72095
+      - lat: -33.28664
+        lng: 146.37526
+- point:
+    distance: 215.504400 km
+    legs:
+    - 9.587793 km
+    - 205.916608 km
+    legsSum:
+    - 9.587793 km
+    - 215.504400 km
+    flipSum:
+    - 215.504400 km
+    - 205.916608 km
+    waypoints:
+    - lat: -33.35741
+      lng: 147.92955
+    - lat: -33.38649
+      lng: 147.83235
+    - lat: -33.99235
+      lng: 145.72914
+  sphere:
+    distance: 215.504400 km
+    legs:
+    - 9.587793 km
+    - 205.916608 km
+    legsSum:
+    - 9.587793 km
+    - 215.504400 km
+    flipSum:
+    - 215.504400 km
+    - 205.916608 km
+    waypoints:
+    - lat: -33.35741
+      lng: 147.92955
+    - lat: -33.38649
+      lng: 147.83235
+    - lat: -33.99235
+      lng: 145.72914
+  ellipse:
+    distance: 215.860713 km
+    legs:
+    - 9.603167 km
+    - 206.257546 km
+    legsSum:
+    - 9.603167 km
+    - 215.860713 km
+    flipSum:
+    - 215.860713 km
+    - 206.257546 km
+    waypoints:
+    - lat: -33.35741
+      lng: 147.92955
+    - lat: -33.38649
+      lng: 147.83235
+    - lat: -33.99235
+      lng: 145.72914
+  projected:
+    ellipsoid:
+      distance: 215.504400 km
+      legs:
+      - 9.600122 km
+      - 206.184098 km
+      legsSum:
+      - 9.600122 km
+      - 215.784219 km
+      flipSum:
+      - 215.784219 km
+      - 206.184098 km
+      waypoints:
+      - lat: -33.35741
+        lng: 147.92955
+      - lat: -33.38649
+        lng: 147.83235
+      - lat: -33.99235
+        lng: 145.72914
+    planar:
+      distance: 215.504400 km
+      legs:
+      - 9.587793 km
+      - 205.916608 km
+      legsSum:
+      - 9.587793 km
+      - 215.504400 km
+      flipSum:
+      - 215.504400 km
+      - 205.916608 km
+      mappedPoints:
+      - easting: 586484.404
+        northing: 6308703.637
+      - easting: 577414.978
+        northing: 6305555.962
+      - easting: 382624.676
+        northing: 6237964.391
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 215.504400 km
+      legs:
+      - 9.600122 km
+      - 206.184098 km
+      legsSum:
+      - 9.600122 km
+      - 215.784219 km
+      flipSum:
+      - 215.784219 km
+      - 206.184098 km
+      waypoints:
+      - lat: -33.35741
+        lng: 147.92955
+      - lat: -33.38649
+        lng: 147.83235
+      - lat: -33.99235
+        lng: 145.72914
+- point:
+    distance: 142.469363 km
+    legs:
+    - 9.612122 km
+    - 61.482250 km
+    - 46.246899 km
+    - 25.128092 km
+    legsSum:
+    - 9.612122 km
+    - 71.094372 km
+    - 117.341271 km
+    - 142.469363 km
+    flipSum:
+    - 142.469363 km
+    - 132.857241 km
+    - 71.374991 km
+    - 25.128092 km
+    waypoints:
+    - lat: -33.35325
+      lng: 147.93112
+    - lat: -33.28246
+      lng: 147.87175
+    - lat: -32.82898
+      lng: 147.4943
+    - lat: -32.90416
+      lng: 147.98131
+    - lat: -33.12244
+      lng: 147.91155
+  sphere:
+    distance: 142.469363 km
+    legs:
+    - 9.612122 km
+    - 61.482250 km
+    - 46.246899 km
+    - 25.128092 km
+    legsSum:
+    - 9.612122 km
+    - 71.094372 km
+    - 117.341271 km
+    - 142.469363 km
+    flipSum:
+    - 142.469363 km
+    - 132.857241 km
+    - 71.374991 km
+    - 25.128092 km
+    waypoints:
+    - lat: -33.35325
+      lng: 147.93112
+    - lat: -33.28246
+      lng: 147.87175
+    - lat: -32.82898
+      lng: 147.4943
+    - lat: -32.90416
+      lng: 147.98131
+    - lat: -33.12244
+      lng: 147.91155
+  ellipse:
+    distance: 142.427514 km
+    legs:
+    - 9.602388 km
+    - 61.417381 km
+    - 46.337264 km
+    - 25.070481 km
+    legsSum:
+    - 9.602388 km
+    - 71.019769 km
+    - 117.357033 km
+    - 142.427514 km
+    flipSum:
+    - 142.427514 km
+    - 132.825126 km
+    - 71.407745 km
+    - 25.070481 km
+    waypoints:
+    - lat: -33.35325
+      lng: 147.93112
+    - lat: -33.28246
+      lng: 147.87175
+    - lat: -32.82898
+      lng: 147.4943
+    - lat: -32.90416
+      lng: 147.98131
+    - lat: -33.12244
+      lng: 147.91155
+  projected:
+    ellipsoid:
+      distance: 142.469363 km
+      legs:
+      - 9.599381 km
+      - 61.395966 km
+      - 46.321549 km
+      - 25.062870 km
+      legsSum:
+      - 9.599381 km
+      - 70.995346 km
+      - 117.316895 km
+      - 142.379765 km
+      flipSum:
+      - 142.379765 km
+      - 132.780384 km
+      - 71.384419 km
+      - 25.062870 km
+      waypoints:
+      - lat: -33.35325
+        lng: 147.93112
+      - lat: -33.28246
+        lng: 147.87175
+      - lat: -32.82898
+        lng: 147.4943
+      - lat: -32.90416
+        lng: 147.98131
+      - lat: -33.12244
+        lng: 147.91155
+    planar:
+      distance: 142.469363 km
+      legs:
+      - 9.612122 km
+      - 61.482250 km
+      - 46.246899 km
+      - 25.128092 km
+      legsSum:
+      - 9.612122 km
+      - 71.094372 km
+      - 117.341271 km
+      - 142.469363 km
+      flipSum:
+      - 142.469363 km
+      - 132.857241 km
+      - 71.374991 km
+      - 25.128092 km
+      mappedPoints:
+      - easting: 586634.602
+        northing: 6309163.561
+      - easting: 581176.035
+        northing: 6317059.9
+      - easting: 546264.563
+        northing: 6367563.897
+      - easting: 591770.726
+        northing: 6358910.861
+      - easting: 585036.85
+        northing: 6334769.562
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 142.469363 km
+      legs:
+      - 9.599381 km
+      - 61.395966 km
+      - 46.321549 km
+      - 25.062870 km
+      legsSum:
+      - 9.599381 km
+      - 70.995346 km
+      - 117.316895 km
+      - 142.379765 km
+      flipSum:
+      - 142.379765 km
+      - 132.780384 km
+      - 71.384419 km
+      - 25.062870 km
+      waypoints:
+      - lat: -33.35325
+        lng: 147.93112
+      - lat: -33.28246
+        lng: 147.87175
+      - lat: -32.82898
+        lng: 147.4943
+      - lat: -32.90416
+        lng: 147.98131
+      - lat: -33.12244
+        lng: 147.91155
+- point:
+    distance: 226.553532 km
+    legs:
+    - 9.584160 km
+    - 170.926904 km
+    - 46.042468 km
+    legsSum:
+    - 9.584160 km
+    - 180.511064 km
+    - 226.553532 km
+    flipSum:
+    - 226.553532 km
+    - 216.969371 km
+    - 46.042468 km
+    waypoints:
+    - lat: -33.35679
+      lng: 147.92936
+    - lat: -33.37084
+      lng: 147.82754
+    - lat: -33.60743
+      lng: 146.00631
+    - lat: -33.4927
+      lng: 145.52892
+  sphere:
+    distance: 226.553532 km
+    legs:
+    - 9.584160 km
+    - 170.926904 km
+    - 46.042468 km
+    legsSum:
+    - 9.584160 km
+    - 180.511064 km
+    - 226.553532 km
+    flipSum:
+    - 226.553532 km
+    - 216.969371 km
+    - 46.042468 km
+    waypoints:
+    - lat: -33.35679
+      lng: 147.92936
+    - lat: -33.37084
+      lng: 147.82754
+    - lat: -33.60743
+      lng: 146.00631
+    - lat: -33.4927
+      lng: 145.52892
+  ellipse:
+    distance: 227.002351 km
+    legs:
+    - 9.603433 km
+    - 171.274144 km
+    - 46.124774 km
+    legsSum:
+    - 9.603433 km
+    - 180.877577 km
+    - 227.002351 km
+    flipSum:
+    - 227.002351 km
+    - 217.398918 km
+    - 46.124774 km
+    waypoints:
+    - lat: -33.35679
+      lng: 147.92936
+    - lat: -33.37084
+      lng: 147.82754
+    - lat: -33.60743
+      lng: 146.00631
+    - lat: -33.4927
+      lng: 145.52892
+  projected:
+    ellipsoid:
+      distance: 226.553532 km
+      legs:
+      - 9.600384 km
+      - 171.210791 km
+      - 46.113863 km
+      legsSum:
+      - 9.600384 km
+      - 180.811175 km
+      - 226.925038 km
+      flipSum:
+      - 226.925038 km
+      - 217.324654 km
+      - 46.113863 km
+      waypoints:
+      - lat: -33.35679
+        lng: 147.92936
+      - lat: -33.37084
+        lng: 147.82754
+      - lat: -33.60743
+        lng: 146.00631
+      - lat: -33.4927
+        lng: 145.52892
+    planar:
+      distance: 226.553532 km
+      legs:
+      - 9.584160 km
+      - 170.926904 km
+      - 46.042468 km
+      legsSum:
+      - 9.584160 km
+      - 180.511064 km
+      - 226.553532 km
+      flipSum:
+      - 226.553532 km
+      - 216.969371 km
+      - 46.042468 km
+      mappedPoints:
+      - easting: 586467.339
+        northing: 6308772.536
+      - easting: 576981.388
+        northing: 6307294.666
+      - easting: 407813.103
+        northing: 6280927.519
+      - easting: 363340.797
+        northing: 6293121.876
+      mappedZones:
+      - latZone: H
+        lngZone: 55
+    spherical:
+      distance: 226.553532 km
+      legs:
+      - 9.600384 km
+      - 171.210791 km
+      - 46.113863 km
+      legsSum:
+      - 9.600384 km
+      - 180.811175 km
+      - 226.925038 km
+      flipSum:
+      - 226.925038 km
+      - 217.324654 km
+      - 46.113863 km
+      waypoints:
+      - lat: -33.35679
+        lng: 147.92936
+      - lat: -33.37084
+        lng: 147.82754
+      - lat: -33.60743
+        lng: 146.00631
+      - lat: -33.4927
+        lng: 145.52892
