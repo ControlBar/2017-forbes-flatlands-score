@@ -94,6 +94,11 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto:
+  - - - '28'
+      - Mikhail Karmazin
+    - - penalty-points: 15
+    - Jumped the gun by 0:30
   penals: []
 - taskName: smart alec
   zones:
@@ -192,6 +197,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: boom town
   zones:
@@ -290,6 +296,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: all good at goolgowi
   zones:
@@ -360,6 +367,11 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto:
+  - - - '67'
+      - Mark Alton
+    - - penalty-points: 11.5
+    - Jumped the gun by 0:23
   penals: []
 - taskName: andre do you have a name for the task
   zones:
@@ -457,6 +469,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: hillstorm
   zones:
@@ -540,6 +553,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - scoring
