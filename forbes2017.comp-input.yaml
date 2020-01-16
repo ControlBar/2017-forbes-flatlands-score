@@ -22,7 +22,8 @@ nominal:
   free: 10.000 km
   time: 1.500000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: Well we'll think about it...
@@ -89,7 +90,8 @@ tasks:
   - 2016-12-31T05:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -192,7 +194,8 @@ tasks:
   - 2017-01-02T04:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -291,7 +294,8 @@ tasks:
   - 2017-01-03T04:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -362,7 +366,8 @@ tasks:
   - 2017-01-04T04:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -464,7 +469,8 @@ tasks:
   - 2017-01-05T03:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -548,7 +554,8 @@ tasks:
   - 2017-01-06T03:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s

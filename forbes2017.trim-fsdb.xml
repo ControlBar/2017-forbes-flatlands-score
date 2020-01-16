@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="11691" name="Forbes Flatlands 2017" location="forbes" from="2016-12-29" to="2016-12-29" utc_offset="11" discipline="hg">
-    <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="0"/>
+    <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="0"/>
     <FsParticipants>
       <FsParticipant id="1" name="Hossain Tefaili"/>
       <FsParticipant id="2" name="Derek Mckee"/>
@@ -74,7 +74,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="Well we&apos;ll think about it..." tracklog_folder="scoring\day 1">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="3" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2016-12-31T12:00:00+11:00" close="2016-12-31T22:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2016-12-31T12:00:00+11:00" close="2016-12-31T22:00:00+11:00"/>
@@ -487,7 +487,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="smart alec" tracklog_folder="scoring\day 2">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2017-01-02T12:00:00+11:00" close="2017-01-02T20:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2017-01-02T14:00:00+11:00" close="2017-01-02T20:00:00+11:00"/>
@@ -986,7 +986,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="boom town" tracklog_folder="scoring\day 3">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2017-01-03T12:00:00+11:00" close="2017-01-03T20:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2017-01-03T14:15:00+11:00" close="2017-01-03T20:00:00+11:00"/>
@@ -1358,7 +1358,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="all good at goolgowi" tracklog_folder="scoring\day 4">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="3" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2017-01-04T12:00:00+11:00" close="2017-01-04T20:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2017-01-04T14:00:00+11:00" close="2017-01-04T20:00:00+11:00"/>
@@ -1757,7 +1757,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="andre do you have a name for the task" tracklog_folder="scoring\task 5">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2017-01-05T12:00:00+11:00" close="2017-01-05T20:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2017-01-05T13:30:00+11:00" close="2017-01-05T20:00:00+11:00"/>
@@ -2098,7 +2098,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="6" name="hillstorm" tracklog_folder="scoring\task 6">
-        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_leading_points="0" score_back_time="0"/>
+        <FsScoreFormula id="GAP2013" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="0" score_back_time="0"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="400" open="2017-01-06T12:00:00+11:00" close="2017-01-06T20:00:00+11:00"/>
           <FsTurnpoint id="BMI023" lat="-33.3562" lon="147.9336" altitude="230" radius="10000" open="2017-01-06T13:30:00+11:00" close="2017-01-06T20:00:00+11:00"/>
