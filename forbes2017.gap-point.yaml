@@ -2181,9 +2181,30 @@ score:
         flown: 20.928 km
       landedMade: 20.689 km
       stoppedAlt: 371.000 m
+  - - - '4'
+      - Frank Chetcuti
+    - place: 67=
+      total: 27
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 11.04
+        arrival: 0
+        time: 0
+        reach: 15.752
+        distance: 26.792
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '1'
       - Hossain Tefaili
-    - place: '67'
+    - place: 67=
       total: 27
       jump: null
       penaltiesJump: []
@@ -2210,27 +2231,6 @@ score:
         flown: 10.032 km
       landedMade: 9.737 km
       stoppedAlt: 354.000 m
-  - - - '4'
-      - Frank Chetcuti
-    - place: '68'
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 15.752
-        distance: 15.752
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '38'
       - Michael Jackson
     - place: '1'
@@ -23786,17 +23786,17 @@ scoreDfNoTrack:
 - - - - '4'
       - Frank Chetcuti
     - place: '1'
-      total: 16
+      total: 27
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.04
         arrival: 0
         time: 0
         reach: 15.752
-        distance: 15.752
+        distance: 26.792
         leading: 0
       velocity: null
       reach:
