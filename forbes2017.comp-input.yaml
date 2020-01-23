@@ -96,6 +96,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '28'
       - Mikhail Karmazin
@@ -200,6 +201,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: boom town
@@ -300,6 +302,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: all good at goolgowi
@@ -372,6 +375,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '67'
       - Mark Alton
@@ -475,6 +479,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: hillstorm
@@ -560,6 +565,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 taskFolders:

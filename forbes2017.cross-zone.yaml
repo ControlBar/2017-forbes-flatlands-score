@@ -90322,7 +90322,20 @@ crossing:
           inZone:
           - true
           - false
-      - - null
+      - - crossingPair:
+          - fix: 516
+            time: 2017-01-06T02:03:33Z
+            lat: -33.30281667
+            lng: 147.8467
+            alt: 0
+          - fix: 517
+            time: 2017-01-06T02:03:38Z
+            lat: -33.30263333
+            lng: 147.84555
+            alt: 0
+          inZone:
+          - true
+          - false
         - crossingPair:
           - fix: 873
             time: 2017-01-06T02:33:18Z
@@ -90421,49 +90434,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 516
-            time: 2017-01-06T02:03:33Z
-            lat: -33.30281667
-            lng: 147.8467
-            alt: 0
-          - fix: 517
-            time: 2017-01-06T02:03:38Z
-            lat: -33.30263333
-            lng: 147.84555
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 873
-            time: 2017-01-06T02:33:18Z
-            lat: -33.33765
-            lng: 147.82753333
-            alt: 0
-          - fix: 874
-            time: 2017-01-06T02:33:23Z
-            lat: -33.3379
-            lng: 147.82835
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1069
-            time: 2017-01-06T02:49:38Z
-            lat: -33.33061667
-            lng: 147.83068333
-            alt: 0
-          - fix: 1070
-            time: 2017-01-06T02:49:43Z
-            lat: -33.33033333
-            lng: 147.82986667
-            alt: 0
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '71'
       - Rob Larkin
     - zonesCrossSelected:
