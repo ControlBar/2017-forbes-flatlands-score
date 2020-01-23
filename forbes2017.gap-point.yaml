@@ -1127,9 +1127,10 @@ score:
   - - - '28'
       - Mikhail Karmazin
     - place: '27'
-      total: 647.141
+      total: 633.074
       jump: 28.135 s
-      penalties: []
+      penalties:
+      - penalty-points: 14.067708387219
       breakdown:
         effort: 218.854
         arrival: 0
@@ -8875,9 +8876,10 @@ score:
   - - - '67'
       - Mark Alton
     - place: '57'
-      total: 217.977
+      total: 208.705
       jump: 18.543 s
-      penalties: []
+      penalties:
+      - penalty-points: 9.271478018505
       breakdown:
         effort: 93.815
         arrival: 0
@@ -14520,9 +14522,10 @@ scoreDf:
   - - - '28'
       - Mikhail Karmazin
     - place: '27'
-      total: 647.141
+      total: 633.074
       jump: 28.135 s
-      penalties: []
+      penalties:
+      - penalty-points: 14.067708387219
       breakdown:
         effort: 218.854
         arrival: 0
@@ -22243,9 +22246,10 @@ scoreDf:
   - - - '67'
       - Mark Alton
     - place: '57'
-      total: 217.977
+      total: 208.705
       jump: 18.543 s
-      penalties: []
+      penalties:
+      - penalty-points: 9.271478018505
       breakdown:
         effort: 93.815
         arrival: 0
