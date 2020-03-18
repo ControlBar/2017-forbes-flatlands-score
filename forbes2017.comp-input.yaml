@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  leadingAreaDistanceSquared: false
   leadingWeightScaling: null
 tasks:
 - taskName: Well we'll think about it...
@@ -92,6 +93,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -197,6 +199,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -298,6 +301,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -371,6 +375,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -475,6 +480,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
@@ -561,6 +567,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 600 s
