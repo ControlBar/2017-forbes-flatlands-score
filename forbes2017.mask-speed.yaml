@@ -93,8 +93,8 @@ ssSpeed:
       frac: 0.67096806
   - - - '16'
       - Takeshi Yokoyama
-    - time: 2.502434 h
-      frac: 0.66987866
+    - time: 2.507287 h
+      frac: 0.66611016
   - - - '75'
       - Yasuhiro Noma
     - time: 2.530009 h
@@ -270,8 +270,8 @@ ssSpeed:
       frac: 0.46809257
   - - - '9'
       - Gijs Wanders
-    - time: 3.398479 h
-      frac: 0.46348163
+    - time: 3.404477 h
+      frac: 0.46019309
   - - - '35'
       - Howard Jones
     - time: 3.432559 h
@@ -296,14 +296,14 @@ ssSpeed:
       - Niki Longshore
     - time: 3.651535 h
       frac: 0.33224536
-  - - - '13'
-      - Viv Clements
-    - time: 3.729346 h
-      frac: 0.2944744
   - - - '8'
       - Gordon Rigg
     - time: 3.759141 h
       frac: 0.28027769
+  - - - '13'
+      - Viv Clements
+    - time: 3.772120 h
+      frac: 0.27413744
   - - - '16'
       - Takeshi Yokoyama
     - time: 3.773955 h
@@ -462,16 +462,16 @@ ssSpeed:
       frac: 0.43600514
   - - - '27'
       - Guy Hubbard
-    - time: 4.740474 h
-      frac: 0.42013396
+    - time: 4.751682 h
+      frac: 0.41515794
   - - - '12'
       - John Smith
     - time: 4.758323 h
       frac: 0.41221902
   - - - '23'
       - Nils Vesk
-    - time: 4.765940 h
-      frac: 0.40885767
+    - time: 4.778947 h
+      frac: 0.40313993
   - - - '32'
       - Andrew Barnes
     - time: 4.790988 h
@@ -494,8 +494,8 @@ ssSpeed:
       frac: 0.2891843
   - - - '30'
       - Jason Kath
-    - time: 5.056746 h
-      frac: 0.28680627
+    - time: 5.067884 h
+      frac: 0.28234453
 - - - - '43'
       - Jonny Durand
     - time: 2.822201 h
@@ -586,12 +586,12 @@ ssSpeed:
       frac: 0.68410345
   - - - '30'
       - Jason Kath
-    - time: 3.132518 h
-      frac: 0.67565501
+    - time: 3.138879 h
+      frac: 0.67123753
   - - - '22'
       - Rohan Taylor
-    - time: 3.137477 h
-      frac: 0.67220835
+    - time: 3.144201 h
+      frac: 0.66756415
   - - - '8'
       - Gordon Rigg
     - time: 3.150656 h
@@ -610,8 +610,8 @@ ssSpeed:
       frac: 0.62406552
   - - - '51'
       - Craig Taylor
-    - time: 3.215340 h
-      frac: 0.62024711
+    - time: 3.232908 h
+      frac: 0.60901599
   - - - '76'
       - Rory Duncan
     - time: 3.323114 h
@@ -624,14 +624,14 @@ ssSpeed:
       - Vic Hare
     - time: 3.388732 h
       frac: 0.51550837
-  - - - '57'
-      - Kodaka Fumio
-    - time: 3.389536 h
-      frac: 0.51504968
   - - - '16'
       - Takeshi Yokoyama
     - time: 3.392320 h
       frac: 0.51346453
+  - - - '57'
+      - Kodaka Fumio
+    - time: 3.405387 h
+      frac: 0.50605891
   - - - '45'
       - Adam Stevens
     - time: 3.410621 h
@@ -670,8 +670,8 @@ ssSpeed:
       frac: 0.25873754
   - - - '32'
       - Andrew Barnes
-    - time: 3.933807 h
-      frac: 0.24065727
+    - time: 3.952570 h
+      frac: 0.2321361
   - - - '34'
       - Brad Porter
     - time: 4.089085 h
@@ -882,8 +882,8 @@ ssSpeed:
       frac: 0.24044557
   - - - '66'
       - Ito Manabu
-    - time: 4.626088 h
-      frac: 0.2095225
+    - time: 4.651858 h
+      frac: 0.19898684
   - - - '54'
       - Dick Heffer
     - time: 4.721043 h
@@ -894,8 +894,8 @@ ssSpeed:
       frac: 0.13188933
   - - - '4'
       - Frank Chetcuti
-    - time: 5.039592 h
-      frac: 4.790099e-2
+    - time: 5.050641 h
+      frac: 4.377557e-2
   - - - '14'
       - Peter Burkitt
     - time: 5.192955 h
@@ -1462,10 +1462,6 @@ gsSpeed:
       - Lukas Bader
     - time: 3.133214 h
       frac: 0.6780387
-  - - - '30'
-      - Jason Kath
-    - time: 3.138736 h
-      frac: 0.67419074
   - - - '22'
       - Rohan Taylor
     - time: 3.145233 h
@@ -1494,6 +1490,10 @@ gsSpeed:
       - Rory Duncan
     - time: 3.339083 h
       frac: 0.54674859
+  - - - '30'
+      - Jason Kath
+    - time: 3.388736 h
+      frac: 0.51795329
   - - - '74'
       - Vic Hare
     - time: 3.397789 h

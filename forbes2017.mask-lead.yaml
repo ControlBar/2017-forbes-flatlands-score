@@ -235,9 +235,9 @@ leadRank:
       frac: 0.13928191
   - - - '17'
       - Kato Minoru
-    - area: 1089773.1829 km s
-      coef: 4.68096259
-      frac: 0.13568132
+    - area: 1089863.1414 km s
+      coef: 4.68134899
+      frac: 0.13552729
   - - - '15'
       - Ryosuke Hattori
     - area: 1133470.4567 km s
@@ -305,18 +305,18 @@ leadRank:
       frac: 0
   - - - '14'
       - Peter Burkitt
-    - area: 1404780.4414 km s
-      coef: 6.03403057
-      frac: 0
-  - - - '32'
-      - Andrew Barnes
-    - area: 1425692.5014 km s
-      coef: 6.12385528
+    - area: 1404868.0606 km s
+      coef: 6.03440692
       frac: 0
   - - - '33'
       - Anatoly Reyter
     - area: 1426508.9205 km s
       coef: 6.12736209
+      frac: 0
+  - - - '32'
+      - Andrew Barnes
+    - area: 1426794.5109 km s
+      coef: 6.12858881
       frac: 0
   - - - '2'
       - Derek Mckee
@@ -420,8 +420,8 @@ leadRank:
       frac: 0
   - - - '1'
       - Hossain Tefaili
-    - area: 3583350.4723 km s
-      coef: 15.39176204
+    - area: 3583777.6273 km s
+      coef: 15.39359682
       frac: 0
 - - - - '5'
       - Filippo Oppici
@@ -460,9 +460,9 @@ leadRank:
       frac: 0.9174036
   - - - '58'
       - Gerolf Heinrichs
-    - area: 1193869.3848 km s
-      coef: 4.31983021
-      frac: 0.89332911
+    - area: 1193893.1742 km s
+      coef: 4.31991629
+      frac: 0.89324388
   - - - '47'
       - Attila Bertok
     - area: 1195498.7270 km s
@@ -520,9 +520,9 @@ leadRank:
       frac: 0.80004576
   - - - '69'
       - Niki Longshore
-    - area: 1228315.5135 km s
-      coef: 4.44446816
-      frac: 0.79134417
+    - area: 1228361.7361 km s
+      coef: 4.44463541
+      frac: 0.79122576
   - - - '75'
       - Yasuhiro Noma
     - area: 1231052.8550 km s
@@ -605,9 +605,9 @@ leadRank:
       frac: 0.25390796
   - - - '13'
       - Viv Clements
-    - area: 1548187.2529 km s
-      coef: 5.60187417
-      frac: 0.24435451
+    - area: 1548254.7888 km s
+      coef: 5.60211854
+      frac: 0.24426358
   - - - '51'
       - Craig Taylor
     - area: 1558812.7028 km s
@@ -650,8 +650,8 @@ leadRank:
       frac: 0
   - - - '54'
       - Dick Heffer
-    - area: 1779324.5802 km s
-      coef: 6.43820855
+    - area: 1779628.0671 km s
+      coef: 6.43930667
       frac: 0
   - - - '6'
       - Yoko Isomoto
@@ -690,8 +690,8 @@ leadRank:
       frac: 0
   - - - '29'
       - Sergei Sukleta
-    - area: 2102711.6611 km s
-      coef: 7.60833427
+    - area: 2103137.4659 km s
+      coef: 7.60987498
       frac: 0
   - - - '1'
       - Hossain Tefaili
@@ -735,8 +735,8 @@ leadRank:
       frac: 0
   - - - '71'
       - Rob Larkin
-    - area: 2387174.3907 km s
-      coef: 8.63761831
+    - area: 2388258.2247 km s
+      coef: 8.64153999
       frac: 0
   - - - '57'
       - Kodaka Fumio
@@ -920,9 +920,9 @@ leadRank:
       frac: 0.52429097
   - - - '13'
       - Viv Clements
-    - area: 1346852.5900 km s
-      coef: 5.12776881
-      frac: 0.49250524
+    - area: 1347287.7994 km s
+      coef: 5.12942575
+      frac: 0.49176391
   - - - '6'
       - Yoko Isomoto
     - area: 1352886.9408 km s
@@ -940,9 +940,9 @@ leadRank:
       frac: 0.38347335
   - - - '9'
       - Gijs Wanders
-    - area: 1429661.5391 km s
-      coef: 5.44304098
-      frac: 0.35973682
+    - area: 1429917.5650 km s
+      coef: 5.44401573
+      frac: 0.35934846
   - - - '10'
       - Olav Lien Olsen
     - area: 1442375.8998 km s
@@ -1055,8 +1055,8 @@ leadRank:
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - area: 3708384.7541 km s
-      coef: 14.11864951
+    - area: 3708498.4945 km s
+      coef: 14.11908255
       frac: 0
   - - - '1'
       - Hossain Tefaili
@@ -1510,9 +1510,9 @@ leadRank:
       frac: 0.70286152
   - - - '22'
       - Rohan Taylor
-    - area: 867540.8559 km s
-      coef: 3.62742372
-      frac: 0.69285704
+    - area: 867580.8474 km s
+      coef: 3.62759094
+      frac: 0.69274661
   - - - '10'
       - Olav Lien Olsen
     - area: 876908.7919 km s
@@ -1525,9 +1525,9 @@ leadRank:
       frac: 0.61197544
   - - - '51'
       - Craig Taylor
-    - area: 914177.7172 km s
-      coef: 3.82242509
-      frac: 0.57477812
+    - area: 914259.4457 km s
+      coef: 3.82276682
+      frac: 0.57458633
   - - - '75'
       - Yasuhiro Noma
     - area: 934841.5542 km s
@@ -1605,9 +1605,9 @@ leadRank:
       frac: 0.4373266
   - - - '57'
       - Kodaka Fumio
-    - area: 982700.0532 km s
-      coef: 4.10893557
-      frac: 0.42625556
+    - area: 982746.5940 km s
+      coef: 4.10913017
+      frac: 0.42616153
   - - - '31'
       - Trent Brown
     - area: 1028747.5903 km s
@@ -1640,9 +1640,9 @@ leadRank:
       frac: 0.26019778
   - - - '12'
       - John Smith
-    - area: 1077479.6291 km s
-      coef: 4.5052347
-      frac: 0.24795995
+    - area: 1077515.1069 km s
+      coef: 4.50538304
+      frac: 0.24789734
   - - - '13'
       - Viv Clements
     - area: 1081436.6099 km s
@@ -2015,8 +2015,8 @@ leadRank:
       frac: 0
   - - - '66'
       - Ito Manabu
-    - area: 2531237.4350 km s
-      coef: 6.48178638
+    - area: 2532570.9515 km s
+      coef: 6.48520114
       frac: 0
   - - - '49'
       - Bruce Wynne
@@ -2025,8 +2025,8 @@ leadRank:
       frac: 0
   - - - '4'
       - Frank Chetcuti
-    - area: 2639745.3708 km s
-      coef: 6.75964465
+    - area: 2640001.1831 km s
+      coef: 6.76029971
       frac: 0
   - - - '60'
       - Grant Heaney
@@ -2050,8 +2050,8 @@ leadRank:
       frac: 0
   - - - '24'
       - Les Bestt
-    - area: 2970693.5815 km s
-      coef: 7.60710984
+    - area: 2970917.1601 km s
+      coef: 7.60768236
       frac: 0
   - - - '46'
       - Akira Nagusa

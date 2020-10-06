@@ -102,7 +102,10 @@ tasks:
   penalsAuto:
   - - - '28'
       - Mikhail Karmazin
-    - - penalty-points: 15
+    - adds:
+      - penalty-points: -15
+      muls: []
+      resets: []
     - Jumped the gun by 0:30
   penals: []
 - taskName: smart alec
@@ -384,7 +387,10 @@ tasks:
   penalsAuto:
   - - - '67'
       - Mark Alton
-    - - penalty-points: 11.5
+    - adds:
+      - penalty-points: -11.5
+      muls: []
+      resets: []
     - Jumped the gun by 0:23
   penals: []
 - taskName: andre do you have a name for the task

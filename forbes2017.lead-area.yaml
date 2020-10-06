@@ -21,9 +21,9 @@ areas:
       areaBeforeStart: 595975.5264 km s
   - - - '32'
       - Andrew Barnes
-    - areaFlown: 759671.3691 km s
+    - areaFlown: 760773.3786 km s
       areaAfterLanding: 666021.1323 km s
-      areaBeforeStart: 484156.7935 km s
+      areaBeforeStart: 475786.7526 km s
   - - - '47'
       - Attila Bertok
     - areaFlown: 1029447.4678 km s
@@ -116,9 +116,9 @@ areas:
       areaBeforeStart: 598537.6053 km s
   - - - '1'
       - Hossain Tefaili
-    - areaFlown: 2038.7421 km s
+    - areaFlown: 2465.8971 km s
       areaAfterLanding: 3581311.7302 km s
-      areaBeforeStart: 539043.9690 km s
+      areaBeforeStart: 536589.5573 km s
   - - - '66'
       - Ito Manabu
     - areaFlown: 1010956.3704 km s
@@ -156,9 +156,9 @@ areas:
       areaBeforeStart: 477587.6522 km s
   - - - '17'
       - Kato Minoru
-    - areaFlown: 638119.0074 km s
+    - areaFlown: 638208.9659 km s
       areaAfterLanding: 451654.1755 km s
-      areaBeforeStart: 244114.0786 km s
+      areaBeforeStart: 242276.9819 km s
   - - - '57'
       - Kodaka Fumio
     - areaFlown: 1030679.8675 km s
@@ -236,9 +236,9 @@ areas:
       areaBeforeStart: 241780.4574 km s
   - - - '14'
       - Peter Burkitt
-    - areaFlown: 681194.7245 km s
+    - areaFlown: 681282.3437 km s
       areaAfterLanding: 723585.7169 km s
-      areaBeforeStart: 249458.4218 km s
+      areaBeforeStart: 246056.3780 km s
   - - - '71'
       - Rob Larkin
     - areaFlown: 590323.6738 km s
@@ -391,9 +391,9 @@ areas:
       areaBeforeStart: 434479.8572 km s
   - - - '54'
       - Dick Heffer
-    - areaFlown: 1316218.9616 km s
+    - areaFlown: 1316522.4485 km s
       areaAfterLanding: 463105.6186 km s
-      areaBeforeStart: 438931.6829 km s
+      areaBeforeStart: 436147.5882 km s
   - - - '55'
       - Don Cramer
     - areaFlown: 350194.1973 km s
@@ -416,9 +416,9 @@ areas:
       areaBeforeStart: 268825.1255 km s
   - - - '58'
       - Gerolf Heinrichs
-    - areaFlown: 934979.7618 km s
+    - areaFlown: 935003.5512 km s
       areaAfterLanding: 258889.6230 km s
-      areaBeforeStart: 128618.5563 km s
+      areaBeforeStart: 125873.3488 km s
   - - - '9'
       - Gijs Wanders
     - areaFlown: 939830.4225 km s
@@ -541,9 +541,9 @@ areas:
       areaBeforeStart: 432057.8971 km s
   - - - '69'
       - Niki Longshore
-    - areaFlown: 954499.2318 km s
+    - areaFlown: 954545.4544 km s
       areaAfterLanding: 273816.2817 km s
-      areaBeforeStart: 142116.0750 km s
+      areaBeforeStart: 139068.5405 km s
   - - - '23'
       - Nils Vesk
     - areaFlown: 912482.7875 km s
@@ -571,9 +571,9 @@ areas:
       areaBeforeStart: 444284.7271 km s
   - - - '71'
       - Rob Larkin
-    - areaFlown: 87796.7356 km s
+    - areaFlown: 88880.5696 km s
       areaAfterLanding: 2299377.6551 km s
-      areaBeforeStart: 381467.0204 km s
+      areaBeforeStart: 350029.1147 km s
   - - - '42'
       - Rob de Groot
     - areaFlown: 990529.0943 km s
@@ -601,9 +601,9 @@ areas:
       areaBeforeStart: 260569.6172 km s
   - - - '29'
       - Sergei Sukleta
-    - areaFlown: 343468.7674 km s
+    - areaFlown: 343894.5722 km s
       areaAfterLanding: 1759242.8937 km s
-      areaBeforeStart: 395716.2814 km s
+      areaBeforeStart: 386651.1049 km s
   - - - '11'
       - Steve Blenkinsop
     - areaFlown: 1242475.0765 km s
@@ -651,9 +651,9 @@ areas:
       areaBeforeStart: 138696.5450 km s
   - - - '13'
       - Viv Clements
-    - areaFlown: 1228091.4347 km s
+    - areaFlown: 1228158.9706 km s
       areaAfterLanding: 320095.8182 km s
-      areaBeforeStart: 435055.1366 km s
+      areaBeforeStart: 432487.0458 km s
   - - - '75'
       - Yasuhiro Noma
     - areaFlown: 798662.3701 km s
@@ -756,9 +756,9 @@ areas:
       areaBeforeStart: 531173.1900 km s
   - - - '9'
       - Gijs Wanders
-    - areaFlown: 1429661.5391 km s
+    - areaFlown: 1429917.5650 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 384778.3137 km s
+      areaBeforeStart: 381115.0667 km s
   - - - '59'
       - Glen Mcfarlane
     - areaFlown: 1187801.4897 km s
@@ -931,9 +931,9 @@ areas:
       areaBeforeStart: 269955.4660 km s
   - - - '15'
       - Ryosuke Hattori
-    - areaFlown: 145364.1270 km s
+    - areaFlown: 145477.8674 km s
       areaAfterLanding: 3563020.6271 km s
-      areaBeforeStart: 576716.6811 km s
+      areaBeforeStart: 573809.7719 km s
   - - - '72'
       - Sasha Serebrennikova
     - areaFlown: 1633153.8004 km s
@@ -991,9 +991,9 @@ areas:
       areaBeforeStart: 284861.1550 km s
   - - - '13'
       - Viv Clements
-    - areaFlown: 1346852.5900 km s
+    - areaFlown: 1347287.7994 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 348855.7253 km s
+      areaBeforeStart: 304261.3992 km s
   - - - '75'
       - Yasuhiro Noma
     - areaFlown: 1247027.3721 km s
@@ -1391,9 +1391,9 @@ areas:
       areaBeforeStart: 216066.7794 km s
   - - - '51'
       - Craig Taylor
-    - areaFlown: 914177.7172 km s
+    - areaFlown: 914259.4457 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 94580.0004 km s
+      areaBeforeStart: 85368.9312 km s
   - - - '52'
       - Dale Regehr
     - areaFlown: 1366558.7969 km s
@@ -1481,9 +1481,9 @@ areas:
       areaBeforeStart: 93209.8562 km s
   - - - '12'
       - John Smith
-    - areaFlown: 653648.2748 km s
+    - areaFlown: 653683.7526 km s
       areaAfterLanding: 423831.3543 km s
-      areaBeforeStart: 87366.6886 km s
+      areaBeforeStart: 84101.9131 km s
   - - - '39'
       - Jon Durand Snr
     - areaFlown: 968228.4102 km s
@@ -1511,9 +1511,9 @@ areas:
       areaBeforeStart: 97523.5286 km s
   - - - '57'
       - Kodaka Fumio
-    - areaFlown: 982700.0532 km s
+    - areaFlown: 982746.5940 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 113652.2812 km s
+      areaBeforeStart: 105733.9539 km s
   - - - '63'
       - Len Paton
     - areaFlown: 1251186.8907 km s
@@ -1591,9 +1591,9 @@ areas:
       areaBeforeStart: 260970.9811 km s
   - - - '22'
       - Rohan Taylor
-    - areaFlown: 867540.8559 km s
+    - areaFlown: 867580.8474 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 87656.4662 km s
+      areaBeforeStart: 84108.2485 km s
   - - - '76'
       - Rory Duncan
     - areaFlown: 898680.5963 km s
@@ -1746,9 +1746,9 @@ areas:
       areaBeforeStart: 194583.3289 km s
   - - - '4'
       - Frank Chetcuti
-    - areaFlown: 2639745.3708 km s
+    - areaFlown: 2640001.1831 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 558726.1628 km s
+      areaBeforeStart: 557232.9052 km s
   - - - '37'
       - Gavin Myers
     - areaFlown: 1655449.2692 km s
@@ -1796,9 +1796,9 @@ areas:
       areaBeforeStart: 388790.3184 km s
   - - - '66'
       - Ito Manabu
-    - areaFlown: 2531237.4350 km s
+    - areaFlown: 2532570.9515 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 585859.4144 km s
+      areaBeforeStart: 545560.4889 km s
   - - - '30'
       - Jason Kath
     - areaFlown: 1633919.5255 km s
@@ -1846,9 +1846,9 @@ areas:
       areaBeforeStart: 673939.4237 km s
   - - - '24'
       - Les Bestt
-    - areaFlown: 1876332.5324 km s
+    - areaFlown: 1876556.1110 km s
       areaAfterLanding: 1094361.0491 km s
-      areaBeforeStart: 577123.6976 km s
+      areaBeforeStart: 571801.5852 km s
   - - - '64'
       - Longfei Yang
     - areaFlown: 8495.6441 km s
