@@ -870,13 +870,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:00:36.3973747673Z
+        ss: 2016-12-31T04:00:53.867451264225Z
         gs: 2016-12-31T04:00:00Z
         es: 2016-12-31T06:31:02.629232802714Z
         ssDistance: 129.339 km
-        ssElapsed: 2.507287 h
+        ssElapsed: 2.502434 h
         gsElapsed: 2.517397 h
-        ssVelocity: 51.59 km / h
+        ssVelocity: 51.69 km / h
         gsVelocity: 51.38 km / h
       reach:
         extra: 138.939 km
@@ -1691,7 +1691,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:00:44.152989501505Z
+        ss: 2016-12-31T04:00:56.973379382105Z
         gs: 2016-12-31T04:00:00Z
         es: null
         ssDistance: null
@@ -1847,7 +1847,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:30:36.12172131278Z
+        ss: 2016-12-31T04:31:01.58712463911Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -1964,7 +1964,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:30:51.277143291005Z
+        ss: 2016-12-31T04:31:53.07433484658Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -2003,7 +2003,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:01:14.668363867641Z
+        ss: 2016-12-31T04:01:39.367745839335Z
         gs: 2016-12-31T04:00:00Z
         es: null
         ssDistance: null
@@ -2892,7 +2892,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:38:35.48008839759Z
+        ss: 2016-12-31T04:38:52.02455250604Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -3633,7 +3633,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:30:37.983113202728Z
+        ss: 2017-01-02T03:30:54.546915808439Z
         gs: 2017-01-02T03:30:00Z
         es: null
         ssDistance: null
@@ -3750,7 +3750,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:32:03.42023098066Z
+        ss: 2017-01-02T03:32:23.04234539484Z
         gs: 2017-01-02T03:30:00Z
         es: null
         ssDistance: null
@@ -4101,7 +4101,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:03:50.661708815598Z
+        ss: 2017-01-02T04:04:06.349425096841Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -4647,7 +4647,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:04:12.41491648279Z
+        ss: 2017-01-02T04:04:25.87996455085Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -4725,7 +4725,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:06:07.871218628045Z
+        ss: 2017-01-02T04:06:16.944538353195Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -5037,7 +5037,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:58:54.445475917475Z
+        ss: 2017-01-02T03:59:53.21288369519Z
         gs: 2017-01-02T03:45:00Z
         es: null
         ssDistance: null
@@ -5076,7 +5076,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:18:11.18538605913Z
+        ss: 2017-01-02T04:18:26.83070352869Z
         gs: 2017-01-02T04:15:00Z
         es: null
         ssDistance: null
@@ -5349,7 +5349,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:54:11.827508838608Z
+        ss: 2017-01-02T03:55:58.844206773384Z
         gs: 2017-01-02T03:45:00Z
         es: null
         ssDistance: null
@@ -6870,13 +6870,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T03:59:08.65671035179Z
+        ss: 2017-01-03T03:59:30.248723977726Z
         gs: 2017-01-03T03:45:00Z
         es: 2017-01-03T07:23:24.774131221738Z
         ssDistance: 145.921 km
-        ssElapsed: 3.404477 h
+        ssElapsed: 3.398479 h
         gsElapsed: 3.640215 h
-        ssVelocity: 42.86 km / h
+        ssVelocity: 42.94 km / h
         gsVelocity: 40.09 km / h
       reach:
         extra: 155.521 km
@@ -7065,13 +7065,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T03:50:17.336163312385Z
+        ss: 2017-01-03T03:52:51.321417597233Z
         gs: 2017-01-03T03:45:00Z
         es: 2017-01-03T07:36:36.96682554954Z
         ssDistance: 145.921 km
-        ssElapsed: 3.772120 h
+        ssElapsed: 3.729346 h
         gsElapsed: 3.860269 h
-        ssVelocity: 38.68 km / h
+        ssVelocity: 39.13 km / h
         gsVelocity: 37.80 km / h
       reach:
         extra: 155.521 km
@@ -7962,7 +7962,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T04:21:01.733348812748Z
+        ss: 2017-01-03T04:21:19.97349112442Z
         gs: 2017-01-03T04:15:00Z
         es: null
         ssDistance: null
@@ -9405,13 +9405,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:00.74347335729Z
+        ss: 2017-01-04T03:30:41.09096262573Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:15:06.797090021603Z
         ssDistance: 205.902 km
-        ssElapsed: 4.751682 h
+        ssElapsed: 4.740474 h
         gsElapsed: 4.751888 h
-        ssVelocity: 43.33 km / h
+        ssVelocity: 43.43 km / h
         gsVelocity: 43.33 km / h
       reach:
         extra: 215.502 km
@@ -9483,13 +9483,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:00.50692079168Z
+        ss: 2017-01-04T03:30:47.32983370657Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:16:44.71515605616Z
         ssDistance: 205.902 km
-        ssElapsed: 4.778947 h
+        ssElapsed: 4.765940 h
         gsElapsed: 4.779088 h
-        ssVelocity: 43.09 km / h
+        ssVelocity: 43.20 km / h
         gsVelocity: 43.08 km / h
       reach:
         extra: 215.502 km
@@ -9717,13 +9717,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:09.642052119469Z
+        ss: 2017-01-04T03:30:49.740433863781Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:34:14.024806122632Z
         ssDistance: 205.902 km
-        ssElapsed: 5.067884 h
+        ssElapsed: 5.056746 h
         gsElapsed: 5.070562 h
-        ssVelocity: 40.63 km / h
+        ssVelocity: 40.72 km / h
         gsVelocity: 40.61 km / h
       reach:
         extra: 215.502 km
@@ -10811,7 +10811,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:48:00.06165673259Z
+        ss: 2017-01-04T03:48:26.06204269433Z
         gs: 2017-01-04T03:45:00Z
         es: null
         ssDistance: null
@@ -11806,9 +11806,48 @@ score:
       subtotal: 795.438
       landedMade: 142.468 km
       stoppedAlt: null
+  - - - '30'
+      - Jason Kath
+    - place: '23'
+      total: 792.993
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 182.319
+        arrival: 0
+        time: 428.4
+        reach: 182.319
+        distance: 364.638
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2017-01-05T02:45:22.388361217858Z
+        gs: 2017-01-05T02:45:00Z
+        es: 2017-01-05T05:53:19.451366320986Z
+        ssDistance: 132.868 km
+        ssElapsed: 3.132518 h
+        gsElapsed: 3.138736 h
+        ssVelocity: 42.42 km / h
+        gsVelocity: 42.33 km / h
+      reach:
+        extra: 142.468 km
+        flown: 142.468 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 792.993
+      landedMade: 142.468 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
-    - place: '23'
+    - place: '24'
       total: 790.135
       jump: null
       penalties:
@@ -11825,13 +11864,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:03.71584936897Z
+        ss: 2017-01-05T02:45:27.922225178517Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T05:53:42.839413862131Z
         ssDistance: 132.868 km
-        ssElapsed: 3.144201 h
+        ssElapsed: 3.137477 h
         gsElapsed: 3.145233 h
-        ssVelocity: 42.26 km / h
+        ssVelocity: 42.35 km / h
         gsVelocity: 42.24 km / h
       reach:
         extra: 142.468 km
@@ -11847,7 +11886,7 @@ score:
       stoppedAlt: null
   - - - '8'
       - Gordon Rigg
-    - place: '24'
+    - place: '25'
       total: 784.853
       jump: null
       penalties:
@@ -11886,7 +11925,7 @@ score:
       stoppedAlt: null
   - - - '67'
       - Mark Alton
-    - place: '25'
+    - place: '26'
       total: 773.451
       jump: null
       penalties:
@@ -11925,7 +11964,7 @@ score:
       stoppedAlt: null
   - - - '41'
       - Tony Armstrong
-    - place: '26'
+    - place: '27'
       total: 759.227
       jump: null
       penalties:
@@ -11964,7 +12003,7 @@ score:
       stoppedAlt: null
   - - - '51'
       - Craig Taylor
-    - place: '27'
+    - place: '28'
       total: 752.69
       jump: null
       penalties:
@@ -11981,13 +12020,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:05.18896641233Z
+        ss: 2017-01-05T02:46:08.43673258607Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T05:59:03.659291999386Z
         ssDistance: 132.868 km
-        ssElapsed: 3.232908 h
+        ssElapsed: 3.215340 h
         gsElapsed: 3.234350 h
-        ssVelocity: 41.10 km / h
+        ssVelocity: 41.32 km / h
         gsVelocity: 41.08 km / h
       reach:
         extra: 142.468 km
@@ -12003,7 +12042,7 @@ score:
       stoppedAlt: null
   - - - '10'
       - Olav Lien Olsen
-    - place: '28'
+    - place: '29'
       total: 749.626
       jump: null
       penalties:
@@ -12042,7 +12081,7 @@ score:
       stoppedAlt: null
   - - - '76'
       - Rory Duncan
-    - place: '29'
+    - place: '30'
       total: 712.021
       jump: null
       penalties:
@@ -12077,45 +12116,6 @@ score:
         resets: []
       penaltyReason: ''
       subtotal: 712.021
-      landedMade: 142.468 km
-      stoppedAlt: null
-  - - - '30'
-      - Jason Kath
-    - place: '30'
-      total: 693.726
-      jump: null
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 182.319
-        arrival: 0
-        time: 329.1
-        reach: 182.319
-        distance: 364.638
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2017-01-05T02:44:59.48819236976Z
-        gs: 2017-01-05T02:30:00Z
-        es: 2017-01-05T05:53:19.451366320986Z
-        ssDistance: 132.868 km
-        ssElapsed: 3.138879 h
-        gsElapsed: 3.388736 h
-        ssVelocity: 42.33 km / h
-        gsVelocity: 39.21 km / h
-      reach:
-        extra: 142.468 km
-        flown: 142.468 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 693.726
       landedMade: 142.468 km
       stoppedAlt: null
   - - - '74'
@@ -12332,13 +12332,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:47:45.09573656347Z
+        ss: 2017-01-05T02:48:42.1562370762Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T06:12:04.487382753045Z
         ssDistance: 132.868 km
-        ssElapsed: 3.405387 h
+        ssElapsed: 3.389536 h
         gsElapsed: 3.451246 h
-        ssVelocity: 39.02 km / h
+        ssVelocity: 39.20 km / h
         gsVelocity: 38.50 km / h
       reach:
         extra: 142.468 km
@@ -12644,13 +12644,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:10.451611856965Z
+        ss: 2017-01-05T02:46:18.00079593825Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T06:42:19.704921330336Z
         ssDistance: 132.868 km
-        ssElapsed: 3.952570 h
+        ssElapsed: 3.933807 h
         gsElapsed: 3.955474 h
-        ssVelocity: 33.62 km / h
+        ssVelocity: 33.78 km / h
         gsVelocity: 33.59 km / h
       reach:
         extra: 142.468 km
@@ -13112,7 +13112,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:02.473175774105Z
+        ss: 2017-01-05T02:45:24.486550266055Z
         gs: 2017-01-05T02:45:00Z
         es: null
         ssDistance: null
@@ -13268,7 +13268,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T03:19:35.423035988782Z
+        ss: 2017-01-05T03:25:01.337013494572Z
         gs: 2017-01-05T03:15:00Z
         es: null
         ssDistance: null
@@ -15296,13 +15296,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:11:47.613518286162Z
+        ss: 2017-01-06T03:13:20.383183634169Z
         gs: 2017-01-06T03:00:00Z
         es: 2017-01-06T07:50:54.301330218675Z
         ssDistance: 216.953 km
-        ssElapsed: 4.651858 h
+        ssElapsed: 4.626088 h
         gsElapsed: 4.848417 h
-        ssVelocity: 46.64 km / h
+        ssVelocity: 46.90 km / h
         gsVelocity: 44.75 km / h
       reach:
         extra: 226.553 km
@@ -15374,13 +15374,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:12:34.334105210664Z
+        ss: 2017-01-06T03:13:14.111600143808Z
         gs: 2017-01-06T03:00:00Z
         es: 2017-01-06T08:15:36.643497932474Z
         ssDistance: 216.953 km
-        ssElapsed: 5.050641 h
+        ssElapsed: 5.039592 h
         gsElapsed: 5.260179 h
-        ssVelocity: 42.96 km / h
+        ssVelocity: 43.05 km / h
         gsVelocity: 41.24 km / h
       reach:
         extra: 226.553 km
@@ -15686,7 +15686,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:14:12.622438864436Z
+        ss: 2017-01-06T03:14:33.040824571532Z
         gs: 2017-01-06T03:00:00Z
         es: null
         ssDistance: null
@@ -16701,13 +16701,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:00:36.3973747673Z
+        ss: 2016-12-31T04:00:53.867451264225Z
         gs: 2016-12-31T04:00:00Z
         es: 2016-12-31T06:31:02.629232802714Z
         ssDistance: 129.339 km
-        ssElapsed: 2.507287 h
+        ssElapsed: 2.502434 h
         gsElapsed: 2.517397 h
-        ssVelocity: 51.59 km / h
+        ssVelocity: 51.69 km / h
         gsVelocity: 51.38 km / h
       reach:
         extra: 138.939 km
@@ -17522,7 +17522,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:00:44.152989501505Z
+        ss: 2016-12-31T04:00:56.973379382105Z
         gs: 2016-12-31T04:00:00Z
         es: null
         ssDistance: null
@@ -17678,7 +17678,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:30:36.12172131278Z
+        ss: 2016-12-31T04:31:01.58712463911Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -17795,7 +17795,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:30:51.277143291005Z
+        ss: 2016-12-31T04:31:53.07433484658Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -17834,7 +17834,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:01:14.668363867641Z
+        ss: 2016-12-31T04:01:39.367745839335Z
         gs: 2016-12-31T04:00:00Z
         es: null
         ssDistance: null
@@ -18692,7 +18692,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-12-31T04:38:35.48008839759Z
+        ss: 2016-12-31T04:38:52.02455250604Z
         gs: 2016-12-31T04:30:00Z
         es: null
         ssDistance: null
@@ -19433,7 +19433,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:30:37.983113202728Z
+        ss: 2017-01-02T03:30:54.546915808439Z
         gs: 2017-01-02T03:30:00Z
         es: null
         ssDistance: null
@@ -19550,7 +19550,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:32:03.42023098066Z
+        ss: 2017-01-02T03:32:23.04234539484Z
         gs: 2017-01-02T03:30:00Z
         es: null
         ssDistance: null
@@ -19901,7 +19901,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:03:50.661708815598Z
+        ss: 2017-01-02T04:04:06.349425096841Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -20447,7 +20447,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:04:12.41491648279Z
+        ss: 2017-01-02T04:04:25.87996455085Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -20525,7 +20525,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:06:07.871218628045Z
+        ss: 2017-01-02T04:06:16.944538353195Z
         gs: 2017-01-02T04:00:00Z
         es: null
         ssDistance: null
@@ -20837,7 +20837,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:58:54.445475917475Z
+        ss: 2017-01-02T03:59:53.21288369519Z
         gs: 2017-01-02T03:45:00Z
         es: null
         ssDistance: null
@@ -20876,7 +20876,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T04:18:11.18538605913Z
+        ss: 2017-01-02T04:18:26.83070352869Z
         gs: 2017-01-02T04:15:00Z
         es: null
         ssDistance: null
@@ -21149,7 +21149,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-02T03:54:11.827508838608Z
+        ss: 2017-01-02T03:55:58.844206773384Z
         gs: 2017-01-02T03:45:00Z
         es: null
         ssDistance: null
@@ -22670,13 +22670,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T03:59:08.65671035179Z
+        ss: 2017-01-03T03:59:30.248723977726Z
         gs: 2017-01-03T03:45:00Z
         es: 2017-01-03T07:23:24.774131221738Z
         ssDistance: 145.921 km
-        ssElapsed: 3.404477 h
+        ssElapsed: 3.398479 h
         gsElapsed: 3.640215 h
-        ssVelocity: 42.86 km / h
+        ssVelocity: 42.94 km / h
         gsVelocity: 40.09 km / h
       reach:
         extra: 155.521 km
@@ -22865,13 +22865,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T03:50:17.336163312385Z
+        ss: 2017-01-03T03:52:51.321417597233Z
         gs: 2017-01-03T03:45:00Z
         es: 2017-01-03T07:36:36.96682554954Z
         ssDistance: 145.921 km
-        ssElapsed: 3.772120 h
+        ssElapsed: 3.729346 h
         gsElapsed: 3.860269 h
-        ssVelocity: 38.68 km / h
+        ssVelocity: 39.13 km / h
         gsVelocity: 37.80 km / h
       reach:
         extra: 155.521 km
@@ -23762,7 +23762,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-03T04:21:01.733348812748Z
+        ss: 2017-01-03T04:21:19.97349112442Z
         gs: 2017-01-03T04:15:00Z
         es: null
         ssDistance: null
@@ -25205,13 +25205,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:00.74347335729Z
+        ss: 2017-01-04T03:30:41.09096262573Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:15:06.797090021603Z
         ssDistance: 205.902 km
-        ssElapsed: 4.751682 h
+        ssElapsed: 4.740474 h
         gsElapsed: 4.751888 h
-        ssVelocity: 43.33 km / h
+        ssVelocity: 43.43 km / h
         gsVelocity: 43.33 km / h
       reach:
         extra: 215.502 km
@@ -25283,13 +25283,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:00.50692079168Z
+        ss: 2017-01-04T03:30:47.32983370657Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:16:44.71515605616Z
         ssDistance: 205.902 km
-        ssElapsed: 4.778947 h
+        ssElapsed: 4.765940 h
         gsElapsed: 4.779088 h
-        ssVelocity: 43.09 km / h
+        ssVelocity: 43.20 km / h
         gsVelocity: 43.08 km / h
       reach:
         extra: 215.502 km
@@ -25517,13 +25517,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:30:09.642052119469Z
+        ss: 2017-01-04T03:30:49.740433863781Z
         gs: 2017-01-04T03:30:00Z
         es: 2017-01-04T08:34:14.024806122632Z
         ssDistance: 205.902 km
-        ssElapsed: 5.067884 h
+        ssElapsed: 5.056746 h
         gsElapsed: 5.070562 h
-        ssVelocity: 40.63 km / h
+        ssVelocity: 40.72 km / h
         gsVelocity: 40.61 km / h
       reach:
         extra: 215.502 km
@@ -26611,7 +26611,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-04T03:48:00.06165673259Z
+        ss: 2017-01-04T03:48:26.06204269433Z
         gs: 2017-01-04T03:45:00Z
         es: null
         ssDistance: null
@@ -27606,9 +27606,48 @@ scoreDf:
       subtotal: 795.438
       landedMade: 142.468 km
       stoppedAlt: null
+  - - - '30'
+      - Jason Kath
+    - place: '23'
+      total: 792.993
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 182.319
+        arrival: 0
+        time: 428.4
+        reach: 182.319
+        distance: 364.638
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2017-01-05T02:45:22.388361217858Z
+        gs: 2017-01-05T02:45:00Z
+        es: 2017-01-05T05:53:19.451366320986Z
+        ssDistance: 132.868 km
+        ssElapsed: 3.132518 h
+        gsElapsed: 3.138736 h
+        ssVelocity: 42.42 km / h
+        gsVelocity: 42.33 km / h
+      reach:
+        extra: 142.468 km
+        flown: 142.468 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 792.993
+      landedMade: 142.468 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
-    - place: '23'
+    - place: '24'
       total: 790.135
       jump: null
       penalties:
@@ -27625,13 +27664,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:03.71584936897Z
+        ss: 2017-01-05T02:45:27.922225178517Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T05:53:42.839413862131Z
         ssDistance: 132.868 km
-        ssElapsed: 3.144201 h
+        ssElapsed: 3.137477 h
         gsElapsed: 3.145233 h
-        ssVelocity: 42.26 km / h
+        ssVelocity: 42.35 km / h
         gsVelocity: 42.24 km / h
       reach:
         extra: 142.468 km
@@ -27647,7 +27686,7 @@ scoreDf:
       stoppedAlt: null
   - - - '8'
       - Gordon Rigg
-    - place: '24'
+    - place: '25'
       total: 784.853
       jump: null
       penalties:
@@ -27686,7 +27725,7 @@ scoreDf:
       stoppedAlt: null
   - - - '67'
       - Mark Alton
-    - place: '25'
+    - place: '26'
       total: 773.451
       jump: null
       penalties:
@@ -27725,7 +27764,7 @@ scoreDf:
       stoppedAlt: null
   - - - '41'
       - Tony Armstrong
-    - place: '26'
+    - place: '27'
       total: 759.227
       jump: null
       penalties:
@@ -27764,7 +27803,7 @@ scoreDf:
       stoppedAlt: null
   - - - '51'
       - Craig Taylor
-    - place: '27'
+    - place: '28'
       total: 752.69
       jump: null
       penalties:
@@ -27781,13 +27820,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:05.18896641233Z
+        ss: 2017-01-05T02:46:08.43673258607Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T05:59:03.659291999386Z
         ssDistance: 132.868 km
-        ssElapsed: 3.232908 h
+        ssElapsed: 3.215340 h
         gsElapsed: 3.234350 h
-        ssVelocity: 41.10 km / h
+        ssVelocity: 41.32 km / h
         gsVelocity: 41.08 km / h
       reach:
         extra: 142.468 km
@@ -27803,7 +27842,7 @@ scoreDf:
       stoppedAlt: null
   - - - '10'
       - Olav Lien Olsen
-    - place: '28'
+    - place: '29'
       total: 749.626
       jump: null
       penalties:
@@ -27842,7 +27881,7 @@ scoreDf:
       stoppedAlt: null
   - - - '76'
       - Rory Duncan
-    - place: '29'
+    - place: '30'
       total: 712.021
       jump: null
       penalties:
@@ -27877,45 +27916,6 @@ scoreDf:
         resets: []
       penaltyReason: ''
       subtotal: 712.021
-      landedMade: 142.468 km
-      stoppedAlt: null
-  - - - '30'
-      - Jason Kath
-    - place: '30'
-      total: 693.726
-      jump: null
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 182.319
-        arrival: 0
-        time: 329.1
-        reach: 182.319
-        distance: 364.638
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2017-01-05T02:44:59.48819236976Z
-        gs: 2017-01-05T02:30:00Z
-        es: 2017-01-05T05:53:19.451366320986Z
-        ssDistance: 132.868 km
-        ssElapsed: 3.138879 h
-        gsElapsed: 3.388736 h
-        ssVelocity: 42.33 km / h
-        gsVelocity: 39.21 km / h
-      reach:
-        extra: 142.468 km
-        flown: 142.468 km
-      demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 693.726
       landedMade: 142.468 km
       stoppedAlt: null
   - - - '74'
@@ -28132,13 +28132,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:47:45.09573656347Z
+        ss: 2017-01-05T02:48:42.1562370762Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T06:12:04.487382753045Z
         ssDistance: 132.868 km
-        ssElapsed: 3.405387 h
+        ssElapsed: 3.389536 h
         gsElapsed: 3.451246 h
-        ssVelocity: 39.02 km / h
+        ssVelocity: 39.20 km / h
         gsVelocity: 38.50 km / h
       reach:
         extra: 142.468 km
@@ -28444,13 +28444,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:10.451611856965Z
+        ss: 2017-01-05T02:46:18.00079593825Z
         gs: 2017-01-05T02:45:00Z
         es: 2017-01-05T06:42:19.704921330336Z
         ssDistance: 132.868 km
-        ssElapsed: 3.952570 h
+        ssElapsed: 3.933807 h
         gsElapsed: 3.955474 h
-        ssVelocity: 33.62 km / h
+        ssVelocity: 33.78 km / h
         gsVelocity: 33.59 km / h
       reach:
         extra: 142.468 km
@@ -28912,7 +28912,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T02:45:02.473175774105Z
+        ss: 2017-01-05T02:45:24.486550266055Z
         gs: 2017-01-05T02:45:00Z
         es: null
         ssDistance: null
@@ -29068,7 +29068,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-05T03:19:35.423035988782Z
+        ss: 2017-01-05T03:25:01.337013494572Z
         gs: 2017-01-05T03:15:00Z
         es: null
         ssDistance: null
@@ -31096,13 +31096,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:11:47.613518286162Z
+        ss: 2017-01-06T03:13:20.383183634169Z
         gs: 2017-01-06T03:00:00Z
         es: 2017-01-06T07:50:54.301330218675Z
         ssDistance: 216.953 km
-        ssElapsed: 4.651858 h
+        ssElapsed: 4.626088 h
         gsElapsed: 4.848417 h
-        ssVelocity: 46.64 km / h
+        ssVelocity: 46.90 km / h
         gsVelocity: 44.75 km / h
       reach:
         extra: 226.553 km
@@ -31174,13 +31174,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:12:34.334105210664Z
+        ss: 2017-01-06T03:13:14.111600143808Z
         gs: 2017-01-06T03:00:00Z
         es: 2017-01-06T08:15:36.643497932474Z
         ssDistance: 216.953 km
-        ssElapsed: 5.050641 h
+        ssElapsed: 5.039592 h
         gsElapsed: 5.260179 h
-        ssVelocity: 42.96 km / h
+        ssVelocity: 43.05 km / h
         gsVelocity: 41.24 km / h
       reach:
         extra: 226.553 km
@@ -31486,7 +31486,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2017-01-06T03:14:12.622438864436Z
+        ss: 2017-01-06T03:14:33.040824571532Z
         gs: 2017-01-06T03:00:00Z
         es: null
         ssDistance: null
